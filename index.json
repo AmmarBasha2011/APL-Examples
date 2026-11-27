@@ -1,0 +1,722 @@
+[
+  {
+    "number": "01",
+    "name": "calculator",
+    "file": "01-calculator.apl",
+    "summary": "مثال 1 — آلة حاسبة تفاعلية"
+  },
+  {
+    "number": "02",
+    "name": "sales report",
+    "file": "02-sales-report.apl",
+    "summary": "مثال 2 — تقرير مبيعات وتقدير الإجمالي"
+  },
+  {
+    "number": "03",
+    "name": "task manager",
+    "file": "03-task-manager.apl",
+    "summary": "مثال 3 — مدير المهام (Lists + Dictionary + Search)"
+  },
+  {
+    "number": "04",
+    "name": "text analyzer",
+    "file": "04-text-analyzer.apl",
+    "summary": "مثال 4 — تحليل نص ومطابقة الأنماط"
+  },
+  {
+    "number": "05",
+    "name": "report writer",
+    "file": "05-report-writer.apl",
+    "summary": "مثال 5 — كاتب التقارير"
+  },
+  {
+    "number": "06",
+    "name": "search sort",
+    "file": "06-search-sort.apl",
+    "summary": "مثال 6 — خوارزميات البحث والترتيب"
+  },
+  {
+    "number": "07",
+    "name": "sqlite tasks",
+    "file": "07-sqlite-tasks.apl",
+    "summary": "مثال 7 — قاعدة بيانات المهام (SQLite)"
+  },
+  {
+    "number": "08",
+    "name": "word frequency",
+    "file": "08-word-frequency.apl",
+    "summary": "مثال 8 — عدّاد الكلمات الم unique مع itertools"
+  },
+  {
+    "number": "09",
+    "name": "encoding hashing",
+    "file": "09-encoding-hashing.apl",
+    "summary": "مثال 9 — تشفير وفك تشفير البيانات (base64 + hashlib)"
+  },
+  {
+    "number": "10",
+    "name": "file manager",
+    "file": "10-file-manager.apl",
+    "summary": "مثال 10 — مدير الملفات والمجلدات"
+  },
+  {
+    "number": "100",
+    "name": "telegram",
+    "file": "100-telegram.apl",
+    "summary": "100 · بوتات تيليجرام — telegram"
+  },
+  {
+    "number": "1000",
+    "name": "convolution",
+    "file": "1000-convolution.apl",
+    "summary": "مثال 1000 — الالتفاف"
+  },
+  {
+    "number": "1001",
+    "name": "ugly numbers",
+    "file": "1001-ugly-numbers.apl",
+    "summary": "مثال 1001 — الأعداد القبيحة"
+  },
+  {
+    "number": "1002",
+    "name": "container water",
+    "file": "1002-container-water.apl",
+    "summary": "مثال 1002 — أكبر حاوية ماء"
+  },
+  {
+    "number": "1003",
+    "name": "move zeroes",
+    "file": "1003-move-zeroes.apl",
+    "summary": "مثال 1003 — نقل الأصفار"
+  },
+  {
+    "number": "1004",
+    "name": "missing number",
+    "file": "1004-missing-number.apl",
+    "summary": "مثال 1004 — الرقم المفقود"
+  },
+  {
+    "number": "1005",
+    "name": "single number xor",
+    "file": "1005-single-number-xor.apl",
+    "summary": "مثال 1005 — العدد الوحيد"
+  },
+  {
+    "number": "1006",
+    "name": "plus one",
+    "file": "1006-plus-one.apl",
+    "summary": "مثال 1006 — زائد واحد"
+  },
+  {
+    "number": "1007",
+    "name": "merge sorted arrays",
+    "file": "1007-merge-sorted-arrays.apl",
+    "summary": "مثال 1007 — دمج قائمتين مرتبتين"
+  },
+  {
+    "number": "1008",
+    "name": "first unique char",
+    "file": "1008-first-unique-char.apl",
+    "summary": "مثال 1008 — أول حرف غير مكرر"
+  },
+  {
+    "number": "1009",
+    "name": "isomorphic strings",
+    "file": "1009-isomorphic-strings.apl",
+    "summary": "مثال 1009 — نصان متماثلان بنيوياً"
+  },
+  {
+    "number": "101",
+    "name": "redis",
+    "file": "101-redis.apl",
+    "summary": "101 · تخزين ريديس — redis"
+  },
+  {
+    "number": "1010",
+    "name": "ransom note",
+    "file": "1010-ransom-note.apl",
+    "summary": "مثال 1010 — رسالة الفدية"
+  },
+  {
+    "number": "1011",
+    "name": "best time stock",
+    "file": "1011-best-time-stock.apl",
+    "summary": "مثال 1011 — أفضل وقت للبيع"
+  },
+  {
+    "number": "1012",
+    "name": "jump game",
+    "file": "1012-jump-game.apl",
+    "summary": "مثال 1012 — لعبة القفز"
+  },
+  {
+    "number": "1013",
+    "name": "gas station",
+    "file": "1013-gas-station.apl",
+    "summary": "مثال 1013 — محطة الوقود"
+  },
+  {
+    "number": "1014",
+    "name": "candy distribution",
+    "file": "1014-candy-distribution.apl",
+    "summary": "مثال 1014 — توزيع الحلوى"
+  },
+  {
+    "number": "1015",
+    "name": "partition labels",
+    "file": "1015-partition-labels.apl",
+    "summary": "مثال 1015 — تقسيم الحروف"
+  },
+  {
+    "number": "1016",
+    "name": "daily temperatures",
+    "file": "1016-daily-temperatures.apl",
+    "summary": "مثال 1016 — درجات الحرارة اليومية"
+  },
+  {
+    "number": "1017",
+    "name": "asteroid collision",
+    "file": "1017-asteroid-collision.apl",
+    "summary": "مثال 1017 — تصادم الكويكبات"
+  },
+  {
+    "number": "1018",
+    "name": "decode ways",
+    "file": "1018-decode-ways.apl",
+    "summary": "مثال 1018 — طرق فك الترميز"
+  },
+  {
+    "number": "1019",
+    "name": "unique paths",
+    "file": "1019-unique-paths.apl",
+    "summary": "مثال 1019 — المسارات الفريدة"
+  },
+  {
+    "number": "102",
+    "name": "celery",
+    "file": "102-celery.apl",
+    "summary": "102 · طوابير المهام — celery"
+  },
+  {
+    "number": "1020",
+    "name": "min path sum",
+    "file": "1020-min-path-sum.apl",
+    "summary": "مثال 1020 — أقل مجموع مسار"
+  },
+  {
+    "number": "1021",
+    "name": "max product subarray",
+    "file": "1021-max-product-subarray.apl",
+    "summary": "مثال 1021 — أكبر حاصل ضرب لمصفوفة جزئية"
+  },
+  {
+    "number": "1022",
+    "name": "house robber circular",
+    "file": "1022-house-robber-circular.apl",
+    "summary": "مثال 1022 — اللص والبيوت الدائرية"
+  },
+  {
+    "number": "1023",
+    "name": "bin packing ffd",
+    "file": "1023-bin-packing-ffd.apl",
+    "summary": "مثال 1023 — تعبئة الصناديق"
+  },
+  {
+    "number": "1024",
+    "name": "pythagorean triples",
+    "file": "1024-pythagorean-triples.apl",
+    "summary": "مثال 1024 — الثلاثيات الفيثاغورية"
+  },
+  {
+    "number": "1025",
+    "name": "binary gap",
+    "file": "1025-binary-gap.apl",
+    "summary": "مثال 1025 — الفجوة الثنائية"
+  },
+  {
+    "number": "1026",
+    "name": "min add parens",
+    "file": "1026-min-add-parens.apl",
+    "summary": "مثال 1026 — أقل أقواس للإضافة"
+  },
+  {
+    "number": "1027",
+    "name": "longest valid parens",
+    "file": "1027-longest-valid-parens.apl",
+    "summary": "مثال 1027 — أطول أقواس صحيحة"
+  },
+  {
+    "number": "1028",
+    "name": "longest consecutive",
+    "file": "1028-longest-consecutive.apl",
+    "summary": "مثال 1028 — أطول متتالية"
+  },
+  {
+    "number": "1029",
+    "name": "subarray sum k",
+    "file": "1029-subarray-sum-k.apl",
+    "summary": "مثال 1029 — مجموع مصفوفة جزئية"
+  },
+  {
+    "number": "103",
+    "name": "gcd lcm",
+    "file": "103-gcd-lcm.apl",
+    "summary": "مثال 103 — القاسم المشترك والمضاعف المشترك ونظرية الأعداد"
+  },
+  {
+    "number": "1030",
+    "name": "longest no repeat",
+    "file": "1030-longest-no-repeat.apl",
+    "summary": "مثال 1030 — أطول نص بلا تكرار"
+  },
+  {
+    "number": "1031",
+    "name": "min size subarray",
+    "file": "1031-min-size-subarray.apl",
+    "summary": "مثال 1031 — أقصر جزء بمجموع كاف"
+  },
+  {
+    "number": "1032",
+    "name": "rotate string",
+    "file": "1032-rotate-string.apl",
+    "summary": "مثال 1032 — تدوير النص"
+  },
+  {
+    "number": "1033",
+    "name": "reverse words spaces",
+    "file": "1033-reverse-words-spaces.apl",
+    "summary": "مثال 1033 — عكس الكلمات"
+  },
+  {
+    "number": "1034",
+    "name": "valid mountain",
+    "file": "1034-valid-mountain.apl",
+    "summary": "مثال 1034 — مصفوفة جبل"
+  },
+  {
+    "number": "1035",
+    "name": "sorted squares",
+    "file": "1035-sorted-squares.apl",
+    "summary": "مثال 1035 — مربعات مرتبة"
+  },
+  {
+    "number": "1036",
+    "name": "sorted intersection",
+    "file": "1036-sorted-intersection.apl",
+    "summary": "مثال 1036 — تقاطع قائمتين مرتبتين"
+  },
+  {
+    "number": "1037",
+    "name": "duplicate within k",
+    "file": "1037-duplicate-within-k.apl",
+    "summary": "مثال 1037 — تكرار قريب"
+  },
+  {
+    "number": "1038",
+    "name": "remove element",
+    "file": "1038-remove-element.apl",
+    "summary": "مثال 1038 — حذف قيمة من القائمة"
+  },
+  {
+    "number": "1039",
+    "name": "search rotated",
+    "file": "1039-search-rotated.apl",
+    "summary": "مثال 1039 — بحث في مصفوفة مدورة"
+  },
+  {
+    "number": "1040",
+    "name": "find peak",
+    "file": "1040-find-peak.apl",
+    "summary": "مثال 1040 — إيجاد قمة"
+  },
+  {
+    "number": "1041",
+    "name": "first last position",
+    "file": "1041-first-last-position.apl",
+    "summary": "مثال 1041 — أول وآخر موضع"
+  },
+  {
+    "number": "1042",
+    "name": "integer sqrt",
+    "file": "1042-integer-sqrt.apl",
+    "summary": "مثال 1042 — الجذر الصحيح"
+  },
+  {
+    "number": "1043",
+    "name": "power of three",
+    "file": "1043-power-of-three.apl",
+    "summary": "مثال 1043 — قوة العدد ثلاثة"
+  },
+  {
+    "number": "1044",
+    "name": "add binary",
+    "file": "1044-add-binary.apl",
+    "summary": "مثال 1044 — جمع ثنائي"
+  },
+  {
+    "number": "1045",
+    "name": "multiply strings",
+    "file": "1045-multiply-strings.apl",
+    "summary": "مثال 1045 — ضرب أعداد نصية"
+  },
+  {
+    "number": "1046",
+    "name": "string compress",
+    "file": "1046-string-compress.apl",
+    "summary": "مثال 1046 — ضغط النص"
+  },
+  {
+    "number": "1047",
+    "name": "length last word",
+    "file": "1047-length-last-word.apl",
+    "summary": "مثال 1047 — طول آخر كلمة"
+  },
+  {
+    "number": "1048",
+    "name": "count bits table",
+    "file": "1048-count-bits-table.apl",
+    "summary": "مثال 1048 — جدول عدد البتات"
+  },
+  {
+    "number": "1049",
+    "name": "first missing positive",
+    "file": "1049-first-missing-positive.apl",
+    "summary": "مثال 1049 — أول موجب مفقود"
+  },
+  {
+    "number": "105",
+    "name": "log exp",
+    "file": "105-log-exp.apl",
+    "summary": "مثال 105 — اللوغاريتمات والأسس والجذور"
+  },
+  {
+    "number": "1050",
+    "name": "h index",
+    "file": "1050-h-index.apl",
+    "summary": "مثال 1050 — مؤشر هـ"
+  },
+  {
+    "number": "1051",
+    "name": "set matrix zeroes",
+    "file": "1051-set-matrix-zeroes.apl",
+    "summary": "مثال 1051 — تصفير المصفوفة"
+  },
+  {
+    "number": "1052",
+    "name": "remove dup twice",
+    "file": "1052-remove-dup-twice.apl",
+    "summary": "مثال 1052 — حذف التكرار الزائد"
+  },
+  {
+    "number": "1053",
+    "name": "pascal row",
+    "file": "1053-pascal-row.apl",
+    "summary": "مثال 1053 — صف من مثلث باسكال"
+  },
+  {
+    "number": "1054",
+    "name": "word pattern",
+    "file": "1054-word-pattern.apl",
+    "summary": "مثال 1054 — نمط الكلمات"
+  },
+  {
+    "number": "1055",
+    "name": "reverse vowels",
+    "file": "1055-reverse-vowels.apl",
+    "summary": "مثال 1055 — عكس الحروف المتحركة"
+  },
+  {
+    "number": "1056",
+    "name": "find substring",
+    "file": "1056-find-substring.apl",
+    "summary": "مثال 1056 — إيجاد النص الجزئي"
+  },
+  {
+    "number": "1057",
+    "name": "contiguous array",
+    "file": "1057-contiguous-array.apl",
+    "summary": "مثال 1057 — مصفوفة متوازنة"
+  },
+  {
+    "number": "1058",
+    "name": "coin change ways",
+    "file": "1058-coin-change-ways.apl",
+    "summary": "مثال 1058 — طرق تجميع العملات"
+  },
+  {
+    "number": "1059",
+    "name": "perfect squares dp",
+    "file": "1059-perfect-squares-dp.apl",
+    "summary": "مثال 1059 — أقل مربعات كاملة"
+  },
+  {
+    "number": "106",
+    "name": "rounding",
+    "file": "106-rounding.apl",
+    "summary": "مثال 106 — التقريب بكل أنواعه"
+  },
+  {
+    "number": "1060",
+    "name": "target sum ways",
+    "file": "1060-target-sum-ways.apl",
+    "summary": "مثال 1060 — طرق المجموع المستهدف"
+  },
+  {
+    "number": "1061",
+    "name": "min cuts palindrome",
+    "file": "1061-min-cuts-palindrome.apl",
+    "summary": "مثال 1061 — أقل قطع للتناظر"
+  },
+  {
+    "number": "1062",
+    "name": "longest palindromic subseq",
+    "file": "1062-longest-palindromic-subseq.apl",
+    "summary": "مثال 1062 — أطول تتابع متناظر"
+  },
+  {
+    "number": "1063",
+    "name": "interleaving string",
+    "file": "1063-interleaving-string.apl",
+    "summary": "مثال 1063 — نص متشابك"
+  },
+  {
+    "number": "1064",
+    "name": "falling path sum",
+    "file": "1064-falling-path-sum.apl",
+    "summary": "مثال 1064 — مسار السقوط"
+  },
+  {
+    "number": "1065",
+    "name": "triangle min path",
+    "file": "1065-triangle-min-path.apl",
+    "summary": "مثال 1065 — أقل مسار في المثلث"
+  },
+  {
+    "number": "1066",
+    "name": "maximal square",
+    "file": "1066-maximal-square.apl",
+    "summary": "مثال 1066 — أكبر مربع"
+  },
+  {
+    "number": "1067",
+    "name": "stock cooldown",
+    "file": "1067-stock-cooldown.apl",
+    "summary": "مثال 1067 — الأسهم مع فترة انتظار"
+  },
+  {
+    "number": "1068",
+    "name": "stock two transactions",
+    "file": "1068-stock-two-transactions.apl",
+    "summary": "مثال 1068 — الأسهم بصفقتين"
+  },
+  {
+    "number": "1069",
+    "name": "longest palindrome build",
+    "file": "1069-longest-palindrome-build.apl",
+    "summary": "مثال 1069 — أطول نص متناظر ممكن"
+  },
+  {
+    "number": "107",
+    "name": "special funcs",
+    "file": "107-special-funcs.apl",
+    "summary": "مثال 107 — الدوال الخاصة: جاما ودالة الخطأ"
+  },
+  {
+    "number": "1070",
+    "name": "ones with flips",
+    "file": "1070-ones-with-flips.apl",
+    "summary": "مثال 1070 — آحاد متتالية مع قلب"
+  },
+  {
+    "number": "1071",
+    "name": "anagram indices",
+    "file": "1071-anagram-indices.apl",
+    "summary": "مثال 1071 — مواضع الجناسات"
+  },
+  {
+    "number": "1072",
+    "name": "shortest unsorted",
+    "file": "1072-shortest-unsorted.apl",
+    "summary": "مثال 1072 — أقصر جزء غير مرتب"
+  },
+  {
+    "number": "1073",
+    "name": "next permutation",
+    "file": "1073-next-permutation.apl",
+    "summary": "مثال 1073 — التبديل التالي"
+  },
+  {
+    "number": "1074",
+    "name": "pivot index",
+    "file": "1074-pivot-index.apl",
+    "summary": "مثال 1074 — فهرس المحور"
+  },
+  {
+    "number": "1075",
+    "name": "valid triangle count",
+    "file": "1075-valid-triangle-count.apl",
+    "summary": "مثال 1075 — عدد المثلثات الصالحة"
+  },
+  {
+    "number": "1076",
+    "name": "digit product minus sum",
+    "file": "1076-digit-product-minus-sum.apl",
+    "summary": "مثال 1076 — الفرق بين ضرب وجمع الخانات"
+  },
+  {
+    "number": "1077",
+    "name": "reverse integer",
+    "file": "1077-reverse-integer.apl",
+    "summary": "مثال 1077 — عكس عدد صحيح"
+  },
+  {
+    "number": "1078",
+    "name": "add without plus",
+    "file": "1078-add-without-plus.apl",
+    "summary": "مثال 1078 — جمع بلا علامة الجمع"
+  },
+  {
+    "number": "1079",
+    "name": "number complement",
+    "file": "1079-number-complement.apl",
+    "summary": "مثال 1079 — متمم العدد"
+  },
+  {
+    "number": "108",
+    "name": "decimal money",
+    "file": "108-decimal-money.apl",
+    "summary": "مثال 108 — حساب الأموال بدقة بلا أخطاء عشرية"
+  },
+  {
+    "number": "1080",
+    "name": "nth digit",
+    "file": "1080-nth-digit.apl",
+    "summary": "مثال 1080 — الخانة رقم ن"
+  },
+  {
+    "number": "1081",
+    "name": "self dividing",
+    "file": "1081-self-dividing.apl",
+    "summary": "مثال 1081 — الأعداد القابلة للقسمة على خاناتها"
+  },
+  {
+    "number": "1082",
+    "name": "to base k",
+    "file": "1082-to-base-k.apl",
+    "summary": "مثال 1082 — التحويل لأي أساس"
+  },
+  {
+    "number": "1083",
+    "name": "excel title number",
+    "file": "1083-excel-title-number.apl",
+    "summary": "مثال 1083 — رقم عمود إكسل"
+  },
+  {
+    "number": "1084",
+    "name": "bulb switcher",
+    "file": "1084-bulb-switcher.apl",
+    "summary": "مثال 1084 — مفاتيح المصابيح"
+  },
+  {
+    "number": "1085",
+    "name": "water jug",
+    "file": "1085-water-jug.apl",
+    "summary": "مثال 1085 — لغز إبريقي الماء"
+  },
+  {
+    "number": "1086",
+    "name": "valid perfect square",
+    "file": "1086-valid-perfect-square.apl",
+    "summary": "مثال 1086 — مربع كامل"
+  },
+  {
+    "number": "1087",
+    "name": "arranging coins",
+    "file": "1087-arranging-coins.apl",
+    "summary": "مثال 1087 — ترتيب العملات"
+  },
+  {
+    "number": "1088",
+    "name": "detect capital",
+    "file": "1088-detect-capital.apl",
+    "summary": "مثال 1088 — استخدام الأحرف الكبيرة"
+  },
+  {
+    "number": "1089",
+    "name": "repeated substring",
+    "file": "1089-repeated-substring.apl",
+    "summary": "مثال 1089 — نمط جزئي مكرر"
+  },
+  {
+    "number": "109",
+    "name": "fractions ops",
+    "file": "109-fractions-ops.apl",
+    "summary": "مثال 109 — الكسور الدقيقة والعمليات عليها"
+  },
+  {
+    "number": "1090",
+    "name": "license key format",
+    "file": "1090-license-key-format.apl",
+    "summary": "مثال 1090 — تنسيق مفتاح الترخيص"
+  },
+  {
+    "number": "1091",
+    "name": "to lower manual",
+    "file": "1091-to-lower-manual.apl",
+    "summary": "مثال 1091 — التحويل للأحرف الصغيرة"
+  },
+  {
+    "number": "1092",
+    "name": "unique emails",
+    "file": "1092-unique-emails.apl",
+    "summary": "مثال 1092 — عناوين البريد الفريدة"
+  },
+  {
+    "number": "1093",
+    "name": "goat latin",
+    "file": "1093-goat-latin.apl",
+    "summary": "مثال 1093 — لغة الماعز"
+  },
+  {
+    "number": "1094",
+    "name": "defang ip",
+    "file": "1094-defang-ip.apl",
+    "summary": "مثال 1094 — تعطيل عنوان IP"
+  },
+  {
+    "number": "1095",
+    "name": "route circle",
+    "file": "1095-route-circle.apl",
+    "summary": "مثال 1095 — هل يعود الروبوت"
+  },
+  {
+    "number": "1096",
+    "name": "baseball game",
+    "file": "1096-baseball-game.apl",
+    "summary": "مثال 1096 — لعبة البيسبول"
+  },
+  {
+    "number": "1097",
+    "name": "can place flowers",
+    "file": "1097-can-place-flowers.apl",
+    "summary": "مثال 1097 — زراعة الزهور"
+  },
+  {
+    "number": "1098",
+    "name": "lemonade change",
+    "file": "1098-lemonade-change.apl",
+    "summary": "مثال 1098 — الباقي في كشك الليمونادة"
+  },
+  {
+    "number": "1099",
+    "name": "height checker",
+    "file": "1099-height-checker.apl",
+    "summary": "مثال 1099 — فاحص الأطوال"
+  },
+  {
+    "number": "11",
+    "name": "fibonacci",
+    "file": "11-fibonacci.apl",
+    "summary": "دالة فيب(ن):"
+  }
+]
