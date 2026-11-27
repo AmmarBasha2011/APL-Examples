@@ -24628,5 +24628,5375 @@
     "name": "join first 40 chars with dots",
     "file": "4449-join-first-40-chars-with-dots.apl",
     "summary": "مثال 4449 — ربط أول 40 أحرف بنقاط"
+  },
+  {
+    "number": "4450",
+    "name": "pipeline even square sum",
+    "file": "4450-pipeline-even-square-sum.apl",
+    "summary": "مثال 4450 — مجموع نتيجة مربعها للأعداد الزوجية"
+  },
+  {
+    "number": "4451",
+    "name": "pipeline even square count",
+    "file": "4451-pipeline-even-square-count.apl",
+    "summary": "مثال 4451 — عدد نتيجة مربعها للأعداد الزوجية"
+  },
+  {
+    "number": "4452",
+    "name": "pipeline even square max",
+    "file": "4452-pipeline-even-square-max.apl",
+    "summary": "مثال 4452 — أكبر نتيجة مربعها للأعداد الزوجية"
+  },
+  {
+    "number": "4453",
+    "name": "pipeline even square min",
+    "file": "4453-pipeline-even-square-min.apl",
+    "summary": "مثال 4453 — أصغر نتيجة مربعها للأعداد الزوجية"
+  },
+  {
+    "number": "4454",
+    "name": "pipeline even square sorted",
+    "file": "4454-pipeline-even-square-sorted.apl",
+    "summary": "مثال 4454 — ترتيب نتيجة مربعها للأعداد الزوجية"
+  },
+  {
+    "number": "4455",
+    "name": "pipeline even square last",
+    "file": "4455-pipeline-even-square-last.apl",
+    "summary": "مثال 4455 — آخر نتيجة مربعها للأعداد الزوجية"
+  },
+  {
+    "number": "4456",
+    "name": "pipeline even double max",
+    "file": "4456-pipeline-even-double-max.apl",
+    "summary": "مثال 4456 — أكبر نتيجة ضعفها للأعداد الزوجية"
+  },
+  {
+    "number": "4457",
+    "name": "pipeline even double last",
+    "file": "4457-pipeline-even-double-last.apl",
+    "summary": "مثال 4457 — آخر نتيجة ضعفها للأعداد الزوجية"
+  },
+  {
+    "number": "4458",
+    "name": "pipeline even plus7 count",
+    "file": "4458-pipeline-even-plus7-count.apl",
+    "summary": "مثال 4458 — عدد نتيجة زائد 7 للأعداد الزوجية"
+  },
+  {
+    "number": "4459",
+    "name": "pipeline even plus7 sorted",
+    "file": "4459-pipeline-even-plus7-sorted.apl",
+    "summary": "مثال 4459 — ترتيب نتيجة زائد 7 للأعداد الزوجية"
+  },
+  {
+    "number": "4460",
+    "name": "pipeline even half sum",
+    "file": "4460-pipeline-even-half-sum.apl",
+    "summary": "مثال 4460 — مجموع نتيجة نصفها بالقسمة الصحيحة للأعداد الزوجية"
+  },
+  {
+    "number": "4461",
+    "name": "pipeline even half min",
+    "file": "4461-pipeline-even-half-min.apl",
+    "summary": "مثال 4461 — أصغر نتيجة نصفها بالقسمة الصحيحة للأعداد الزوجية"
+  },
+  {
+    "number": "4462",
+    "name": "pipeline even negate max",
+    "file": "4462-pipeline-even-negate-max.apl",
+    "summary": "مثال 4462 — أكبر نتيجة سالبها للأعداد الزوجية"
+  },
+  {
+    "number": "4463",
+    "name": "pipeline even negate last",
+    "file": "4463-pipeline-even-negate-last.apl",
+    "summary": "مثال 4463 — آخر نتيجة سالبها للأعداد الزوجية"
+  },
+  {
+    "number": "4464",
+    "name": "pipeline even cube sum",
+    "file": "4464-pipeline-even-cube-sum.apl",
+    "summary": "مثال 4464 — مجموع نتيجة مكعبها للأعداد الزوجية"
+  },
+  {
+    "number": "4465",
+    "name": "pipeline even cube count",
+    "file": "4465-pipeline-even-cube-count.apl",
+    "summary": "مثال 4465 — عدد نتيجة مكعبها للأعداد الزوجية"
+  },
+  {
+    "number": "4466",
+    "name": "pipeline even cube max",
+    "file": "4466-pipeline-even-cube-max.apl",
+    "summary": "مثال 4466 — أكبر نتيجة مكعبها للأعداد الزوجية"
+  },
+  {
+    "number": "4467",
+    "name": "pipeline even cube min",
+    "file": "4467-pipeline-even-cube-min.apl",
+    "summary": "مثال 4467 — أصغر نتيجة مكعبها للأعداد الزوجية"
+  },
+  {
+    "number": "4468",
+    "name": "pipeline even cube sorted",
+    "file": "4468-pipeline-even-cube-sorted.apl",
+    "summary": "مثال 4468 — ترتيب نتيجة مكعبها للأعداد الزوجية"
+  },
+  {
+    "number": "4469",
+    "name": "pipeline even cube last",
+    "file": "4469-pipeline-even-cube-last.apl",
+    "summary": "مثال 4469 — آخر نتيجة مكعبها للأعداد الزوجية"
+  },
+  {
+    "number": "4470",
+    "name": "pipeline even mod10 sum",
+    "file": "4470-pipeline-even-mod10-sum.apl",
+    "summary": "مثال 4470 — مجموع نتيجة باقي قسمتها على 10 للأعداد الزوجية"
+  },
+  {
+    "number": "4471",
+    "name": "pipeline even mod10 min",
+    "file": "4471-pipeline-even-mod10-min.apl",
+    "summary": "مثال 4471 — أصغر نتيجة باقي قسمتها على 10 للأعداد الزوجية"
+  },
+  {
+    "number": "4472",
+    "name": "pipeline even minus3 max",
+    "file": "4472-pipeline-even-minus3-max.apl",
+    "summary": "مثال 4472 — أكبر نتيجة ناقص 3 للأعداد الزوجية"
+  },
+  {
+    "number": "4473",
+    "name": "pipeline even minus3 last",
+    "file": "4473-pipeline-even-minus3-last.apl",
+    "summary": "مثال 4473 — آخر نتيجة ناقص 3 للأعداد الزوجية"
+  },
+  {
+    "number": "4474",
+    "name": "pipeline odd square max",
+    "file": "4474-pipeline-odd-square-max.apl",
+    "summary": "مثال 4474 — أكبر نتيجة مربعها للأعداد الفردية"
+  },
+  {
+    "number": "4475",
+    "name": "pipeline odd square last",
+    "file": "4475-pipeline-odd-square-last.apl",
+    "summary": "مثال 4475 — آخر نتيجة مربعها للأعداد الفردية"
+  },
+  {
+    "number": "4476",
+    "name": "pipeline odd double count",
+    "file": "4476-pipeline-odd-double-count.apl",
+    "summary": "مثال 4476 — عدد نتيجة ضعفها للأعداد الفردية"
+  },
+  {
+    "number": "4477",
+    "name": "pipeline odd double sorted",
+    "file": "4477-pipeline-odd-double-sorted.apl",
+    "summary": "مثال 4477 — ترتيب نتيجة ضعفها للأعداد الفردية"
+  },
+  {
+    "number": "4478",
+    "name": "pipeline odd plus7 sum",
+    "file": "4478-pipeline-odd-plus7-sum.apl",
+    "summary": "مثال 4478 — مجموع نتيجة زائد 7 للأعداد الفردية"
+  },
+  {
+    "number": "4479",
+    "name": "pipeline odd plus7 min",
+    "file": "4479-pipeline-odd-plus7-min.apl",
+    "summary": "مثال 4479 — أصغر نتيجة زائد 7 للأعداد الفردية"
+  },
+  {
+    "number": "4480",
+    "name": "pipeline odd half sum",
+    "file": "4480-pipeline-odd-half-sum.apl",
+    "summary": "مثال 4480 — مجموع نتيجة نصفها بالقسمة الصحيحة للأعداد الفردية"
+  },
+  {
+    "number": "4481",
+    "name": "pipeline odd half count",
+    "file": "4481-pipeline-odd-half-count.apl",
+    "summary": "مثال 4481 — عدد نتيجة نصفها بالقسمة الصحيحة للأعداد الفردية"
+  },
+  {
+    "number": "4482",
+    "name": "pipeline odd half max",
+    "file": "4482-pipeline-odd-half-max.apl",
+    "summary": "مثال 4482 — أكبر نتيجة نصفها بالقسمة الصحيحة للأعداد الفردية"
+  },
+  {
+    "number": "4483",
+    "name": "pipeline odd half min",
+    "file": "4483-pipeline-odd-half-min.apl",
+    "summary": "مثال 4483 — أصغر نتيجة نصفها بالقسمة الصحيحة للأعداد الفردية"
+  },
+  {
+    "number": "4484",
+    "name": "pipeline odd half sorted",
+    "file": "4484-pipeline-odd-half-sorted.apl",
+    "summary": "مثال 4484 — ترتيب نتيجة نصفها بالقسمة الصحيحة للأعداد الفردية"
+  },
+  {
+    "number": "4485",
+    "name": "pipeline odd half last",
+    "file": "4485-pipeline-odd-half-last.apl",
+    "summary": "مثال 4485 — آخر نتيجة نصفها بالقسمة الصحيحة للأعداد الفردية"
+  },
+  {
+    "number": "4486",
+    "name": "pipeline odd negate count",
+    "file": "4486-pipeline-odd-negate-count.apl",
+    "summary": "مثال 4486 — عدد نتيجة سالبها للأعداد الفردية"
+  },
+  {
+    "number": "4487",
+    "name": "pipeline odd negate sorted",
+    "file": "4487-pipeline-odd-negate-sorted.apl",
+    "summary": "مثال 4487 — ترتيب نتيجة سالبها للأعداد الفردية"
+  },
+  {
+    "number": "4488",
+    "name": "pipeline odd cube sum",
+    "file": "4488-pipeline-odd-cube-sum.apl",
+    "summary": "مثال 4488 — مجموع نتيجة مكعبها للأعداد الفردية"
+  },
+  {
+    "number": "4489",
+    "name": "pipeline odd cube min",
+    "file": "4489-pipeline-odd-cube-min.apl",
+    "summary": "مثال 4489 — أصغر نتيجة مكعبها للأعداد الفردية"
+  },
+  {
+    "number": "4490",
+    "name": "pipeline odd mod10 max",
+    "file": "4490-pipeline-odd-mod10-max.apl",
+    "summary": "مثال 4490 — أكبر نتيجة باقي قسمتها على 10 للأعداد الفردية"
+  },
+  {
+    "number": "4491",
+    "name": "pipeline odd mod10 last",
+    "file": "4491-pipeline-odd-mod10-last.apl",
+    "summary": "مثال 4491 — آخر نتيجة باقي قسمتها على 10 للأعداد الفردية"
+  },
+  {
+    "number": "4492",
+    "name": "pipeline odd minus3 count",
+    "file": "4492-pipeline-odd-minus3-count.apl",
+    "summary": "مثال 4492 — عدد نتيجة ناقص 3 للأعداد الفردية"
+  },
+  {
+    "number": "4493",
+    "name": "pipeline odd minus3 sorted",
+    "file": "4493-pipeline-odd-minus3-sorted.apl",
+    "summary": "مثال 4493 — ترتيب نتيجة ناقص 3 للأعداد الفردية"
+  },
+  {
+    "number": "4494",
+    "name": "pipeline positive square count",
+    "file": "4494-pipeline-positive-square-count.apl",
+    "summary": "مثال 4494 — عدد نتيجة مربعها للأعداد الموجبة"
+  },
+  {
+    "number": "4495",
+    "name": "pipeline positive square sorted",
+    "file": "4495-pipeline-positive-square-sorted.apl",
+    "summary": "مثال 4495 — ترتيب نتيجة مربعها للأعداد الموجبة"
+  },
+  {
+    "number": "4496",
+    "name": "pipeline positive double sum",
+    "file": "4496-pipeline-positive-double-sum.apl",
+    "summary": "مثال 4496 — مجموع نتيجة ضعفها للأعداد الموجبة"
+  },
+  {
+    "number": "4497",
+    "name": "pipeline positive double count",
+    "file": "4497-pipeline-positive-double-count.apl",
+    "summary": "مثال 4497 — عدد نتيجة ضعفها للأعداد الموجبة"
+  },
+  {
+    "number": "4498",
+    "name": "pipeline positive double max",
+    "file": "4498-pipeline-positive-double-max.apl",
+    "summary": "مثال 4498 — أكبر نتيجة ضعفها للأعداد الموجبة"
+  },
+  {
+    "number": "4499",
+    "name": "pipeline positive double min",
+    "file": "4499-pipeline-positive-double-min.apl",
+    "summary": "مثال 4499 — أصغر نتيجة ضعفها للأعداد الموجبة"
+  },
+  {
+    "number": "4500",
+    "name": "pipeline positive double sorted",
+    "file": "4500-pipeline-positive-double-sorted.apl",
+    "summary": "مثال 4500 — ترتيب نتيجة ضعفها للأعداد الموجبة"
+  },
+  {
+    "number": "4501",
+    "name": "pipeline positive double last",
+    "file": "4501-pipeline-positive-double-last.apl",
+    "summary": "مثال 4501 — آخر نتيجة ضعفها للأعداد الموجبة"
+  },
+  {
+    "number": "4502",
+    "name": "pipeline positive plus7 max",
+    "file": "4502-pipeline-positive-plus7-max.apl",
+    "summary": "مثال 4502 — أكبر نتيجة زائد 7 للأعداد الموجبة"
+  },
+  {
+    "number": "4503",
+    "name": "pipeline positive plus7 last",
+    "file": "4503-pipeline-positive-plus7-last.apl",
+    "summary": "مثال 4503 — آخر نتيجة زائد 7 للأعداد الموجبة"
+  },
+  {
+    "number": "4504",
+    "name": "pipeline positive half count",
+    "file": "4504-pipeline-positive-half-count.apl",
+    "summary": "مثال 4504 — عدد نتيجة نصفها بالقسمة الصحيحة للأعداد الموجبة"
+  },
+  {
+    "number": "4505",
+    "name": "pipeline positive half sorted",
+    "file": "4505-pipeline-positive-half-sorted.apl",
+    "summary": "مثال 4505 — ترتيب نتيجة نصفها بالقسمة الصحيحة للأعداد الموجبة"
+  },
+  {
+    "number": "4506",
+    "name": "pipeline positive negate sum",
+    "file": "4506-pipeline-positive-negate-sum.apl",
+    "summary": "مثال 4506 — مجموع نتيجة سالبها للأعداد الموجبة"
+  },
+  {
+    "number": "4507",
+    "name": "pipeline positive negate min",
+    "file": "4507-pipeline-positive-negate-min.apl",
+    "summary": "مثال 4507 — أصغر نتيجة سالبها للأعداد الموجبة"
+  },
+  {
+    "number": "4508",
+    "name": "pipeline positive cube max",
+    "file": "4508-pipeline-positive-cube-max.apl",
+    "summary": "مثال 4508 — أكبر نتيجة مكعبها للأعداد الموجبة"
+  },
+  {
+    "number": "4509",
+    "name": "pipeline positive cube last",
+    "file": "4509-pipeline-positive-cube-last.apl",
+    "summary": "مثال 4509 — آخر نتيجة مكعبها للأعداد الموجبة"
+  },
+  {
+    "number": "4510",
+    "name": "pipeline positive mod10 sum",
+    "file": "4510-pipeline-positive-mod10-sum.apl",
+    "summary": "مثال 4510 — مجموع نتيجة باقي قسمتها على 10 للأعداد الموجبة"
+  },
+  {
+    "number": "4511",
+    "name": "pipeline positive mod10 count",
+    "file": "4511-pipeline-positive-mod10-count.apl",
+    "summary": "مثال 4511 — عدد نتيجة باقي قسمتها على 10 للأعداد الموجبة"
+  },
+  {
+    "number": "4512",
+    "name": "pipeline positive mod10 max",
+    "file": "4512-pipeline-positive-mod10-max.apl",
+    "summary": "مثال 4512 — أكبر نتيجة باقي قسمتها على 10 للأعداد الموجبة"
+  },
+  {
+    "number": "4513",
+    "name": "pipeline positive mod10 min",
+    "file": "4513-pipeline-positive-mod10-min.apl",
+    "summary": "مثال 4513 — أصغر نتيجة باقي قسمتها على 10 للأعداد الموجبة"
+  },
+  {
+    "number": "4514",
+    "name": "pipeline positive mod10 sorted",
+    "file": "4514-pipeline-positive-mod10-sorted.apl",
+    "summary": "مثال 4514 — ترتيب نتيجة باقي قسمتها على 10 للأعداد الموجبة"
+  },
+  {
+    "number": "4515",
+    "name": "pipeline positive mod10 last",
+    "file": "4515-pipeline-positive-mod10-last.apl",
+    "summary": "مثال 4515 — آخر نتيجة باقي قسمتها على 10 للأعداد الموجبة"
+  },
+  {
+    "number": "4516",
+    "name": "pipeline positive minus3 sum",
+    "file": "4516-pipeline-positive-minus3-sum.apl",
+    "summary": "مثال 4516 — مجموع نتيجة ناقص 3 للأعداد الموجبة"
+  },
+  {
+    "number": "4517",
+    "name": "pipeline positive minus3 min",
+    "file": "4517-pipeline-positive-minus3-min.apl",
+    "summary": "مثال 4517 — أصغر نتيجة ناقص 3 للأعداد الموجبة"
+  },
+  {
+    "number": "4518",
+    "name": "pipeline div3 square sum",
+    "file": "4518-pipeline-div3-square-sum.apl",
+    "summary": "مثال 4518 — مجموع نتيجة مربعها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4519",
+    "name": "pipeline div3 square min",
+    "file": "4519-pipeline-div3-square-min.apl",
+    "summary": "مثال 4519 — أصغر نتيجة مربعها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4520",
+    "name": "pipeline div3 double max",
+    "file": "4520-pipeline-div3-double-max.apl",
+    "summary": "مثال 4520 — أكبر نتيجة ضعفها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4521",
+    "name": "pipeline div3 double last",
+    "file": "4521-pipeline-div3-double-last.apl",
+    "summary": "مثال 4521 — آخر نتيجة ضعفها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4522",
+    "name": "pipeline div3 plus7 count",
+    "file": "4522-pipeline-div3-plus7-count.apl",
+    "summary": "مثال 4522 — عدد نتيجة زائد 7 للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4523",
+    "name": "pipeline div3 plus7 sorted",
+    "file": "4523-pipeline-div3-plus7-sorted.apl",
+    "summary": "مثال 4523 — ترتيب نتيجة زائد 7 للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4524",
+    "name": "pipeline div3 half sum",
+    "file": "4524-pipeline-div3-half-sum.apl",
+    "summary": "مثال 4524 — مجموع نتيجة نصفها بالقسمة الصحيحة للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4525",
+    "name": "pipeline div3 half min",
+    "file": "4525-pipeline-div3-half-min.apl",
+    "summary": "مثال 4525 — أصغر نتيجة نصفها بالقسمة الصحيحة للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4526",
+    "name": "pipeline div3 negate sum",
+    "file": "4526-pipeline-div3-negate-sum.apl",
+    "summary": "مثال 4526 — مجموع نتيجة سالبها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4527",
+    "name": "pipeline div3 negate count",
+    "file": "4527-pipeline-div3-negate-count.apl",
+    "summary": "مثال 4527 — عدد نتيجة سالبها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4528",
+    "name": "pipeline div3 negate max",
+    "file": "4528-pipeline-div3-negate-max.apl",
+    "summary": "مثال 4528 — أكبر نتيجة سالبها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4529",
+    "name": "pipeline div3 negate min",
+    "file": "4529-pipeline-div3-negate-min.apl",
+    "summary": "مثال 4529 — أصغر نتيجة سالبها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4530",
+    "name": "pipeline div3 negate sorted",
+    "file": "4530-pipeline-div3-negate-sorted.apl",
+    "summary": "مثال 4530 — ترتيب نتيجة سالبها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4531",
+    "name": "pipeline div3 negate last",
+    "file": "4531-pipeline-div3-negate-last.apl",
+    "summary": "مثال 4531 — آخر نتيجة سالبها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4532",
+    "name": "pipeline div3 cube count",
+    "file": "4532-pipeline-div3-cube-count.apl",
+    "summary": "مثال 4532 — عدد نتيجة مكعبها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4533",
+    "name": "pipeline div3 cube sorted",
+    "file": "4533-pipeline-div3-cube-sorted.apl",
+    "summary": "مثال 4533 — ترتيب نتيجة مكعبها للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4534",
+    "name": "pipeline div3 mod10 sum",
+    "file": "4534-pipeline-div3-mod10-sum.apl",
+    "summary": "مثال 4534 — مجموع نتيجة باقي قسمتها على 10 للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4535",
+    "name": "pipeline div3 mod10 min",
+    "file": "4535-pipeline-div3-mod10-min.apl",
+    "summary": "مثال 4535 — أصغر نتيجة باقي قسمتها على 10 للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4536",
+    "name": "pipeline div3 minus3 max",
+    "file": "4536-pipeline-div3-minus3-max.apl",
+    "summary": "مثال 4536 — أكبر نتيجة ناقص 3 للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4537",
+    "name": "pipeline div3 minus3 last",
+    "file": "4537-pipeline-div3-minus3-last.apl",
+    "summary": "مثال 4537 — آخر نتيجة ناقص 3 للأعداد التقبل القسمة على 3"
+  },
+  {
+    "number": "4538",
+    "name": "pipeline big square max",
+    "file": "4538-pipeline-big-square-max.apl",
+    "summary": "مثال 4538 — أكبر نتيجة مربعها للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4539",
+    "name": "pipeline big square last",
+    "file": "4539-pipeline-big-square-last.apl",
+    "summary": "مثال 4539 — آخر نتيجة مربعها للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4540",
+    "name": "pipeline big double count",
+    "file": "4540-pipeline-big-double-count.apl",
+    "summary": "مثال 4540 — عدد نتيجة ضعفها للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4541",
+    "name": "pipeline big double sorted",
+    "file": "4541-pipeline-big-double-sorted.apl",
+    "summary": "مثال 4541 — ترتيب نتيجة ضعفها للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4542",
+    "name": "pipeline big plus7 sum",
+    "file": "4542-pipeline-big-plus7-sum.apl",
+    "summary": "مثال 4542 — مجموع نتيجة زائد 7 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4543",
+    "name": "pipeline big plus7 count",
+    "file": "4543-pipeline-big-plus7-count.apl",
+    "summary": "مثال 4543 — عدد نتيجة زائد 7 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4544",
+    "name": "pipeline big plus7 max",
+    "file": "4544-pipeline-big-plus7-max.apl",
+    "summary": "مثال 4544 — أكبر نتيجة زائد 7 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4545",
+    "name": "pipeline big plus7 min",
+    "file": "4545-pipeline-big-plus7-min.apl",
+    "summary": "مثال 4545 — أصغر نتيجة زائد 7 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4546",
+    "name": "pipeline big plus7 sorted",
+    "file": "4546-pipeline-big-plus7-sorted.apl",
+    "summary": "مثال 4546 — ترتيب نتيجة زائد 7 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4547",
+    "name": "pipeline big plus7 last",
+    "file": "4547-pipeline-big-plus7-last.apl",
+    "summary": "مثال 4547 — آخر نتيجة زائد 7 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4548",
+    "name": "pipeline big half max",
+    "file": "4548-pipeline-big-half-max.apl",
+    "summary": "مثال 4548 — أكبر نتيجة نصفها بالقسمة الصحيحة للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4549",
+    "name": "pipeline big half last",
+    "file": "4549-pipeline-big-half-last.apl",
+    "summary": "مثال 4549 — آخر نتيجة نصفها بالقسمة الصحيحة للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4550",
+    "name": "pipeline big negate count",
+    "file": "4550-pipeline-big-negate-count.apl",
+    "summary": "مثال 4550 — عدد نتيجة سالبها للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4551",
+    "name": "pipeline big negate sorted",
+    "file": "4551-pipeline-big-negate-sorted.apl",
+    "summary": "مثال 4551 — ترتيب نتيجة سالبها للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4552",
+    "name": "pipeline big cube sum",
+    "file": "4552-pipeline-big-cube-sum.apl",
+    "summary": "مثال 4552 — مجموع نتيجة مكعبها للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4553",
+    "name": "pipeline big cube min",
+    "file": "4553-pipeline-big-cube-min.apl",
+    "summary": "مثال 4553 — أصغر نتيجة مكعبها للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4554",
+    "name": "pipeline big mod10 max",
+    "file": "4554-pipeline-big-mod10-max.apl",
+    "summary": "مثال 4554 — أكبر نتيجة باقي قسمتها على 10 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4555",
+    "name": "pipeline big mod10 last",
+    "file": "4555-pipeline-big-mod10-last.apl",
+    "summary": "مثال 4555 — آخر نتيجة باقي قسمتها على 10 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4556",
+    "name": "pipeline big minus3 sum",
+    "file": "4556-pipeline-big-minus3-sum.apl",
+    "summary": "مثال 4556 — مجموع نتيجة ناقص 3 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4557",
+    "name": "pipeline big minus3 count",
+    "file": "4557-pipeline-big-minus3-count.apl",
+    "summary": "مثال 4557 — عدد نتيجة ناقص 3 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4558",
+    "name": "pipeline big minus3 max",
+    "file": "4558-pipeline-big-minus3-max.apl",
+    "summary": "مثال 4558 — أكبر نتيجة ناقص 3 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4559",
+    "name": "pipeline big minus3 min",
+    "file": "4559-pipeline-big-minus3-min.apl",
+    "summary": "مثال 4559 — أصغر نتيجة ناقص 3 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4560",
+    "name": "pipeline big minus3 sorted",
+    "file": "4560-pipeline-big-minus3-sorted.apl",
+    "summary": "مثال 4560 — ترتيب نتيجة ناقص 3 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4561",
+    "name": "pipeline big minus3 last",
+    "file": "4561-pipeline-big-minus3-last.apl",
+    "summary": "مثال 4561 — آخر نتيجة ناقص 3 للأعداد الأكبر من 10"
+  },
+  {
+    "number": "4562",
+    "name": "pipeline small square sum",
+    "file": "4562-pipeline-small-square-sum.apl",
+    "summary": "مثال 4562 — مجموع نتيجة مربعها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4563",
+    "name": "pipeline small square count",
+    "file": "4563-pipeline-small-square-count.apl",
+    "summary": "مثال 4563 — عدد نتيجة مربعها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4564",
+    "name": "pipeline small square max",
+    "file": "4564-pipeline-small-square-max.apl",
+    "summary": "مثال 4564 — أكبر نتيجة مربعها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4565",
+    "name": "pipeline small square min",
+    "file": "4565-pipeline-small-square-min.apl",
+    "summary": "مثال 4565 — أصغر نتيجة مربعها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4566",
+    "name": "pipeline small square sorted",
+    "file": "4566-pipeline-small-square-sorted.apl",
+    "summary": "مثال 4566 — ترتيب نتيجة مربعها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4567",
+    "name": "pipeline small square last",
+    "file": "4567-pipeline-small-square-last.apl",
+    "summary": "مثال 4567 — آخر نتيجة مربعها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4568",
+    "name": "pipeline small double sum",
+    "file": "4568-pipeline-small-double-sum.apl",
+    "summary": "مثال 4568 — مجموع نتيجة ضعفها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4569",
+    "name": "pipeline small double min",
+    "file": "4569-pipeline-small-double-min.apl",
+    "summary": "مثال 4569 — أصغر نتيجة ضعفها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4570",
+    "name": "pipeline small plus7 max",
+    "file": "4570-pipeline-small-plus7-max.apl",
+    "summary": "مثال 4570 — أكبر نتيجة زائد 7 للأعداد الأقل من 5"
+  },
+  {
+    "number": "4571",
+    "name": "pipeline small plus7 last",
+    "file": "4571-pipeline-small-plus7-last.apl",
+    "summary": "مثال 4571 — آخر نتيجة زائد 7 للأعداد الأقل من 5"
+  },
+  {
+    "number": "4572",
+    "name": "pipeline small half count",
+    "file": "4572-pipeline-small-half-count.apl",
+    "summary": "مثال 4572 — عدد نتيجة نصفها بالقسمة الصحيحة للأعداد الأقل من 5"
+  },
+  {
+    "number": "4573",
+    "name": "pipeline small half sorted",
+    "file": "4573-pipeline-small-half-sorted.apl",
+    "summary": "مثال 4573 — ترتيب نتيجة نصفها بالقسمة الصحيحة للأعداد الأقل من 5"
+  },
+  {
+    "number": "4574",
+    "name": "pipeline small negate sum",
+    "file": "4574-pipeline-small-negate-sum.apl",
+    "summary": "مثال 4574 — مجموع نتيجة سالبها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4575",
+    "name": "pipeline small negate min",
+    "file": "4575-pipeline-small-negate-min.apl",
+    "summary": "مثال 4575 — أصغر نتيجة سالبها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4576",
+    "name": "pipeline small cube sum",
+    "file": "4576-pipeline-small-cube-sum.apl",
+    "summary": "مثال 4576 — مجموع نتيجة مكعبها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4577",
+    "name": "pipeline small cube count",
+    "file": "4577-pipeline-small-cube-count.apl",
+    "summary": "مثال 4577 — عدد نتيجة مكعبها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4578",
+    "name": "pipeline small cube max",
+    "file": "4578-pipeline-small-cube-max.apl",
+    "summary": "مثال 4578 — أكبر نتيجة مكعبها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4579",
+    "name": "pipeline small cube min",
+    "file": "4579-pipeline-small-cube-min.apl",
+    "summary": "مثال 4579 — أصغر نتيجة مكعبها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4580",
+    "name": "pipeline small cube sorted",
+    "file": "4580-pipeline-small-cube-sorted.apl",
+    "summary": "مثال 4580 — ترتيب نتيجة مكعبها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4581",
+    "name": "pipeline small cube last",
+    "file": "4581-pipeline-small-cube-last.apl",
+    "summary": "مثال 4581 — آخر نتيجة مكعبها للأعداد الأقل من 5"
+  },
+  {
+    "number": "4582",
+    "name": "pipeline small mod10 count",
+    "file": "4582-pipeline-small-mod10-count.apl",
+    "summary": "مثال 4582 — عدد نتيجة باقي قسمتها على 10 للأعداد الأقل من 5"
+  },
+  {
+    "number": "4583",
+    "name": "pipeline small mod10 sorted",
+    "file": "4583-pipeline-small-mod10-sorted.apl",
+    "summary": "مثال 4583 — ترتيب نتيجة باقي قسمتها على 10 للأعداد الأقل من 5"
+  },
+  {
+    "number": "4584",
+    "name": "pipeline small minus3 sum",
+    "file": "4584-pipeline-small-minus3-sum.apl",
+    "summary": "مثال 4584 — مجموع نتيجة ناقص 3 للأعداد الأقل من 5"
+  },
+  {
+    "number": "4585",
+    "name": "pipeline small minus3 min",
+    "file": "4585-pipeline-small-minus3-min.apl",
+    "summary": "مثال 4585 — أصغر نتيجة ناقص 3 للأعداد الأقل من 5"
+  },
+  {
+    "number": "4586",
+    "name": "pipeline mod4one square sum",
+    "file": "4586-pipeline-mod4one-square-sum.apl",
+    "summary": "مثال 4586 — مجموع نتيجة مربعها للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4587",
+    "name": "pipeline mod4one square min",
+    "file": "4587-pipeline-mod4one-square-min.apl",
+    "summary": "مثال 4587 — أصغر نتيجة مربعها للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4588",
+    "name": "pipeline mod4one double max",
+    "file": "4588-pipeline-mod4one-double-max.apl",
+    "summary": "مثال 4588 — أكبر نتيجة ضعفها للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4589",
+    "name": "pipeline mod4one double last",
+    "file": "4589-pipeline-mod4one-double-last.apl",
+    "summary": "مثال 4589 — آخر نتيجة ضعفها للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4590",
+    "name": "pipeline mod4one plus7 count",
+    "file": "4590-pipeline-mod4one-plus7-count.apl",
+    "summary": "مثال 4590 — عدد نتيجة زائد 7 للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4591",
+    "name": "pipeline mod4one plus7 sorted",
+    "file": "4591-pipeline-mod4one-plus7-sorted.apl",
+    "summary": "مثال 4591 — ترتيب نتيجة زائد 7 للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4592",
+    "name": "pipeline mod4one half sum",
+    "file": "4592-pipeline-mod4one-half-sum.apl",
+    "summary": "مثال 4592 — مجموع نتيجة نصفها بالقسمة الصحيحة للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4593",
+    "name": "pipeline mod4one half count",
+    "file": "4593-pipeline-mod4one-half-count.apl",
+    "summary": "مثال 4593 — عدد نتيجة نصفها بالقسمة الصحيحة للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4594",
+    "name": "pipeline mod4one half max",
+    "file": "4594-pipeline-mod4one-half-max.apl",
+    "summary": "مثال 4594 — أكبر نتيجة نصفها بالقسمة الصحيحة للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4595",
+    "name": "pipeline mod4one half min",
+    "file": "4595-pipeline-mod4one-half-min.apl",
+    "summary": "مثال 4595 — أصغر نتيجة نصفها بالقسمة الصحيحة للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4596",
+    "name": "pipeline mod4one half sorted",
+    "file": "4596-pipeline-mod4one-half-sorted.apl",
+    "summary": "مثال 4596 — ترتيب نتيجة نصفها بالقسمة الصحيحة للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4597",
+    "name": "pipeline mod4one half last",
+    "file": "4597-pipeline-mod4one-half-last.apl",
+    "summary": "مثال 4597 — آخر نتيجة نصفها بالقسمة الصحيحة للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4598",
+    "name": "pipeline mod4one negate max",
+    "file": "4598-pipeline-mod4one-negate-max.apl",
+    "summary": "مثال 4598 — أكبر نتيجة سالبها للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4599",
+    "name": "pipeline mod4one negate last",
+    "file": "4599-pipeline-mod4one-negate-last.apl",
+    "summary": "مثال 4599 — آخر نتيجة سالبها للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4600",
+    "name": "pipeline mod4one cube count",
+    "file": "4600-pipeline-mod4one-cube-count.apl",
+    "summary": "مثال 4600 — عدد نتيجة مكعبها للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4601",
+    "name": "pipeline mod4one cube sorted",
+    "file": "4601-pipeline-mod4one-cube-sorted.apl",
+    "summary": "مثال 4601 — ترتيب نتيجة مكعبها للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4602",
+    "name": "pipeline mod4one mod10 sum",
+    "file": "4602-pipeline-mod4one-mod10-sum.apl",
+    "summary": "مثال 4602 — مجموع نتيجة باقي قسمتها على 10 للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4603",
+    "name": "pipeline mod4one mod10 min",
+    "file": "4603-pipeline-mod4one-mod10-min.apl",
+    "summary": "مثال 4603 — أصغر نتيجة باقي قسمتها على 10 للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4604",
+    "name": "pipeline mod4one minus3 max",
+    "file": "4604-pipeline-mod4one-minus3-max.apl",
+    "summary": "مثال 4604 — أكبر نتيجة ناقص 3 للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4605",
+    "name": "pipeline mod4one minus3 last",
+    "file": "4605-pipeline-mod4one-minus3-last.apl",
+    "summary": "مثال 4605 — آخر نتيجة ناقص 3 للأعداد الباقي قسمتها على 4 يساوي 1"
+  },
+  {
+    "number": "4606",
+    "name": "pipeline notzero square max",
+    "file": "4606-pipeline-notzero-square-max.apl",
+    "summary": "مثال 4606 — أكبر نتيجة مربعها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4607",
+    "name": "pipeline notzero square last",
+    "file": "4607-pipeline-notzero-square-last.apl",
+    "summary": "مثال 4607 — آخر نتيجة مربعها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4608",
+    "name": "pipeline notzero double sum",
+    "file": "4608-pipeline-notzero-double-sum.apl",
+    "summary": "مثال 4608 — مجموع نتيجة ضعفها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4609",
+    "name": "pipeline notzero double count",
+    "file": "4609-pipeline-notzero-double-count.apl",
+    "summary": "مثال 4609 — عدد نتيجة ضعفها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4610",
+    "name": "pipeline notzero double max",
+    "file": "4610-pipeline-notzero-double-max.apl",
+    "summary": "مثال 4610 — أكبر نتيجة ضعفها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4611",
+    "name": "pipeline notzero double min",
+    "file": "4611-pipeline-notzero-double-min.apl",
+    "summary": "مثال 4611 — أصغر نتيجة ضعفها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4612",
+    "name": "pipeline notzero double sorted",
+    "file": "4612-pipeline-notzero-double-sorted.apl",
+    "summary": "مثال 4612 — ترتيب نتيجة ضعفها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4613",
+    "name": "pipeline notzero double last",
+    "file": "4613-pipeline-notzero-double-last.apl",
+    "summary": "مثال 4613 — آخر نتيجة ضعفها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4614",
+    "name": "pipeline notzero plus7 sum",
+    "file": "4614-pipeline-notzero-plus7-sum.apl",
+    "summary": "مثال 4614 — مجموع نتيجة زائد 7 للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4615",
+    "name": "pipeline notzero plus7 min",
+    "file": "4615-pipeline-notzero-plus7-min.apl",
+    "summary": "مثال 4615 — أصغر نتيجة زائد 7 للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4616",
+    "name": "pipeline notzero half max",
+    "file": "4616-pipeline-notzero-half-max.apl",
+    "summary": "مثال 4616 — أكبر نتيجة نصفها بالقسمة الصحيحة للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4617",
+    "name": "pipeline notzero half last",
+    "file": "4617-pipeline-notzero-half-last.apl",
+    "summary": "مثال 4617 — آخر نتيجة نصفها بالقسمة الصحيحة للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4618",
+    "name": "pipeline notzero negate count",
+    "file": "4618-pipeline-notzero-negate-count.apl",
+    "summary": "مثال 4618 — عدد نتيجة سالبها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4619",
+    "name": "pipeline notzero negate sorted",
+    "file": "4619-pipeline-notzero-negate-sorted.apl",
+    "summary": "مثال 4619 — ترتيب نتيجة سالبها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4620",
+    "name": "pipeline notzero cube sum",
+    "file": "4620-pipeline-notzero-cube-sum.apl",
+    "summary": "مثال 4620 — مجموع نتيجة مكعبها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4621",
+    "name": "pipeline notzero cube min",
+    "file": "4621-pipeline-notzero-cube-min.apl",
+    "summary": "مثال 4621 — أصغر نتيجة مكعبها للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4622",
+    "name": "pipeline notzero mod10 sum",
+    "file": "4622-pipeline-notzero-mod10-sum.apl",
+    "summary": "مثال 4622 — مجموع نتيجة باقي قسمتها على 10 للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4623",
+    "name": "pipeline notzero mod10 count",
+    "file": "4623-pipeline-notzero-mod10-count.apl",
+    "summary": "مثال 4623 — عدد نتيجة باقي قسمتها على 10 للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4624",
+    "name": "pipeline notzero mod10 max",
+    "file": "4624-pipeline-notzero-mod10-max.apl",
+    "summary": "مثال 4624 — أكبر نتيجة باقي قسمتها على 10 للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4625",
+    "name": "pipeline notzero mod10 min",
+    "file": "4625-pipeline-notzero-mod10-min.apl",
+    "summary": "مثال 4625 — أصغر نتيجة باقي قسمتها على 10 للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4626",
+    "name": "pipeline notzero mod10 sorted",
+    "file": "4626-pipeline-notzero-mod10-sorted.apl",
+    "summary": "مثال 4626 — ترتيب نتيجة باقي قسمتها على 10 للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4627",
+    "name": "pipeline notzero mod10 last",
+    "file": "4627-pipeline-notzero-mod10-last.apl",
+    "summary": "مثال 4627 — آخر نتيجة باقي قسمتها على 10 للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4628",
+    "name": "pipeline notzero minus3 count",
+    "file": "4628-pipeline-notzero-minus3-count.apl",
+    "summary": "مثال 4628 — عدد نتيجة ناقص 3 للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4629",
+    "name": "pipeline notzero minus3 sorted",
+    "file": "4629-pipeline-notzero-minus3-sorted.apl",
+    "summary": "مثال 4629 — ترتيب نتيجة ناقص 3 للأعداد الغير الصفرية"
+  },
+  {
+    "number": "4630",
+    "name": "string count vowel",
+    "file": "4630-string-count-vowel.apl",
+    "summary": "مثال 4630 — عدّ (حرف علة) في نص"
+  },
+  {
+    "number": "4631",
+    "name": "string keep vowel",
+    "file": "4631-string-keep-vowel.apl",
+    "summary": "مثال 4631 — الاحتفاظ بـ (حرف علة) في نص"
+  },
+  {
+    "number": "4632",
+    "name": "string drop vowel",
+    "file": "4632-string-drop-vowel.apl",
+    "summary": "مثال 4632 — حذف (حرف علة) في نص"
+  },
+  {
+    "number": "4633",
+    "name": "string positions vowel",
+    "file": "4633-string-positions-vowel.apl",
+    "summary": "مثال 4633 — مواضع (حرف علة) في نص"
+  },
+  {
+    "number": "4634",
+    "name": "string star vowel",
+    "file": "4634-string-star-vowel.apl",
+    "summary": "مثال 4634 — استبدال بنجمة (حرف علة) في نص"
+  },
+  {
+    "number": "4635",
+    "name": "string first vowel",
+    "file": "4635-string-first-vowel.apl",
+    "summary": "مثال 4635 — أول موضع (حرف علة) في نص"
+  },
+  {
+    "number": "4636",
+    "name": "string last vowel",
+    "file": "4636-string-last-vowel.apl",
+    "summary": "مثال 4636 — آخر موضع (حرف علة) في نص"
+  },
+  {
+    "number": "4637",
+    "name": "string allq vowel",
+    "file": "4637-string-allq-vowel.apl",
+    "summary": "مثال 4637 — هل كل الأحرف (حرف علة) في نص"
+  },
+  {
+    "number": "4638",
+    "name": "string anyq vowel",
+    "file": "4638-string-anyq-vowel.apl",
+    "summary": "مثال 4638 — هل يوجد (حرف علة) في نص"
+  },
+  {
+    "number": "4639",
+    "name": "string count digit",
+    "file": "4639-string-count-digit.apl",
+    "summary": "مثال 4639 — عدّ (رقم) في نص"
+  },
+  {
+    "number": "4640",
+    "name": "string keep digit",
+    "file": "4640-string-keep-digit.apl",
+    "summary": "مثال 4640 — الاحتفاظ بـ (رقم) في نص"
+  },
+  {
+    "number": "4641",
+    "name": "string drop digit",
+    "file": "4641-string-drop-digit.apl",
+    "summary": "مثال 4641 — حذف (رقم) في نص"
+  },
+  {
+    "number": "4642",
+    "name": "string positions digit",
+    "file": "4642-string-positions-digit.apl",
+    "summary": "مثال 4642 — مواضع (رقم) في نص"
+  },
+  {
+    "number": "4643",
+    "name": "string star digit",
+    "file": "4643-string-star-digit.apl",
+    "summary": "مثال 4643 — استبدال بنجمة (رقم) في نص"
+  },
+  {
+    "number": "4644",
+    "name": "string first digit",
+    "file": "4644-string-first-digit.apl",
+    "summary": "مثال 4644 — أول موضع (رقم) في نص"
+  },
+  {
+    "number": "4645",
+    "name": "string last digit",
+    "file": "4645-string-last-digit.apl",
+    "summary": "مثال 4645 — آخر موضع (رقم) في نص"
+  },
+  {
+    "number": "4646",
+    "name": "string allq digit",
+    "file": "4646-string-allq-digit.apl",
+    "summary": "مثال 4646 — هل كل الأحرف (رقم) في نص"
+  },
+  {
+    "number": "4647",
+    "name": "string anyq digit",
+    "file": "4647-string-anyq-digit.apl",
+    "summary": "مثال 4647 — هل يوجد (رقم) في نص"
+  },
+  {
+    "number": "4648",
+    "name": "string count upper",
+    "file": "4648-string-count-upper.apl",
+    "summary": "مثال 4648 — عدّ (حرف كبير) في نص"
+  },
+  {
+    "number": "4649",
+    "name": "string keep upper",
+    "file": "4649-string-keep-upper.apl",
+    "summary": "مثال 4649 — الاحتفاظ بـ (حرف كبير) في نص"
+  },
+  {
+    "number": "4650",
+    "name": "string drop upper",
+    "file": "4650-string-drop-upper.apl",
+    "summary": "مثال 4650 — حذف (حرف كبير) في نص"
+  },
+  {
+    "number": "4651",
+    "name": "string positions upper",
+    "file": "4651-string-positions-upper.apl",
+    "summary": "مثال 4651 — مواضع (حرف كبير) في نص"
+  },
+  {
+    "number": "4652",
+    "name": "string star upper",
+    "file": "4652-string-star-upper.apl",
+    "summary": "مثال 4652 — استبدال بنجمة (حرف كبير) في نص"
+  },
+  {
+    "number": "4653",
+    "name": "string first upper",
+    "file": "4653-string-first-upper.apl",
+    "summary": "مثال 4653 — أول موضع (حرف كبير) في نص"
+  },
+  {
+    "number": "4654",
+    "name": "string last upper",
+    "file": "4654-string-last-upper.apl",
+    "summary": "مثال 4654 — آخر موضع (حرف كبير) في نص"
+  },
+  {
+    "number": "4655",
+    "name": "string allq upper",
+    "file": "4655-string-allq-upper.apl",
+    "summary": "مثال 4655 — هل كل الأحرف (حرف كبير) في نص"
+  },
+  {
+    "number": "4656",
+    "name": "string anyq upper",
+    "file": "4656-string-anyq-upper.apl",
+    "summary": "مثال 4656 — هل يوجد (حرف كبير) في نص"
+  },
+  {
+    "number": "4657",
+    "name": "string count lower",
+    "file": "4657-string-count-lower.apl",
+    "summary": "مثال 4657 — عدّ (حرف صغير) في نص"
+  },
+  {
+    "number": "4658",
+    "name": "string keep lower",
+    "file": "4658-string-keep-lower.apl",
+    "summary": "مثال 4658 — الاحتفاظ بـ (حرف صغير) في نص"
+  },
+  {
+    "number": "4659",
+    "name": "string drop lower",
+    "file": "4659-string-drop-lower.apl",
+    "summary": "مثال 4659 — حذف (حرف صغير) في نص"
+  },
+  {
+    "number": "4660",
+    "name": "string positions lower",
+    "file": "4660-string-positions-lower.apl",
+    "summary": "مثال 4660 — مواضع (حرف صغير) في نص"
+  },
+  {
+    "number": "4661",
+    "name": "string star lower",
+    "file": "4661-string-star-lower.apl",
+    "summary": "مثال 4661 — استبدال بنجمة (حرف صغير) في نص"
+  },
+  {
+    "number": "4662",
+    "name": "string first lower",
+    "file": "4662-string-first-lower.apl",
+    "summary": "مثال 4662 — أول موضع (حرف صغير) في نص"
+  },
+  {
+    "number": "4663",
+    "name": "string last lower",
+    "file": "4663-string-last-lower.apl",
+    "summary": "مثال 4663 — آخر موضع (حرف صغير) في نص"
+  },
+  {
+    "number": "4664",
+    "name": "string allq lower",
+    "file": "4664-string-allq-lower.apl",
+    "summary": "مثال 4664 — هل كل الأحرف (حرف صغير) في نص"
+  },
+  {
+    "number": "4665",
+    "name": "string anyq lower",
+    "file": "4665-string-anyq-lower.apl",
+    "summary": "مثال 4665 — هل يوجد (حرف صغير) في نص"
+  },
+  {
+    "number": "4666",
+    "name": "string count space",
+    "file": "4666-string-count-space.apl",
+    "summary": "مثال 4666 — عدّ (مسافة) في نص"
+  },
+  {
+    "number": "4667",
+    "name": "string keep space",
+    "file": "4667-string-keep-space.apl",
+    "summary": "مثال 4667 — الاحتفاظ بـ (مسافة) في نص"
+  },
+  {
+    "number": "4668",
+    "name": "string drop space",
+    "file": "4668-string-drop-space.apl",
+    "summary": "مثال 4668 — حذف (مسافة) في نص"
+  },
+  {
+    "number": "4669",
+    "name": "string positions space",
+    "file": "4669-string-positions-space.apl",
+    "summary": "مثال 4669 — مواضع (مسافة) في نص"
+  },
+  {
+    "number": "4670",
+    "name": "string star space",
+    "file": "4670-string-star-space.apl",
+    "summary": "مثال 4670 — استبدال بنجمة (مسافة) في نص"
+  },
+  {
+    "number": "4671",
+    "name": "string first space",
+    "file": "4671-string-first-space.apl",
+    "summary": "مثال 4671 — أول موضع (مسافة) في نص"
+  },
+  {
+    "number": "4672",
+    "name": "string last space",
+    "file": "4672-string-last-space.apl",
+    "summary": "مثال 4672 — آخر موضع (مسافة) في نص"
+  },
+  {
+    "number": "4673",
+    "name": "string allq space",
+    "file": "4673-string-allq-space.apl",
+    "summary": "مثال 4673 — هل كل الأحرف (مسافة) في نص"
+  },
+  {
+    "number": "4674",
+    "name": "string anyq space",
+    "file": "4674-string-anyq-space.apl",
+    "summary": "مثال 4674 — هل يوجد (مسافة) في نص"
+  },
+  {
+    "number": "4675",
+    "name": "string count consonant",
+    "file": "4675-string-count-consonant.apl",
+    "summary": "مثال 4675 — عدّ (حرف ساكن) في نص"
+  },
+  {
+    "number": "4676",
+    "name": "string keep consonant",
+    "file": "4676-string-keep-consonant.apl",
+    "summary": "مثال 4676 — الاحتفاظ بـ (حرف ساكن) في نص"
+  },
+  {
+    "number": "4677",
+    "name": "string drop consonant",
+    "file": "4677-string-drop-consonant.apl",
+    "summary": "مثال 4677 — حذف (حرف ساكن) في نص"
+  },
+  {
+    "number": "4678",
+    "name": "string positions consonant",
+    "file": "4678-string-positions-consonant.apl",
+    "summary": "مثال 4678 — مواضع (حرف ساكن) في نص"
+  },
+  {
+    "number": "4679",
+    "name": "string star consonant",
+    "file": "4679-string-star-consonant.apl",
+    "summary": "مثال 4679 — استبدال بنجمة (حرف ساكن) في نص"
+  },
+  {
+    "number": "4680",
+    "name": "string first consonant",
+    "file": "4680-string-first-consonant.apl",
+    "summary": "مثال 4680 — أول موضع (حرف ساكن) في نص"
+  },
+  {
+    "number": "4681",
+    "name": "string last consonant",
+    "file": "4681-string-last-consonant.apl",
+    "summary": "مثال 4681 — آخر موضع (حرف ساكن) في نص"
+  },
+  {
+    "number": "4682",
+    "name": "string allq consonant",
+    "file": "4682-string-allq-consonant.apl",
+    "summary": "مثال 4682 — هل كل الأحرف (حرف ساكن) في نص"
+  },
+  {
+    "number": "4683",
+    "name": "string anyq consonant",
+    "file": "4683-string-anyq-consonant.apl",
+    "summary": "مثال 4683 — هل يوجد (حرف ساكن) في نص"
+  },
+  {
+    "number": "4684",
+    "name": "numbers count div3or5",
+    "file": "4684-numbers-count-div3or5.apl",
+    "summary": "مثال 4684 — عدد الأعداد التقبل القسمة على 3 أو 5 حتى حد معين"
+  },
+  {
+    "number": "4685",
+    "name": "numbers sum div3or5",
+    "file": "4685-numbers-sum-div3or5.apl",
+    "summary": "مثال 4685 — مجموع الأعداد التقبل القسمة على 3 أو 5 حتى حد معين"
+  },
+  {
+    "number": "4686",
+    "name": "numbers largest div3or5",
+    "file": "4686-numbers-largest-div3or5.apl",
+    "summary": "مثال 4686 — أكبر الأعداد التقبل القسمة على 3 أو 5 حتى حد معين"
+  },
+  {
+    "number": "4687",
+    "name": "numbers list div3or5",
+    "file": "4687-numbers-list-div3or5.apl",
+    "summary": "مثال 4687 — قائمة الأعداد التقبل القسمة على 3 أو 5 حتى حد معين"
+  },
+  {
+    "number": "4688",
+    "name": "numbers count div4not6",
+    "file": "4688-numbers-count-div4not6.apl",
+    "summary": "مثال 4688 — عدد الأعداد التقبل القسمة على 4 ولا على 6 حتى حد معين"
+  },
+  {
+    "number": "4689",
+    "name": "numbers sum div4not6",
+    "file": "4689-numbers-sum-div4not6.apl",
+    "summary": "مثال 4689 — مجموع الأعداد التقبل القسمة على 4 ولا على 6 حتى حد معين"
+  },
+  {
+    "number": "4690",
+    "name": "numbers largest div4not6",
+    "file": "4690-numbers-largest-div4not6.apl",
+    "summary": "مثال 4690 — أكبر الأعداد التقبل القسمة على 4 ولا على 6 حتى حد معين"
+  },
+  {
+    "number": "4691",
+    "name": "numbers list div4not6",
+    "file": "4691-numbers-list-div4not6.apl",
+    "summary": "مثال 4691 — قائمة الأعداد التقبل القسمة على 4 ولا على 6 حتى حد معين"
+  },
+  {
+    "number": "4692",
+    "name": "numbers count square",
+    "file": "4692-numbers-count-square.apl",
+    "summary": "مثال 4692 — عدد الأعداد المربع كامل حتى حد معين"
+  },
+  {
+    "number": "4693",
+    "name": "numbers sum square",
+    "file": "4693-numbers-sum-square.apl",
+    "summary": "مثال 4693 — مجموع الأعداد المربع كامل حتى حد معين"
+  },
+  {
+    "number": "4694",
+    "name": "numbers largest square",
+    "file": "4694-numbers-largest-square.apl",
+    "summary": "مثال 4694 — أكبر الأعداد المربع كامل حتى حد معين"
+  },
+  {
+    "number": "4695",
+    "name": "numbers list square",
+    "file": "4695-numbers-list-square.apl",
+    "summary": "مثال 4695 — قائمة الأعداد المربع كامل حتى حد معين"
+  },
+  {
+    "number": "4696",
+    "name": "numbers count digsum_even",
+    "file": "4696-numbers-count-digsum_even.apl",
+    "summary": "مثال 4696 — عدد الأعداد المجموع أرقامه زوجي حتى حد معين"
+  },
+  {
+    "number": "4697",
+    "name": "numbers sum digsum_even",
+    "file": "4697-numbers-sum-digsum_even.apl",
+    "summary": "مثال 4697 — مجموع الأعداد المجموع أرقامه زوجي حتى حد معين"
+  },
+  {
+    "number": "4698",
+    "name": "numbers largest digsum_even",
+    "file": "4698-numbers-largest-digsum_even.apl",
+    "summary": "مثال 4698 — أكبر الأعداد المجموع أرقامه زوجي حتى حد معين"
+  },
+  {
+    "number": "4699",
+    "name": "numbers list digsum_even",
+    "file": "4699-numbers-list-digsum_even.apl",
+    "summary": "مثال 4699 — قائمة الأعداد المجموع أرقامه زوجي حتى حد معين"
+  },
+  {
+    "number": "4700",
+    "name": "numbers count palindrome",
+    "file": "4700-numbers-count-palindrome.apl",
+    "summary": "مثال 4700 — عدد الأعداد المتماثل الأرقام حتى حد معين"
+  },
+  {
+    "number": "4701",
+    "name": "numbers sum palindrome",
+    "file": "4701-numbers-sum-palindrome.apl",
+    "summary": "مثال 4701 — مجموع الأعداد المتماثل الأرقام حتى حد معين"
+  },
+  {
+    "number": "4702",
+    "name": "numbers largest palindrome",
+    "file": "4702-numbers-largest-palindrome.apl",
+    "summary": "مثال 4702 — أكبر الأعداد المتماثل الأرقام حتى حد معين"
+  },
+  {
+    "number": "4703",
+    "name": "numbers list palindrome",
+    "file": "4703-numbers-list-palindrome.apl",
+    "summary": "مثال 4703 — قائمة الأعداد المتماثل الأرقام حتى حد معين"
+  },
+  {
+    "number": "4704",
+    "name": "numbers count endsin7",
+    "file": "4704-numbers-count-endsin7.apl",
+    "summary": "مثال 4704 — عدد الأعداد الينتهي بالرقم 7 حتى حد معين"
+  },
+  {
+    "number": "4705",
+    "name": "numbers sum endsin7",
+    "file": "4705-numbers-sum-endsin7.apl",
+    "summary": "مثال 4705 — مجموع الأعداد الينتهي بالرقم 7 حتى حد معين"
+  },
+  {
+    "number": "4706",
+    "name": "numbers largest endsin7",
+    "file": "4706-numbers-largest-endsin7.apl",
+    "summary": "مثال 4706 — أكبر الأعداد الينتهي بالرقم 7 حتى حد معين"
+  },
+  {
+    "number": "4707",
+    "name": "numbers list endsin7",
+    "file": "4707-numbers-list-endsin7.apl",
+    "summary": "مثال 4707 — قائمة الأعداد الينتهي بالرقم 7 حتى حد معين"
+  },
+  {
+    "number": "4708",
+    "name": "numbers count prime",
+    "file": "4708-numbers-count-prime.apl",
+    "summary": "مثال 4708 — عدد الأعداد الأولي حتى حد معين"
+  },
+  {
+    "number": "4709",
+    "name": "numbers sum prime",
+    "file": "4709-numbers-sum-prime.apl",
+    "summary": "مثال 4709 — مجموع الأعداد الأولي حتى حد معين"
+  },
+  {
+    "number": "4710",
+    "name": "numbers largest prime",
+    "file": "4710-numbers-largest-prime.apl",
+    "summary": "مثال 4710 — أكبر الأعداد الأولي حتى حد معين"
+  },
+  {
+    "number": "4711",
+    "name": "numbers list prime",
+    "file": "4711-numbers-list-prime.apl",
+    "summary": "مثال 4711 — قائمة الأعداد الأولي حتى حد معين"
+  },
+  {
+    "number": "4712",
+    "name": "numbers count mod7is3",
+    "file": "4712-numbers-count-mod7is3.apl",
+    "summary": "مثال 4712 — عدد الأعداد الباقي قسمته على 7 يساوي 3 حتى حد معين"
+  },
+  {
+    "number": "4713",
+    "name": "numbers sum mod7is3",
+    "file": "4713-numbers-sum-mod7is3.apl",
+    "summary": "مثال 4713 — مجموع الأعداد الباقي قسمته على 7 يساوي 3 حتى حد معين"
+  },
+  {
+    "number": "4714",
+    "name": "numbers largest mod7is3",
+    "file": "4714-numbers-largest-mod7is3.apl",
+    "summary": "مثال 4714 — أكبر الأعداد الباقي قسمته على 7 يساوي 3 حتى حد معين"
+  },
+  {
+    "number": "4715",
+    "name": "numbers list mod7is3",
+    "file": "4715-numbers-list-mod7is3.apl",
+    "summary": "مثال 4715 — قائمة الأعداد الباقي قسمته على 7 يساوي 3 حتى حد معين"
+  },
+  {
+    "number": "4716",
+    "name": "numbers count twodigits_up",
+    "file": "4716-numbers-count-twodigits_up.apl",
+    "summary": "مثال 4716 — عدد الأعداد الأرقامه تصاعدية حتى حد معين"
+  },
+  {
+    "number": "4717",
+    "name": "numbers sum twodigits_up",
+    "file": "4717-numbers-sum-twodigits_up.apl",
+    "summary": "مثال 4717 — مجموع الأعداد الأرقامه تصاعدية حتى حد معين"
+  },
+  {
+    "number": "4718",
+    "name": "numbers largest twodigits_up",
+    "file": "4718-numbers-largest-twodigits_up.apl",
+    "summary": "مثال 4718 — أكبر الأعداد الأرقامه تصاعدية حتى حد معين"
+  },
+  {
+    "number": "4719",
+    "name": "numbers list twodigits_up",
+    "file": "4719-numbers-list-twodigits_up.apl",
+    "summary": "مثال 4719 — قائمة الأعداد الأرقامه تصاعدية حتى حد معين"
+  },
+  {
+    "number": "4720",
+    "name": "numbers count triangular",
+    "file": "4720-numbers-count-triangular.apl",
+    "summary": "مثال 4720 — عدد الأعداد المثلثي حتى حد معين"
+  },
+  {
+    "number": "4721",
+    "name": "numbers sum triangular",
+    "file": "4721-numbers-sum-triangular.apl",
+    "summary": "مثال 4721 — مجموع الأعداد المثلثي حتى حد معين"
+  },
+  {
+    "number": "4722",
+    "name": "numbers largest triangular",
+    "file": "4722-numbers-largest-triangular.apl",
+    "summary": "مثال 4722 — أكبر الأعداد المثلثي حتى حد معين"
+  },
+  {
+    "number": "4723",
+    "name": "numbers list triangular",
+    "file": "4723-numbers-list-triangular.apl",
+    "summary": "مثال 4723 — قائمة الأعداد المثلثي حتى حد معين"
+  },
+  {
+    "number": "4724",
+    "name": "numbers count has_digit_1",
+    "file": "4724-numbers-count-has_digit_1.apl",
+    "summary": "مثال 4724 — عدد الأعداد اليحتوي على الرقم 1 حتى حد معين"
+  },
+  {
+    "number": "4725",
+    "name": "numbers sum has_digit_1",
+    "file": "4725-numbers-sum-has_digit_1.apl",
+    "summary": "مثال 4725 — مجموع الأعداد اليحتوي على الرقم 1 حتى حد معين"
+  },
+  {
+    "number": "4726",
+    "name": "numbers largest has_digit_1",
+    "file": "4726-numbers-largest-has_digit_1.apl",
+    "summary": "مثال 4726 — أكبر الأعداد اليحتوي على الرقم 1 حتى حد معين"
+  },
+  {
+    "number": "4727",
+    "name": "numbers list has_digit_1",
+    "file": "4727-numbers-list-has_digit_1.apl",
+    "summary": "مثال 4727 — قائمة الأعداد اليحتوي على الرقم 1 حتى حد معين"
+  },
+  {
+    "number": "4728",
+    "name": "numbers count power2",
+    "file": "4728-numbers-count-power2.apl",
+    "summary": "مثال 4728 — عدد الأعداد القوة للعدد 2 حتى حد معين"
+  },
+  {
+    "number": "4729",
+    "name": "numbers sum power2",
+    "file": "4729-numbers-sum-power2.apl",
+    "summary": "مثال 4729 — مجموع الأعداد القوة للعدد 2 حتى حد معين"
+  },
+  {
+    "number": "4730",
+    "name": "numbers largest power2",
+    "file": "4730-numbers-largest-power2.apl",
+    "summary": "مثال 4730 — أكبر الأعداد القوة للعدد 2 حتى حد معين"
+  },
+  {
+    "number": "4731",
+    "name": "numbers list power2",
+    "file": "4731-numbers-list-power2.apl",
+    "summary": "مثال 4731 — قائمة الأعداد القوة للعدد 2 حتى حد معين"
+  },
+  {
+    "number": "4732",
+    "name": "to base 2",
+    "file": "4732-to-base-2.apl",
+    "summary": "مثال 4732 — تحويل عدد إلى الأساس 2"
+  },
+  {
+    "number": "4733",
+    "name": "from base 2",
+    "file": "4733-from-base-2.apl",
+    "summary": "مثال 4733 — قراءة عدد مكتوب بالأساس 2"
+  },
+  {
+    "number": "4734",
+    "name": "to base 3",
+    "file": "4734-to-base-3.apl",
+    "summary": "مثال 4734 — تحويل عدد إلى الأساس 3"
+  },
+  {
+    "number": "4735",
+    "name": "from base 3",
+    "file": "4735-from-base-3.apl",
+    "summary": "مثال 4735 — قراءة عدد مكتوب بالأساس 3"
+  },
+  {
+    "number": "4736",
+    "name": "to base 4",
+    "file": "4736-to-base-4.apl",
+    "summary": "مثال 4736 — تحويل عدد إلى الأساس 4"
+  },
+  {
+    "number": "4737",
+    "name": "from base 4",
+    "file": "4737-from-base-4.apl",
+    "summary": "مثال 4737 — قراءة عدد مكتوب بالأساس 4"
+  },
+  {
+    "number": "4738",
+    "name": "to base 5",
+    "file": "4738-to-base-5.apl",
+    "summary": "مثال 4738 — تحويل عدد إلى الأساس 5"
+  },
+  {
+    "number": "4739",
+    "name": "from base 5",
+    "file": "4739-from-base-5.apl",
+    "summary": "مثال 4739 — قراءة عدد مكتوب بالأساس 5"
+  },
+  {
+    "number": "4740",
+    "name": "to base 6",
+    "file": "4740-to-base-6.apl",
+    "summary": "مثال 4740 — تحويل عدد إلى الأساس 6"
+  },
+  {
+    "number": "4741",
+    "name": "from base 6",
+    "file": "4741-from-base-6.apl",
+    "summary": "مثال 4741 — قراءة عدد مكتوب بالأساس 6"
+  },
+  {
+    "number": "4742",
+    "name": "to base 7",
+    "file": "4742-to-base-7.apl",
+    "summary": "مثال 4742 — تحويل عدد إلى الأساس 7"
+  },
+  {
+    "number": "4743",
+    "name": "from base 7",
+    "file": "4743-from-base-7.apl",
+    "summary": "مثال 4743 — قراءة عدد مكتوب بالأساس 7"
+  },
+  {
+    "number": "4744",
+    "name": "to base 8",
+    "file": "4744-to-base-8.apl",
+    "summary": "مثال 4744 — تحويل عدد إلى الأساس 8"
+  },
+  {
+    "number": "4745",
+    "name": "from base 8",
+    "file": "4745-from-base-8.apl",
+    "summary": "مثال 4745 — قراءة عدد مكتوب بالأساس 8"
+  },
+  {
+    "number": "4746",
+    "name": "to base 9",
+    "file": "4746-to-base-9.apl",
+    "summary": "مثال 4746 — تحويل عدد إلى الأساس 9"
+  },
+  {
+    "number": "4747",
+    "name": "from base 9",
+    "file": "4747-from-base-9.apl",
+    "summary": "مثال 4747 — قراءة عدد مكتوب بالأساس 9"
+  },
+  {
+    "number": "4748",
+    "name": "collatz 3n plus 1",
+    "file": "4748-collatz-3n-plus-1.apl",
+    "summary": "مثال 4748 — خطوات متتالية كولاتز (3ن+1) بحد أقصى"
+  },
+  {
+    "number": "4749",
+    "name": "collatz 5n plus 1",
+    "file": "4749-collatz-5n-plus-1.apl",
+    "summary": "مثال 4749 — خطوات متتالية كولاتز (5ن+1) بحد أقصى"
+  },
+  {
+    "number": "4750",
+    "name": "collatz 3n plus 3",
+    "file": "4750-collatz-3n-plus-3.apl",
+    "summary": "مثال 4750 — خطوات متتالية كولاتز (3ن+3) بحد أقصى"
+  },
+  {
+    "number": "4751",
+    "name": "collatz 7n plus 1",
+    "file": "4751-collatz-7n-plus-1.apl",
+    "summary": "مثال 4751 — خطوات متتالية كولاتز (7ن+1) بحد أقصى"
+  },
+  {
+    "number": "4752",
+    "name": "collatz 3n plus 5",
+    "file": "4752-collatz-3n-plus-5.apl",
+    "summary": "مثال 4752 — خطوات متتالية كولاتز (3ن+5) بحد أقصى"
+  },
+  {
+    "number": "4753",
+    "name": "collatz 9n plus 1",
+    "file": "4753-collatz-9n-plus-1.apl",
+    "summary": "مثال 4753 — خطوات متتالية كولاتز (9ن+1) بحد أقصى"
+  },
+  {
+    "number": "4754",
+    "name": "digital root",
+    "file": "4754-digital-root.apl",
+    "summary": "مثال 4754 — الجذر الرقمي"
+  },
+  {
+    "number": "4755",
+    "name": "digit product",
+    "file": "4755-digit-product.apl",
+    "summary": "مثال 4755 — حاصل ضرب الأرقام"
+  },
+  {
+    "number": "4756",
+    "name": "reverse number",
+    "file": "4756-reverse-number.apl",
+    "summary": "مثال 4756 — عكس أرقام العدد"
+  },
+  {
+    "number": "4757",
+    "name": "count digits",
+    "file": "4757-count-digits.apl",
+    "summary": "مثال 4757 — عدد أرقام العدد"
+  },
+  {
+    "number": "4758",
+    "name": "largest digit",
+    "file": "4758-largest-digit.apl",
+    "summary": "مثال 4758 — أكبر رقم في العدد"
+  },
+  {
+    "number": "4759",
+    "name": "digit power sum 2",
+    "file": "4759-digit-power-sum-2.apl",
+    "summary": "مثال 4759 — مجموع قوى الأرقام (القوة 2)"
+  },
+  {
+    "number": "4760",
+    "name": "digit power sum 3",
+    "file": "4760-digit-power-sum-3.apl",
+    "summary": "مثال 4760 — مجموع قوى الأرقام (القوة 3)"
+  },
+  {
+    "number": "4761",
+    "name": "digit power sum 4",
+    "file": "4761-digit-power-sum-4.apl",
+    "summary": "مثال 4761 — مجموع قوى الأرقام (القوة 4)"
+  },
+  {
+    "number": "4762",
+    "name": "digit power sum 5",
+    "file": "4762-digit-power-sum-5.apl",
+    "summary": "مثال 4762 — مجموع قوى الأرقام (القوة 5)"
+  },
+  {
+    "number": "4763",
+    "name": "gcd of list",
+    "file": "4763-gcd-of-list.apl",
+    "summary": "مثال 4763 — القاسم المشترك الأكبر لقائمة"
+  },
+  {
+    "number": "4764",
+    "name": "lcm of list",
+    "file": "4764-lcm-of-list.apl",
+    "summary": "مثال 4764 — المضاعف المشترك الأصغر لقائمة"
+  },
+  {
+    "number": "4765",
+    "name": "lcm 1 to 5",
+    "file": "4765-lcm-1-to-5.apl",
+    "summary": "مثال 4765 — أصغر عدد يقبل القسمة على كل الأعداد من 1 إلى 5"
+  },
+  {
+    "number": "4766",
+    "name": "lcm 1 to 8",
+    "file": "4766-lcm-1-to-8.apl",
+    "summary": "مثال 4766 — أصغر عدد يقبل القسمة على كل الأعداد من 1 إلى 8"
+  },
+  {
+    "number": "4767",
+    "name": "lcm 1 to 10",
+    "file": "4767-lcm-1-to-10.apl",
+    "summary": "مثال 4767 — أصغر عدد يقبل القسمة على كل الأعداد من 1 إلى 10"
+  },
+  {
+    "number": "4768",
+    "name": "lcm 1 to 12",
+    "file": "4768-lcm-1-to-12.apl",
+    "summary": "مثال 4768 — أصغر عدد يقبل القسمة على كل الأعداد من 1 إلى 12"
+  },
+  {
+    "number": "4769",
+    "name": "lcm 1 to 15",
+    "file": "4769-lcm-1-to-15.apl",
+    "summary": "مثال 4769 — أصغر عدد يقبل القسمة على كل الأعداد من 1 إلى 15"
+  },
+  {
+    "number": "4770",
+    "name": "lcm 1 to 20",
+    "file": "4770-lcm-1-to-20.apl",
+    "summary": "مثال 4770 — أصغر عدد يقبل القسمة على كل الأعداد من 1 إلى 20"
+  },
+  {
+    "number": "4771",
+    "name": "bit reverse 3",
+    "file": "4771-bit-reverse-3.apl",
+    "summary": "مثال 4771 — عكس 3 بتات"
+  },
+  {
+    "number": "4772",
+    "name": "bit reverse 4",
+    "file": "4772-bit-reverse-4.apl",
+    "summary": "مثال 4772 — عكس 4 بتات"
+  },
+  {
+    "number": "4773",
+    "name": "bit reverse 5",
+    "file": "4773-bit-reverse-5.apl",
+    "summary": "مثال 4773 — عكس 5 بتات"
+  },
+  {
+    "number": "4774",
+    "name": "bit reverse 6",
+    "file": "4774-bit-reverse-6.apl",
+    "summary": "مثال 4774 — عكس 6 بتات"
+  },
+  {
+    "number": "4775",
+    "name": "bit reverse 7",
+    "file": "4775-bit-reverse-7.apl",
+    "summary": "مثال 4775 — عكس 7 بتات"
+  },
+  {
+    "number": "4776",
+    "name": "bit reverse 8",
+    "file": "4776-bit-reverse-8.apl",
+    "summary": "مثال 4776 — عكس 8 بتات"
+  },
+  {
+    "number": "4777",
+    "name": "popcount",
+    "file": "4777-popcount.apl",
+    "summary": "مثال 4777 — عدد البتات المضيئة"
+  },
+  {
+    "number": "4778",
+    "name": "parity bit",
+    "file": "4778-parity-bit.apl",
+    "summary": "مثال 4778 — تماثل البتات"
+  },
+  {
+    "number": "4779",
+    "name": "bubble swaps asc",
+    "file": "4779-bubble-swaps-asc.apl",
+    "summary": "مثال 4779 — عدد التبديلات في ترتيب الفقاعات (تصاعدي)"
+  },
+  {
+    "number": "4780",
+    "name": "bubble swaps desc",
+    "file": "4780-bubble-swaps-desc.apl",
+    "summary": "مثال 4780 — عدد التبديلات في ترتيب الفقاعات (تنازلي)"
+  },
+  {
+    "number": "4781",
+    "name": "insertion shifts",
+    "file": "4781-insertion-shifts.apl",
+    "summary": "مثال 4781 — عدد الإزاحات في الترتيب بالإدراج"
+  },
+  {
+    "number": "4782",
+    "name": "selection swaps",
+    "file": "4782-selection-swaps.apl",
+    "summary": "مثال 4782 — عدد التبديلات في الترتيب بالاختيار"
+  },
+  {
+    "number": "4783",
+    "name": "binary search steps",
+    "file": "4783-binary-search-steps.apl",
+    "summary": "مثال 4783 — خطوات البحث الثنائي (سالبة لو غير موجود)"
+  },
+  {
+    "number": "4784",
+    "name": "matrix row sums",
+    "file": "4784-matrix-row-sums.apl",
+    "summary": "مثال 4784 — مجموع كل صف"
+  },
+  {
+    "number": "4785",
+    "name": "matrix col sums",
+    "file": "4785-matrix-col-sums.apl",
+    "summary": "مثال 4785 — مجموع كل عمود"
+  },
+  {
+    "number": "4786",
+    "name": "matrix transpose",
+    "file": "4786-matrix-transpose.apl",
+    "summary": "مثال 4786 — المنقولة (تبديل الصفوف والأعمدة)"
+  },
+  {
+    "number": "4787",
+    "name": "matrix flatten",
+    "file": "4787-matrix-flatten.apl",
+    "summary": "مثال 4787 — تسطيح المصفوفة"
+  },
+  {
+    "number": "4788",
+    "name": "matrix row max",
+    "file": "4788-matrix-row-max.apl",
+    "summary": "مثال 4788 — أكبر عنصر في كل صف"
+  },
+  {
+    "number": "4789",
+    "name": "matrix total",
+    "file": "4789-matrix-total.apl",
+    "summary": "مثال 4789 — مجموع كل العناصر"
+  },
+  {
+    "number": "4790",
+    "name": "matrix count pos",
+    "file": "4790-matrix-count-pos.apl",
+    "summary": "مثال 4790 — عدد العناصر الموجبة"
+  },
+  {
+    "number": "4791",
+    "name": "matrix diag sum",
+    "file": "4791-matrix-diag-sum.apl",
+    "summary": "مثال 4791 — مجموع القطر الرئيسي"
+  },
+  {
+    "number": "4792",
+    "name": "matrix anti diag",
+    "file": "4792-matrix-anti-diag.apl",
+    "summary": "مثال 4792 — مجموع القطر العكسي"
+  },
+  {
+    "number": "4793",
+    "name": "matrix shape",
+    "file": "4793-matrix-shape.apl",
+    "summary": "مثال 4793 — شكل المصفوفة"
+  },
+  {
+    "number": "4794",
+    "name": "matrix scale",
+    "file": "4794-matrix-scale.apl",
+    "summary": "مثال 4794 — ضرب كل عنصر في 3"
+  },
+  {
+    "number": "4795",
+    "name": "matrix row min col",
+    "file": "4795-matrix-row-min-col.apl",
+    "summary": "مثال 4795 — أصغر عنصر في كل عمود"
+  },
+  {
+    "number": "4796",
+    "name": "matrix count above 2",
+    "file": "4796-matrix-count-above-2.apl",
+    "summary": "مثال 4796 — عدد العناصر الأكبر من 2"
+  },
+  {
+    "number": "4797",
+    "name": "matrix count above 4",
+    "file": "4797-matrix-count-above-4.apl",
+    "summary": "مثال 4797 — عدد العناصر الأكبر من 4"
+  },
+  {
+    "number": "4798",
+    "name": "matrix count above 6",
+    "file": "4798-matrix-count-above-6.apl",
+    "summary": "مثال 4798 — عدد العناصر الأكبر من 6"
+  },
+  {
+    "number": "4799",
+    "name": "matrix row length 1",
+    "file": "4799-matrix-row-length-1.apl",
+    "summary": "مثال 4799 — الصفوف الأطول من 1"
+  },
+  {
+    "number": "4800",
+    "name": "matrix row length 2",
+    "file": "4800-matrix-row-length-2.apl",
+    "summary": "مثال 4800 — الصفوف الأطول من 2"
+  },
+  {
+    "number": "4801",
+    "name": "matrix row length 3",
+    "file": "4801-matrix-row-length-3.apl",
+    "summary": "مثال 4801 — الصفوف الأطول من 3"
+  },
+  {
+    "number": "4802",
+    "name": "group by length count",
+    "file": "4802-group-by-length-count.apl",
+    "summary": "مثال 4802 — تجميع الكلمات حسب الطول (عدد الكلمات)"
+  },
+  {
+    "number": "4803",
+    "name": "group by length join",
+    "file": "4803-group-by-length-join.apl",
+    "summary": "مثال 4803 — تجميع الكلمات حسب الطول (الكلمات)"
+  },
+  {
+    "number": "4804",
+    "name": "group by length total len",
+    "file": "4804-group-by-length-total-len.apl",
+    "summary": "مثال 4804 — تجميع الكلمات حسب الطول (مجموع الأطوال)"
+  },
+  {
+    "number": "4805",
+    "name": "group by first count",
+    "file": "4805-group-by-first-count.apl",
+    "summary": "مثال 4805 — تجميع الكلمات حسب الحرف الأول (عدد الكلمات)"
+  },
+  {
+    "number": "4806",
+    "name": "group by first join",
+    "file": "4806-group-by-first-join.apl",
+    "summary": "مثال 4806 — تجميع الكلمات حسب الحرف الأول (الكلمات)"
+  },
+  {
+    "number": "4807",
+    "name": "group by first total len",
+    "file": "4807-group-by-first-total-len.apl",
+    "summary": "مثال 4807 — تجميع الكلمات حسب الحرف الأول (مجموع الأطوال)"
+  },
+  {
+    "number": "4808",
+    "name": "group by last count",
+    "file": "4808-group-by-last-count.apl",
+    "summary": "مثال 4808 — تجميع الكلمات حسب الحرف الأخير (عدد الكلمات)"
+  },
+  {
+    "number": "4809",
+    "name": "group by last join",
+    "file": "4809-group-by-last-join.apl",
+    "summary": "مثال 4809 — تجميع الكلمات حسب الحرف الأخير (الكلمات)"
+  },
+  {
+    "number": "4810",
+    "name": "group by last total len",
+    "file": "4810-group-by-last-total-len.apl",
+    "summary": "مثال 4810 — تجميع الكلمات حسب الحرف الأخير (مجموع الأطوال)"
+  },
+  {
+    "number": "4811",
+    "name": "group by parity count",
+    "file": "4811-group-by-parity-count.apl",
+    "summary": "مثال 4811 — تجميع الكلمات حسب زوجية الطول (عدد الكلمات)"
+  },
+  {
+    "number": "4812",
+    "name": "group by parity join",
+    "file": "4812-group-by-parity-join.apl",
+    "summary": "مثال 4812 — تجميع الكلمات حسب زوجية الطول (الكلمات)"
+  },
+  {
+    "number": "4813",
+    "name": "group by parity total len",
+    "file": "4813-group-by-parity-total-len.apl",
+    "summary": "مثال 4813 — تجميع الكلمات حسب زوجية الطول (مجموع الأطوال)"
+  },
+  {
+    "number": "4814",
+    "name": "simple interest 2",
+    "file": "4814-simple-interest-2.apl",
+    "summary": "مثال 4814 — فائدة بسيطة بنسبة 2%"
+  },
+  {
+    "number": "4815",
+    "name": "compound 2",
+    "file": "4815-compound-2.apl",
+    "summary": "مثال 4815 — مبلغ بعد فائدة مركبة 2%"
+  },
+  {
+    "number": "4816",
+    "name": "discount 10",
+    "file": "4816-discount-10.apl",
+    "summary": "مثال 4816 — سعر بعد خصم 10%"
+  },
+  {
+    "number": "4817",
+    "name": "tax 2",
+    "file": "4817-tax-2.apl",
+    "summary": "مثال 4817 — إجمالي مع ضريبة 2%"
+  },
+  {
+    "number": "4818",
+    "name": "simple interest 3",
+    "file": "4818-simple-interest-3.apl",
+    "summary": "مثال 4818 — فائدة بسيطة بنسبة 3%"
+  },
+  {
+    "number": "4819",
+    "name": "compound 3",
+    "file": "4819-compound-3.apl",
+    "summary": "مثال 4819 — مبلغ بعد فائدة مركبة 3%"
+  },
+  {
+    "number": "4820",
+    "name": "discount 15",
+    "file": "4820-discount-15.apl",
+    "summary": "مثال 4820 — سعر بعد خصم 15%"
+  },
+  {
+    "number": "4821",
+    "name": "tax 3",
+    "file": "4821-tax-3.apl",
+    "summary": "مثال 4821 — إجمالي مع ضريبة 3%"
+  },
+  {
+    "number": "4822",
+    "name": "simple interest 4",
+    "file": "4822-simple-interest-4.apl",
+    "summary": "مثال 4822 — فائدة بسيطة بنسبة 4%"
+  },
+  {
+    "number": "4823",
+    "name": "compound 4",
+    "file": "4823-compound-4.apl",
+    "summary": "مثال 4823 — مبلغ بعد فائدة مركبة 4%"
+  },
+  {
+    "number": "4824",
+    "name": "discount 20",
+    "file": "4824-discount-20.apl",
+    "summary": "مثال 4824 — سعر بعد خصم 20%"
+  },
+  {
+    "number": "4825",
+    "name": "tax 4",
+    "file": "4825-tax-4.apl",
+    "summary": "مثال 4825 — إجمالي مع ضريبة 4%"
+  },
+  {
+    "number": "4826",
+    "name": "simple interest 5",
+    "file": "4826-simple-interest-5.apl",
+    "summary": "مثال 4826 — فائدة بسيطة بنسبة 5%"
+  },
+  {
+    "number": "4827",
+    "name": "compound 5",
+    "file": "4827-compound-5.apl",
+    "summary": "مثال 4827 — مبلغ بعد فائدة مركبة 5%"
+  },
+  {
+    "number": "4828",
+    "name": "discount 25",
+    "file": "4828-discount-25.apl",
+    "summary": "مثال 4828 — سعر بعد خصم 25%"
+  },
+  {
+    "number": "4829",
+    "name": "tax 5",
+    "file": "4829-tax-5.apl",
+    "summary": "مثال 4829 — إجمالي مع ضريبة 5%"
+  },
+  {
+    "number": "4830",
+    "name": "simple interest 6",
+    "file": "4830-simple-interest-6.apl",
+    "summary": "مثال 4830 — فائدة بسيطة بنسبة 6%"
+  },
+  {
+    "number": "4831",
+    "name": "compound 6",
+    "file": "4831-compound-6.apl",
+    "summary": "مثال 4831 — مبلغ بعد فائدة مركبة 6%"
+  },
+  {
+    "number": "4832",
+    "name": "discount 30",
+    "file": "4832-discount-30.apl",
+    "summary": "مثال 4832 — سعر بعد خصم 30%"
+  },
+  {
+    "number": "4833",
+    "name": "tax 6",
+    "file": "4833-tax-6.apl",
+    "summary": "مثال 4833 — إجمالي مع ضريبة 6%"
+  },
+  {
+    "number": "4834",
+    "name": "simple interest 8",
+    "file": "4834-simple-interest-8.apl",
+    "summary": "مثال 4834 — فائدة بسيطة بنسبة 8%"
+  },
+  {
+    "number": "4835",
+    "name": "compound 8",
+    "file": "4835-compound-8.apl",
+    "summary": "مثال 4835 — مبلغ بعد فائدة مركبة 8%"
+  },
+  {
+    "number": "4836",
+    "name": "discount 40",
+    "file": "4836-discount-40.apl",
+    "summary": "مثال 4836 — سعر بعد خصم 40%"
+  },
+  {
+    "number": "4837",
+    "name": "tax 8",
+    "file": "4837-tax-8.apl",
+    "summary": "مثال 4837 — إجمالي مع ضريبة 8%"
+  },
+  {
+    "number": "4838",
+    "name": "simple interest 10",
+    "file": "4838-simple-interest-10.apl",
+    "summary": "مثال 4838 — فائدة بسيطة بنسبة 10%"
+  },
+  {
+    "number": "4839",
+    "name": "compound 10",
+    "file": "4839-compound-10.apl",
+    "summary": "مثال 4839 — مبلغ بعد فائدة مركبة 10%"
+  },
+  {
+    "number": "4840",
+    "name": "discount 50",
+    "file": "4840-discount-50.apl",
+    "summary": "مثال 4840 — سعر بعد خصم 50%"
+  },
+  {
+    "number": "4841",
+    "name": "tax 10",
+    "file": "4841-tax-10.apl",
+    "summary": "مثال 4841 — إجمالي مع ضريبة 10%"
+  },
+  {
+    "number": "4842",
+    "name": "simple interest 12",
+    "file": "4842-simple-interest-12.apl",
+    "summary": "مثال 4842 — فائدة بسيطة بنسبة 12%"
+  },
+  {
+    "number": "4843",
+    "name": "compound 12",
+    "file": "4843-compound-12.apl",
+    "summary": "مثال 4843 — مبلغ بعد فائدة مركبة 12%"
+  },
+  {
+    "number": "4844",
+    "name": "discount 60",
+    "file": "4844-discount-60.apl",
+    "summary": "مثال 4844 — سعر بعد خصم 60%"
+  },
+  {
+    "number": "4845",
+    "name": "tax 12",
+    "file": "4845-tax-12.apl",
+    "summary": "مثال 4845 — إجمالي مع ضريبة 12%"
+  },
+  {
+    "number": "4846",
+    "name": "simple interest 15",
+    "file": "4846-simple-interest-15.apl",
+    "summary": "مثال 4846 — فائدة بسيطة بنسبة 15%"
+  },
+  {
+    "number": "4847",
+    "name": "compound 15",
+    "file": "4847-compound-15.apl",
+    "summary": "مثال 4847 — مبلغ بعد فائدة مركبة 15%"
+  },
+  {
+    "number": "4848",
+    "name": "discount 75",
+    "file": "4848-discount-75.apl",
+    "summary": "مثال 4848 — سعر بعد خصم 75%"
+  },
+  {
+    "number": "4849",
+    "name": "tax 15",
+    "file": "4849-tax-15.apl",
+    "summary": "مثال 4849 — إجمالي مع ضريبة 15%"
+  },
+  {
+    "number": "4850",
+    "name": "polygon perimeter 2",
+    "file": "4850-polygon-perimeter-2.apl",
+    "summary": "مثال 4850 — محيط مضلع منتظم عدد أضلاعه 2"
+  },
+  {
+    "number": "4851",
+    "name": "rect area ratio 2",
+    "file": "4851-rect-area-ratio-2.apl",
+    "summary": "مثال 4851 — مساحة مستطيل طوله 2 أضعاف عرضه"
+  },
+  {
+    "number": "4852",
+    "name": "triangle number 2",
+    "file": "4852-triangle-number-2.apl",
+    "summary": "مثال 4852 — مجموع الأعداد من 1 إلى ضعف 2 وزيادة"
+  },
+  {
+    "number": "4853",
+    "name": "polygon perimeter 3",
+    "file": "4853-polygon-perimeter-3.apl",
+    "summary": "مثال 4853 — محيط مضلع منتظم عدد أضلاعه 3"
+  },
+  {
+    "number": "4854",
+    "name": "rect area ratio 3",
+    "file": "4854-rect-area-ratio-3.apl",
+    "summary": "مثال 4854 — مساحة مستطيل طوله 3 أضعاف عرضه"
+  },
+  {
+    "number": "4855",
+    "name": "triangle number 3",
+    "file": "4855-triangle-number-3.apl",
+    "summary": "مثال 4855 — مجموع الأعداد من 1 إلى ضعف 3 وزيادة"
+  },
+  {
+    "number": "4856",
+    "name": "polygon perimeter 4",
+    "file": "4856-polygon-perimeter-4.apl",
+    "summary": "مثال 4856 — محيط مضلع منتظم عدد أضلاعه 4"
+  },
+  {
+    "number": "4857",
+    "name": "rect area ratio 4",
+    "file": "4857-rect-area-ratio-4.apl",
+    "summary": "مثال 4857 — مساحة مستطيل طوله 4 أضعاف عرضه"
+  },
+  {
+    "number": "4858",
+    "name": "triangle number 4",
+    "file": "4858-triangle-number-4.apl",
+    "summary": "مثال 4858 — مجموع الأعداد من 1 إلى ضعف 4 وزيادة"
+  },
+  {
+    "number": "4859",
+    "name": "polygon perimeter 5",
+    "file": "4859-polygon-perimeter-5.apl",
+    "summary": "مثال 4859 — محيط مضلع منتظم عدد أضلاعه 5"
+  },
+  {
+    "number": "4860",
+    "name": "rect area ratio 5",
+    "file": "4860-rect-area-ratio-5.apl",
+    "summary": "مثال 4860 — مساحة مستطيل طوله 5 أضعاف عرضه"
+  },
+  {
+    "number": "4861",
+    "name": "triangle number 5",
+    "file": "4861-triangle-number-5.apl",
+    "summary": "مثال 4861 — مجموع الأعداد من 1 إلى ضعف 5 وزيادة"
+  },
+  {
+    "number": "4862",
+    "name": "polygon perimeter 6",
+    "file": "4862-polygon-perimeter-6.apl",
+    "summary": "مثال 4862 — محيط مضلع منتظم عدد أضلاعه 6"
+  },
+  {
+    "number": "4863",
+    "name": "rect area ratio 6",
+    "file": "4863-rect-area-ratio-6.apl",
+    "summary": "مثال 4863 — مساحة مستطيل طوله 6 أضعاف عرضه"
+  },
+  {
+    "number": "4864",
+    "name": "triangle number 6",
+    "file": "4864-triangle-number-6.apl",
+    "summary": "مثال 4864 — مجموع الأعداد من 1 إلى ضعف 6 وزيادة"
+  },
+  {
+    "number": "4865",
+    "name": "polygon perimeter 7",
+    "file": "4865-polygon-perimeter-7.apl",
+    "summary": "مثال 4865 — محيط مضلع منتظم عدد أضلاعه 7"
+  },
+  {
+    "number": "4866",
+    "name": "rect area ratio 7",
+    "file": "4866-rect-area-ratio-7.apl",
+    "summary": "مثال 4866 — مساحة مستطيل طوله 7 أضعاف عرضه"
+  },
+  {
+    "number": "4867",
+    "name": "triangle number 7",
+    "file": "4867-triangle-number-7.apl",
+    "summary": "مثال 4867 — مجموع الأعداد من 1 إلى ضعف 7 وزيادة"
+  },
+  {
+    "number": "4868",
+    "name": "polygon perimeter 8",
+    "file": "4868-polygon-perimeter-8.apl",
+    "summary": "مثال 4868 — محيط مضلع منتظم عدد أضلاعه 8"
+  },
+  {
+    "number": "4869",
+    "name": "rect area ratio 8",
+    "file": "4869-rect-area-ratio-8.apl",
+    "summary": "مثال 4869 — مساحة مستطيل طوله 8 أضعاف عرضه"
+  },
+  {
+    "number": "4870",
+    "name": "triangle number 8",
+    "file": "4870-triangle-number-8.apl",
+    "summary": "مثال 4870 — مجموع الأعداد من 1 إلى ضعف 8 وزيادة"
+  },
+  {
+    "number": "4871",
+    "name": "polygon perimeter 9",
+    "file": "4871-polygon-perimeter-9.apl",
+    "summary": "مثال 4871 — محيط مضلع منتظم عدد أضلاعه 9"
+  },
+  {
+    "number": "4872",
+    "name": "rect area ratio 9",
+    "file": "4872-rect-area-ratio-9.apl",
+    "summary": "مثال 4872 — مساحة مستطيل طوله 9 أضعاف عرضه"
+  },
+  {
+    "number": "4873",
+    "name": "triangle number 9",
+    "file": "4873-triangle-number-9.apl",
+    "summary": "مثال 4873 — مجموع الأعداد من 1 إلى ضعف 9 وزيادة"
+  },
+  {
+    "number": "4874",
+    "name": "polygon perimeter 10",
+    "file": "4874-polygon-perimeter-10.apl",
+    "summary": "مثال 4874 — محيط مضلع منتظم عدد أضلاعه 10"
+  },
+  {
+    "number": "4875",
+    "name": "rect area ratio 10",
+    "file": "4875-rect-area-ratio-10.apl",
+    "summary": "مثال 4875 — مساحة مستطيل طوله 10 أضعاف عرضه"
+  },
+  {
+    "number": "4876",
+    "name": "triangle number 10",
+    "file": "4876-triangle-number-10.apl",
+    "summary": "مثال 4876 — مجموع الأعداد من 1 إلى ضعف 10 وزيادة"
+  },
+  {
+    "number": "4877",
+    "name": "polygon perimeter 11",
+    "file": "4877-polygon-perimeter-11.apl",
+    "summary": "مثال 4877 — محيط مضلع منتظم عدد أضلاعه 11"
+  },
+  {
+    "number": "4878",
+    "name": "rect area ratio 11",
+    "file": "4878-rect-area-ratio-11.apl",
+    "summary": "مثال 4878 — مساحة مستطيل طوله 11 أضعاف عرضه"
+  },
+  {
+    "number": "4879",
+    "name": "triangle number 11",
+    "file": "4879-triangle-number-11.apl",
+    "summary": "مثال 4879 — مجموع الأعداد من 1 إلى ضعف 11 وزيادة"
+  },
+  {
+    "number": "4880",
+    "name": "hypot check 3 4",
+    "file": "4880-hypot-check-3-4.apl",
+    "summary": "مثال 4880 — هل مثلث أضلاعه مضاعفات (3,4) قائم؟"
+  },
+  {
+    "number": "4881",
+    "name": "hypot check 5 12",
+    "file": "4881-hypot-check-5-12.apl",
+    "summary": "مثال 4881 — هل مثلث أضلاعه مضاعفات (5,12) قائم؟"
+  },
+  {
+    "number": "4882",
+    "name": "hypot check 8 15",
+    "file": "4882-hypot-check-8-15.apl",
+    "summary": "مثال 4882 — هل مثلث أضلاعه مضاعفات (8,15) قائم؟"
+  },
+  {
+    "number": "4883",
+    "name": "hypot check 7 24",
+    "file": "4883-hypot-check-7-24.apl",
+    "summary": "مثال 4883 — هل مثلث أضلاعه مضاعفات (7,24) قائم؟"
+  },
+  {
+    "number": "4884",
+    "name": "hypot check 20 21",
+    "file": "4884-hypot-check-20-21.apl",
+    "summary": "مثال 4884 — هل مثلث أضلاعه مضاعفات (20,21) قائم؟"
+  },
+  {
+    "number": "4885",
+    "name": "hypot check 9 40",
+    "file": "4885-hypot-check-9-40.apl",
+    "summary": "مثال 4885 — هل مثلث أضلاعه مضاعفات (9,40) قائم؟"
+  },
+  {
+    "number": "4886",
+    "name": "split by 7",
+    "file": "4886-split-by-7.apl",
+    "summary": "مثال 4886 — تقسيم القيمة على 7 إلى (خارج, باقي)"
+  },
+  {
+    "number": "4887",
+    "name": "split by 12",
+    "file": "4887-split-by-12.apl",
+    "summary": "مثال 4887 — تقسيم القيمة على 12 إلى (خارج, باقي)"
+  },
+  {
+    "number": "4888",
+    "name": "split by 24",
+    "file": "4888-split-by-24.apl",
+    "summary": "مثال 4888 — تقسيم القيمة على 24 إلى (خارج, باقي)"
+  },
+  {
+    "number": "4889",
+    "name": "split by 60",
+    "file": "4889-split-by-60.apl",
+    "summary": "مثال 4889 — تقسيم القيمة على 60 إلى (خارج, باقي)"
+  },
+  {
+    "number": "4890",
+    "name": "split by 100",
+    "file": "4890-split-by-100.apl",
+    "summary": "مثال 4890 — تقسيم القيمة على 100 إلى (خارج, باقي)"
+  },
+  {
+    "number": "4891",
+    "name": "split by 365",
+    "file": "4891-split-by-365.apl",
+    "summary": "مثال 4891 — تقسيم القيمة على 365 إلى (خارج, باقي)"
+  },
+  {
+    "number": "4892",
+    "name": "clock add 2",
+    "file": "4892-clock-add-2.apl",
+    "summary": "مثال 4892 — جمع 2 ساعات على الساعة (نظام 12)"
+  },
+  {
+    "number": "4893",
+    "name": "week day shift 2",
+    "file": "4893-week-day-shift-2.apl",
+    "summary": "مثال 4893 — اليوم بعد 2 أيام"
+  },
+  {
+    "number": "4894",
+    "name": "clock add 3",
+    "file": "4894-clock-add-3.apl",
+    "summary": "مثال 4894 — جمع 3 ساعات على الساعة (نظام 12)"
+  },
+  {
+    "number": "4895",
+    "name": "week day shift 3",
+    "file": "4895-week-day-shift-3.apl",
+    "summary": "مثال 4895 — اليوم بعد 3 أيام"
+  },
+  {
+    "number": "4896",
+    "name": "clock add 4",
+    "file": "4896-clock-add-4.apl",
+    "summary": "مثال 4896 — جمع 4 ساعات على الساعة (نظام 12)"
+  },
+  {
+    "number": "4897",
+    "name": "week day shift 4",
+    "file": "4897-week-day-shift-4.apl",
+    "summary": "مثال 4897 — اليوم بعد 4 أيام"
+  },
+  {
+    "number": "4898",
+    "name": "clock add 5",
+    "file": "4898-clock-add-5.apl",
+    "summary": "مثال 4898 — جمع 5 ساعات على الساعة (نظام 12)"
+  },
+  {
+    "number": "4899",
+    "name": "week day shift 5",
+    "file": "4899-week-day-shift-5.apl",
+    "summary": "مثال 4899 — اليوم بعد 5 أيام"
+  },
+  {
+    "number": "4900",
+    "name": "clock add 6",
+    "file": "4900-clock-add-6.apl",
+    "summary": "مثال 4900 — جمع 6 ساعات على الساعة (نظام 12)"
+  },
+  {
+    "number": "4901",
+    "name": "week day shift 6",
+    "file": "4901-week-day-shift-6.apl",
+    "summary": "مثال 4901 — اليوم بعد 6 أيام"
+  },
+  {
+    "number": "4902",
+    "name": "clock add 7",
+    "file": "4902-clock-add-7.apl",
+    "summary": "مثال 4902 — جمع 7 ساعات على الساعة (نظام 12)"
+  },
+  {
+    "number": "4903",
+    "name": "week day shift 7",
+    "file": "4903-week-day-shift-7.apl",
+    "summary": "مثال 4903 — اليوم بعد 7 أيام"
+  },
+  {
+    "number": "4904",
+    "name": "clock add 8",
+    "file": "4904-clock-add-8.apl",
+    "summary": "مثال 4904 — جمع 8 ساعات على الساعة (نظام 12)"
+  },
+  {
+    "number": "4905",
+    "name": "week day shift 8",
+    "file": "4905-week-day-shift-8.apl",
+    "summary": "مثال 4905 — اليوم بعد 8 أيام"
+  },
+  {
+    "number": "4906",
+    "name": "clock add 9",
+    "file": "4906-clock-add-9.apl",
+    "summary": "مثال 4906 — جمع 9 ساعات على الساعة (نظام 12)"
+  },
+  {
+    "number": "4907",
+    "name": "week day shift 9",
+    "file": "4907-week-day-shift-9.apl",
+    "summary": "مثال 4907 — اليوم بعد 9 أيام"
+  },
+  {
+    "number": "4908",
+    "name": "clock add 10",
+    "file": "4908-clock-add-10.apl",
+    "summary": "مثال 4908 — جمع 10 ساعات على الساعة (نظام 12)"
+  },
+  {
+    "number": "4909",
+    "name": "week day shift 10",
+    "file": "4909-week-day-shift-10.apl",
+    "summary": "مثال 4909 — اليوم بعد 10 أيام"
+  },
+  {
+    "number": "4910",
+    "name": "clock add 11",
+    "file": "4910-clock-add-11.apl",
+    "summary": "مثال 4910 — جمع 11 ساعات على الساعة (نظام 12)"
+  },
+  {
+    "number": "4911",
+    "name": "week day shift 11",
+    "file": "4911-week-day-shift-11.apl",
+    "summary": "مثال 4911 — اليوم بعد 11 أيام"
+  },
+  {
+    "number": "4912",
+    "name": "window sum 2",
+    "file": "4912-window-sum-2.apl",
+    "summary": "مثال 4912 — مجاميع نافذة بحجم 2"
+  },
+  {
+    "number": "4913",
+    "name": "window max 2",
+    "file": "4913-window-max-2.apl",
+    "summary": "مثال 4913 — أكبر قيمة في كل نافذة بحجم 2"
+  },
+  {
+    "number": "4914",
+    "name": "window sum 3",
+    "file": "4914-window-sum-3.apl",
+    "summary": "مثال 4914 — مجاميع نافذة بحجم 3"
+  },
+  {
+    "number": "4915",
+    "name": "window max 3",
+    "file": "4915-window-max-3.apl",
+    "summary": "مثال 4915 — أكبر قيمة في كل نافذة بحجم 3"
+  },
+  {
+    "number": "4916",
+    "name": "window sum 4",
+    "file": "4916-window-sum-4.apl",
+    "summary": "مثال 4916 — مجاميع نافذة بحجم 4"
+  },
+  {
+    "number": "4917",
+    "name": "window max 4",
+    "file": "4917-window-max-4.apl",
+    "summary": "مثال 4917 — أكبر قيمة في كل نافذة بحجم 4"
+  },
+  {
+    "number": "4918",
+    "name": "window sum 5",
+    "file": "4918-window-sum-5.apl",
+    "summary": "مثال 4918 — مجاميع نافذة بحجم 5"
+  },
+  {
+    "number": "4919",
+    "name": "window max 5",
+    "file": "4919-window-max-5.apl",
+    "summary": "مثال 4919 — أكبر قيمة في كل نافذة بحجم 5"
+  },
+  {
+    "number": "4920",
+    "name": "window sum 6",
+    "file": "4920-window-sum-6.apl",
+    "summary": "مثال 4920 — مجاميع نافذة بحجم 6"
+  },
+  {
+    "number": "4921",
+    "name": "window max 6",
+    "file": "4921-window-max-6.apl",
+    "summary": "مثال 4921 — أكبر قيمة في كل نافذة بحجم 6"
+  },
+  {
+    "number": "4922",
+    "name": "window sum 7",
+    "file": "4922-window-sum-7.apl",
+    "summary": "مثال 4922 — مجاميع نافذة بحجم 7"
+  },
+  {
+    "number": "4923",
+    "name": "window max 7",
+    "file": "4923-window-max-7.apl",
+    "summary": "مثال 4923 — أكبر قيمة في كل نافذة بحجم 7"
+  },
+  {
+    "number": "4924",
+    "name": "window sum 8",
+    "file": "4924-window-sum-8.apl",
+    "summary": "مثال 4924 — مجاميع نافذة بحجم 8"
+  },
+  {
+    "number": "4925",
+    "name": "window max 8",
+    "file": "4925-window-max-8.apl",
+    "summary": "مثال 4925 — أكبر قيمة في كل نافذة بحجم 8"
+  },
+  {
+    "number": "4926",
+    "name": "window sum 9",
+    "file": "4926-window-sum-9.apl",
+    "summary": "مثال 4926 — مجاميع نافذة بحجم 9"
+  },
+  {
+    "number": "4927",
+    "name": "window max 9",
+    "file": "4927-window-max-9.apl",
+    "summary": "مثال 4927 — أكبر قيمة في كل نافذة بحجم 9"
+  },
+  {
+    "number": "4928",
+    "name": "every kth 2",
+    "file": "4928-every-kth-2.apl",
+    "summary": "مثال 4928 — كل عنصر رقم 2"
+  },
+  {
+    "number": "4929",
+    "name": "rotate left 2",
+    "file": "4929-rotate-left-2.apl",
+    "summary": "مثال 4929 — تدوير القائمة 2 خانات لليسار"
+  },
+  {
+    "number": "4930",
+    "name": "chunk 2",
+    "file": "4930-chunk-2.apl",
+    "summary": "مثال 4930 — تقسيم القائمة إلى أجزاء بحجم 2"
+  },
+  {
+    "number": "4931",
+    "name": "every kth 3",
+    "file": "4931-every-kth-3.apl",
+    "summary": "مثال 4931 — كل عنصر رقم 3"
+  },
+  {
+    "number": "4932",
+    "name": "rotate left 3",
+    "file": "4932-rotate-left-3.apl",
+    "summary": "مثال 4932 — تدوير القائمة 3 خانات لليسار"
+  },
+  {
+    "number": "4933",
+    "name": "chunk 3",
+    "file": "4933-chunk-3.apl",
+    "summary": "مثال 4933 — تقسيم القائمة إلى أجزاء بحجم 3"
+  },
+  {
+    "number": "4934",
+    "name": "every kth 4",
+    "file": "4934-every-kth-4.apl",
+    "summary": "مثال 4934 — كل عنصر رقم 4"
+  },
+  {
+    "number": "4935",
+    "name": "rotate left 4",
+    "file": "4935-rotate-left-4.apl",
+    "summary": "مثال 4935 — تدوير القائمة 4 خانات لليسار"
+  },
+  {
+    "number": "4936",
+    "name": "chunk 4",
+    "file": "4936-chunk-4.apl",
+    "summary": "مثال 4936 — تقسيم القائمة إلى أجزاء بحجم 4"
+  },
+  {
+    "number": "4937",
+    "name": "every kth 5",
+    "file": "4937-every-kth-5.apl",
+    "summary": "مثال 4937 — كل عنصر رقم 5"
+  },
+  {
+    "number": "4938",
+    "name": "rotate left 5",
+    "file": "4938-rotate-left-5.apl",
+    "summary": "مثال 4938 — تدوير القائمة 5 خانات لليسار"
+  },
+  {
+    "number": "4939",
+    "name": "chunk 5",
+    "file": "4939-chunk-5.apl",
+    "summary": "مثال 4939 — تقسيم القائمة إلى أجزاء بحجم 5"
+  },
+  {
+    "number": "4940",
+    "name": "every kth 6",
+    "file": "4940-every-kth-6.apl",
+    "summary": "مثال 4940 — كل عنصر رقم 6"
+  },
+  {
+    "number": "4941",
+    "name": "rotate left 6",
+    "file": "4941-rotate-left-6.apl",
+    "summary": "مثال 4941 — تدوير القائمة 6 خانات لليسار"
+  },
+  {
+    "number": "4942",
+    "name": "chunk 6",
+    "file": "4942-chunk-6.apl",
+    "summary": "مثال 4942 — تقسيم القائمة إلى أجزاء بحجم 6"
+  },
+  {
+    "number": "4943",
+    "name": "every kth 7",
+    "file": "4943-every-kth-7.apl",
+    "summary": "مثال 4943 — كل عنصر رقم 7"
+  },
+  {
+    "number": "4944",
+    "name": "rotate left 7",
+    "file": "4944-rotate-left-7.apl",
+    "summary": "مثال 4944 — تدوير القائمة 7 خانات لليسار"
+  },
+  {
+    "number": "4945",
+    "name": "chunk 7",
+    "file": "4945-chunk-7.apl",
+    "summary": "مثال 4945 — تقسيم القائمة إلى أجزاء بحجم 7"
+  },
+  {
+    "number": "4946",
+    "name": "every kth 8",
+    "file": "4946-every-kth-8.apl",
+    "summary": "مثال 4946 — كل عنصر رقم 8"
+  },
+  {
+    "number": "4947",
+    "name": "rotate left 8",
+    "file": "4947-rotate-left-8.apl",
+    "summary": "مثال 4947 — تدوير القائمة 8 خانات لليسار"
+  },
+  {
+    "number": "4948",
+    "name": "chunk 8",
+    "file": "4948-chunk-8.apl",
+    "summary": "مثال 4948 — تقسيم القائمة إلى أجزاء بحجم 8"
+  },
+  {
+    "number": "4949",
+    "name": "every kth 9",
+    "file": "4949-every-kth-9.apl",
+    "summary": "مثال 4949 — كل عنصر رقم 9"
+  },
+  {
+    "number": "4950",
+    "name": "rotate left 9",
+    "file": "4950-rotate-left-9.apl",
+    "summary": "مثال 4950 — تدوير القائمة 9 خانات لليسار"
+  },
+  {
+    "number": "4951",
+    "name": "chunk 9",
+    "file": "4951-chunk-9.apl",
+    "summary": "مثال 4951 — تقسيم القائمة إلى أجزاء بحجم 9"
+  },
+  {
+    "number": "4952",
+    "name": "caesar 1",
+    "file": "4952-caesar-1.apl",
+    "summary": "مثال 4952 — شيفرة قيصر بإزاحة 1"
+  },
+  {
+    "number": "4953",
+    "name": "caesar 2",
+    "file": "4953-caesar-2.apl",
+    "summary": "مثال 4953 — شيفرة قيصر بإزاحة 2"
+  },
+  {
+    "number": "4954",
+    "name": "caesar 3",
+    "file": "4954-caesar-3.apl",
+    "summary": "مثال 4954 — شيفرة قيصر بإزاحة 3"
+  },
+  {
+    "number": "4955",
+    "name": "caesar 4",
+    "file": "4955-caesar-4.apl",
+    "summary": "مثال 4955 — شيفرة قيصر بإزاحة 4"
+  },
+  {
+    "number": "4956",
+    "name": "caesar 5",
+    "file": "4956-caesar-5.apl",
+    "summary": "مثال 4956 — شيفرة قيصر بإزاحة 5"
+  },
+  {
+    "number": "4957",
+    "name": "caesar 6",
+    "file": "4957-caesar-6.apl",
+    "summary": "مثال 4957 — شيفرة قيصر بإزاحة 6"
+  },
+  {
+    "number": "4958",
+    "name": "caesar 7",
+    "file": "4958-caesar-7.apl",
+    "summary": "مثال 4958 — شيفرة قيصر بإزاحة 7"
+  },
+  {
+    "number": "4959",
+    "name": "caesar 8",
+    "file": "4959-caesar-8.apl",
+    "summary": "مثال 4959 — شيفرة قيصر بإزاحة 8"
+  },
+  {
+    "number": "4960",
+    "name": "caesar 9",
+    "file": "4960-caesar-9.apl",
+    "summary": "مثال 4960 — شيفرة قيصر بإزاحة 9"
+  },
+  {
+    "number": "4961",
+    "name": "caesar 10",
+    "file": "4961-caesar-10.apl",
+    "summary": "مثال 4961 — شيفرة قيصر بإزاحة 10"
+  },
+  {
+    "number": "4962",
+    "name": "caesar 11",
+    "file": "4962-caesar-11.apl",
+    "summary": "مثال 4962 — شيفرة قيصر بإزاحة 11"
+  },
+  {
+    "number": "4963",
+    "name": "caesar 12",
+    "file": "4963-caesar-12.apl",
+    "summary": "مثال 4963 — شيفرة قيصر بإزاحة 12"
+  },
+  {
+    "number": "4964",
+    "name": "caesar 13",
+    "file": "4964-caesar-13.apl",
+    "summary": "مثال 4964 — شيفرة قيصر بإزاحة 13"
+  },
+  {
+    "number": "4965",
+    "name": "balanced round",
+    "file": "4965-balanced-round.apl",
+    "summary": "مثال 4965 — تحقق توازن الأقواس round"
+  },
+  {
+    "number": "4966",
+    "name": "balanced square",
+    "file": "4966-balanced-square.apl",
+    "summary": "مثال 4966 — تحقق توازن الأقواس square"
+  },
+  {
+    "number": "4967",
+    "name": "balanced curly",
+    "file": "4967-balanced-curly.apl",
+    "summary": "مثال 4967 — تحقق توازن الأقواس curly"
+  },
+  {
+    "number": "4968",
+    "name": "balanced angle",
+    "file": "4968-balanced-angle.apl",
+    "summary": "مثال 4968 — تحقق توازن الأقواس angle"
+  },
+  {
+    "number": "4969",
+    "name": "repeat str 2",
+    "file": "4969-repeat-str-2.apl",
+    "summary": "مثال 4969 — تكرار النص 2 مرات بفاصل"
+  },
+  {
+    "number": "4970",
+    "name": "multiples 2",
+    "file": "4970-multiples-2.apl",
+    "summary": "مثال 4970 — أول 8 مضاعفات للعدد 2 بدءاً من n"
+  },
+  {
+    "number": "4971",
+    "name": "count divisible 2",
+    "file": "4971-count-divisible-2.apl",
+    "summary": "مثال 4971 — عدد العناصر القابلة للقسمة على 2"
+  },
+  {
+    "number": "4972",
+    "name": "filter greater 6",
+    "file": "4972-filter-greater-6.apl",
+    "summary": "مثال 4972 — العناصر الأكبر من 6"
+  },
+  {
+    "number": "4973",
+    "name": "power table 2",
+    "file": "4973-power-table-2.apl",
+    "summary": "مثال 4973 — قوى العدد 2 حتى 6"
+  },
+  {
+    "number": "4974",
+    "name": "repeat str 3",
+    "file": "4974-repeat-str-3.apl",
+    "summary": "مثال 4974 — تكرار النص 3 مرات بفاصل"
+  },
+  {
+    "number": "4975",
+    "name": "multiples 3",
+    "file": "4975-multiples-3.apl",
+    "summary": "مثال 4975 — أول 8 مضاعفات للعدد 3 بدءاً من n"
+  },
+  {
+    "number": "4976",
+    "name": "count divisible 3",
+    "file": "4976-count-divisible-3.apl",
+    "summary": "مثال 4976 — عدد العناصر القابلة للقسمة على 3"
+  },
+  {
+    "number": "4977",
+    "name": "filter greater 9",
+    "file": "4977-filter-greater-9.apl",
+    "summary": "مثال 4977 — العناصر الأكبر من 9"
+  },
+  {
+    "number": "4978",
+    "name": "power table 3",
+    "file": "4978-power-table-3.apl",
+    "summary": "مثال 4978 — قوى العدد 3 حتى 6"
+  },
+  {
+    "number": "4979",
+    "name": "repeat str 4",
+    "file": "4979-repeat-str-4.apl",
+    "summary": "مثال 4979 — تكرار النص 4 مرات بفاصل"
+  },
+  {
+    "number": "4980",
+    "name": "multiples 4",
+    "file": "4980-multiples-4.apl",
+    "summary": "مثال 4980 — أول 8 مضاعفات للعدد 4 بدءاً من n"
+  },
+  {
+    "number": "4981",
+    "name": "count divisible 4",
+    "file": "4981-count-divisible-4.apl",
+    "summary": "مثال 4981 — عدد العناصر القابلة للقسمة على 4"
+  },
+  {
+    "number": "4982",
+    "name": "filter greater 12",
+    "file": "4982-filter-greater-12.apl",
+    "summary": "مثال 4982 — العناصر الأكبر من 12"
+  },
+  {
+    "number": "4983",
+    "name": "power table 4",
+    "file": "4983-power-table-4.apl",
+    "summary": "مثال 4983 — قوى العدد 4 حتى 6"
+  },
+  {
+    "number": "4984",
+    "name": "repeat str 5",
+    "file": "4984-repeat-str-5.apl",
+    "summary": "مثال 4984 — تكرار النص 5 مرات بفاصل"
+  },
+  {
+    "number": "4985",
+    "name": "multiples 5",
+    "file": "4985-multiples-5.apl",
+    "summary": "مثال 4985 — أول 8 مضاعفات للعدد 5 بدءاً من n"
+  },
+  {
+    "number": "4986",
+    "name": "count divisible 5",
+    "file": "4986-count-divisible-5.apl",
+    "summary": "مثال 4986 — عدد العناصر القابلة للقسمة على 5"
+  },
+  {
+    "number": "4987",
+    "name": "filter greater 15",
+    "file": "4987-filter-greater-15.apl",
+    "summary": "مثال 4987 — العناصر الأكبر من 15"
+  },
+  {
+    "number": "4988",
+    "name": "power table 5",
+    "file": "4988-power-table-5.apl",
+    "summary": "مثال 4988 — قوى العدد 5 حتى 6"
+  },
+  {
+    "number": "4989",
+    "name": "repeat str 6",
+    "file": "4989-repeat-str-6.apl",
+    "summary": "مثال 4989 — تكرار النص 6 مرات بفاصل"
+  },
+  {
+    "number": "4990",
+    "name": "multiples 6",
+    "file": "4990-multiples-6.apl",
+    "summary": "مثال 4990 — أول 8 مضاعفات للعدد 6 بدءاً من n"
+  },
+  {
+    "number": "4991",
+    "name": "count divisible 6",
+    "file": "4991-count-divisible-6.apl",
+    "summary": "مثال 4991 — عدد العناصر القابلة للقسمة على 6"
+  },
+  {
+    "number": "4992",
+    "name": "filter greater 18",
+    "file": "4992-filter-greater-18.apl",
+    "summary": "مثال 4992 — العناصر الأكبر من 18"
+  },
+  {
+    "number": "4993",
+    "name": "power table 6",
+    "file": "4993-power-table-6.apl",
+    "summary": "مثال 4993 — قوى العدد 6 حتى 6"
+  },
+  {
+    "number": "4994",
+    "name": "repeat str 7",
+    "file": "4994-repeat-str-7.apl",
+    "summary": "مثال 4994 — تكرار النص 7 مرات بفاصل"
+  },
+  {
+    "number": "4995",
+    "name": "multiples 7",
+    "file": "4995-multiples-7.apl",
+    "summary": "مثال 4995 — أول 8 مضاعفات للعدد 7 بدءاً من n"
+  },
+  {
+    "number": "4996",
+    "name": "count divisible 7",
+    "file": "4996-count-divisible-7.apl",
+    "summary": "مثال 4996 — عدد العناصر القابلة للقسمة على 7"
+  },
+  {
+    "number": "4997",
+    "name": "filter greater 21",
+    "file": "4997-filter-greater-21.apl",
+    "summary": "مثال 4997 — العناصر الأكبر من 21"
+  },
+  {
+    "number": "4998",
+    "name": "power table 7",
+    "file": "4998-power-table-7.apl",
+    "summary": "مثال 4998 — قوى العدد 7 حتى 6"
+  },
+  {
+    "number": "4999",
+    "name": "repeat str 8",
+    "file": "4999-repeat-str-8.apl",
+    "summary": "مثال 4999 — تكرار النص 8 مرات بفاصل"
+  },
+  {
+    "number": "5000",
+    "name": "multiples 8",
+    "file": "5000-multiples-8.apl",
+    "summary": "مثال 5000 — أول 8 مضاعفات للعدد 8 بدءاً من n"
+  },
+  {
+    "number": "5001",
+    "name": "count divisible 8",
+    "file": "5001-count-divisible-8.apl",
+    "summary": "مثال 5001 — عدد العناصر القابلة للقسمة على 8"
+  },
+  {
+    "number": "5002",
+    "name": "filter greater 24",
+    "file": "5002-filter-greater-24.apl",
+    "summary": "مثال 5002 — العناصر الأكبر من 24"
+  },
+  {
+    "number": "5003",
+    "name": "power table 8",
+    "file": "5003-power-table-8.apl",
+    "summary": "مثال 5003 — قوى العدد 8 حتى 6"
+  },
+  {
+    "number": "5004",
+    "name": "repeat str 9",
+    "file": "5004-repeat-str-9.apl",
+    "summary": "مثال 5004 — تكرار النص 9 مرات بفاصل"
+  },
+  {
+    "number": "5005",
+    "name": "multiples 9",
+    "file": "5005-multiples-9.apl",
+    "summary": "مثال 5005 — أول 8 مضاعفات للعدد 9 بدءاً من n"
+  },
+  {
+    "number": "5006",
+    "name": "count divisible 9",
+    "file": "5006-count-divisible-9.apl",
+    "summary": "مثال 5006 — عدد العناصر القابلة للقسمة على 9"
+  },
+  {
+    "number": "5007",
+    "name": "filter greater 27",
+    "file": "5007-filter-greater-27.apl",
+    "summary": "مثال 5007 — العناصر الأكبر من 27"
+  },
+  {
+    "number": "5008",
+    "name": "power table 9",
+    "file": "5008-power-table-9.apl",
+    "summary": "مثال 5008 — قوى العدد 9 حتى 6"
+  },
+  {
+    "number": "5009",
+    "name": "repeat str 10",
+    "file": "5009-repeat-str-10.apl",
+    "summary": "مثال 5009 — تكرار النص 10 مرات بفاصل"
+  },
+  {
+    "number": "5010",
+    "name": "multiples 10",
+    "file": "5010-multiples-10.apl",
+    "summary": "مثال 5010 — أول 8 مضاعفات للعدد 10 بدءاً من n"
+  },
+  {
+    "number": "5011",
+    "name": "count divisible 10",
+    "file": "5011-count-divisible-10.apl",
+    "summary": "مثال 5011 — عدد العناصر القابلة للقسمة على 10"
+  },
+  {
+    "number": "5012",
+    "name": "filter greater 30",
+    "file": "5012-filter-greater-30.apl",
+    "summary": "مثال 5012 — العناصر الأكبر من 30"
+  },
+  {
+    "number": "5013",
+    "name": "power table 10",
+    "file": "5013-power-table-10.apl",
+    "summary": "مثال 5013 — قوى العدد 10 حتى 6"
+  },
+  {
+    "number": "5014",
+    "name": "repeat str 11",
+    "file": "5014-repeat-str-11.apl",
+    "summary": "مثال 5014 — تكرار النص 11 مرات بفاصل"
+  },
+  {
+    "number": "5015",
+    "name": "multiples 11",
+    "file": "5015-multiples-11.apl",
+    "summary": "مثال 5015 — أول 8 مضاعفات للعدد 11 بدءاً من n"
+  },
+  {
+    "number": "5016",
+    "name": "count divisible 11",
+    "file": "5016-count-divisible-11.apl",
+    "summary": "مثال 5016 — عدد العناصر القابلة للقسمة على 11"
+  },
+  {
+    "number": "5017",
+    "name": "filter greater 33",
+    "file": "5017-filter-greater-33.apl",
+    "summary": "مثال 5017 — العناصر الأكبر من 33"
+  },
+  {
+    "number": "5018",
+    "name": "power table 11",
+    "file": "5018-power-table-11.apl",
+    "summary": "مثال 5018 — قوى العدد 11 حتى 6"
+  },
+  {
+    "number": "5019",
+    "name": "fizz 3 5",
+    "file": "5019-fizz-3-5.apl",
+    "summary": "مثال 5019 — فيزباز بالعددين 3 و 5"
+  },
+  {
+    "number": "5020",
+    "name": "fizz 2 7",
+    "file": "5020-fizz-2-7.apl",
+    "summary": "مثال 5020 — فيزباز بالعددين 2 و 7"
+  },
+  {
+    "number": "5021",
+    "name": "fizz 4 6",
+    "file": "5021-fizz-4-6.apl",
+    "summary": "مثال 5021 — فيزباز بالعددين 4 و 6"
+  },
+  {
+    "number": "5022",
+    "name": "fizz 3 7",
+    "file": "5022-fizz-3-7.apl",
+    "summary": "مثال 5022 — فيزباز بالعددين 3 و 7"
+  },
+  {
+    "number": "5023",
+    "name": "fizz 5 7",
+    "file": "5023-fizz-5-7.apl",
+    "summary": "مثال 5023 — فيزباز بالعددين 5 و 7"
+  },
+  {
+    "number": "5024",
+    "name": "fizz 2 3",
+    "file": "5024-fizz-2-3.apl",
+    "summary": "مثال 5024 — فيزباز بالعددين 2 و 3"
+  },
+  {
+    "number": "5025",
+    "name": "fizz 4 9",
+    "file": "5025-fizz-4-9.apl",
+    "summary": "مثال 5025 — فيزباز بالعددين 4 و 9"
+  },
+  {
+    "number": "5026",
+    "name": "fizz 6 10",
+    "file": "5026-fizz-6-10.apl",
+    "summary": "مثال 5026 — فيزباز بالعددين 6 و 10"
+  },
+  {
+    "number": "5027",
+    "name": "fizz 2 5",
+    "file": "5027-fizz-2-5.apl",
+    "summary": "مثال 5027 — فيزباز بالعددين 2 و 5"
+  },
+  {
+    "number": "5028",
+    "name": "fizz 3 11",
+    "file": "5028-fizz-3-11.apl",
+    "summary": "مثال 5028 — فيزباز بالعددين 3 و 11"
+  },
+  {
+    "number": "5029",
+    "name": "fizz 5 9",
+    "file": "5029-fizz-5-9.apl",
+    "summary": "مثال 5029 — فيزباز بالعددين 5 و 9"
+  },
+  {
+    "number": "5030",
+    "name": "fizz 7 13",
+    "file": "5030-fizz-7-13.apl",
+    "summary": "مثال 5030 — فيزباز بالعددين 7 و 13"
+  },
+  {
+    "number": "5031",
+    "name": "clamp 0 10",
+    "file": "5031-clamp-0-10.apl",
+    "summary": "مثال 5031 — حصر القيمة بين 0 و 10"
+  },
+  {
+    "number": "5032",
+    "name": "in range 0 10 p",
+    "file": "5032-in-range-0-10-p.apl",
+    "summary": "مثال 5032 — هل القيمة داخل المدى [0, 10]؟"
+  },
+  {
+    "number": "5033",
+    "name": "clamp 1 5",
+    "file": "5033-clamp-1-5.apl",
+    "summary": "مثال 5033 — حصر القيمة بين 1 و 5"
+  },
+  {
+    "number": "5034",
+    "name": "in range 1 5 p",
+    "file": "5034-in-range-1-5-p.apl",
+    "summary": "مثال 5034 — هل القيمة داخل المدى [1, 5]؟"
+  },
+  {
+    "number": "5035",
+    "name": "clamp neg5 5",
+    "file": "5035-clamp-neg5-5.apl",
+    "summary": "مثال 5035 — حصر القيمة بين -5 و 5"
+  },
+  {
+    "number": "5036",
+    "name": "in range 5 5 n",
+    "file": "5036-in-range-5-5-n.apl",
+    "summary": "مثال 5036 — هل القيمة داخل المدى [-5, 5]؟"
+  },
+  {
+    "number": "5037",
+    "name": "clamp 10 20",
+    "file": "5037-clamp-10-20.apl",
+    "summary": "مثال 5037 — حصر القيمة بين 10 و 20"
+  },
+  {
+    "number": "5038",
+    "name": "in range 10 20 p",
+    "file": "5038-in-range-10-20-p.apl",
+    "summary": "مثال 5038 — هل القيمة داخل المدى [10, 20]؟"
+  },
+  {
+    "number": "5039",
+    "name": "clamp 0 100",
+    "file": "5039-clamp-0-100.apl",
+    "summary": "مثال 5039 — حصر القيمة بين 0 و 100"
+  },
+  {
+    "number": "5040",
+    "name": "in range 0 100 p",
+    "file": "5040-in-range-0-100-p.apl",
+    "summary": "مثال 5040 — هل القيمة داخل المدى [0, 100]؟"
+  },
+  {
+    "number": "5041",
+    "name": "clamp neg10 0",
+    "file": "5041-clamp-neg10-0.apl",
+    "summary": "مثال 5041 — حصر القيمة بين -10 و 0"
+  },
+  {
+    "number": "5042",
+    "name": "in range 10 0 n",
+    "file": "5042-in-range-10-0-n.apl",
+    "summary": "مثال 5042 — هل القيمة داخل المدى [-10, 0]؟"
+  },
+  {
+    "number": "5043",
+    "name": "clamp 5 6",
+    "file": "5043-clamp-5-6.apl",
+    "summary": "مثال 5043 — حصر القيمة بين 5 و 6"
+  },
+  {
+    "number": "5044",
+    "name": "in range 5 6 p",
+    "file": "5044-in-range-5-6-p.apl",
+    "summary": "مثال 5044 — هل القيمة داخل المدى [5, 6]؟"
+  },
+  {
+    "number": "5045",
+    "name": "clamp 50 75",
+    "file": "5045-clamp-50-75.apl",
+    "summary": "مثال 5045 — حصر القيمة بين 50 و 75"
+  },
+  {
+    "number": "5046",
+    "name": "in range 50 75 p",
+    "file": "5046-in-range-50-75-p.apl",
+    "summary": "مثال 5046 — هل القيمة داخل المدى [50, 75]؟"
+  },
+  {
+    "number": "5047",
+    "name": "clamp neg100 100",
+    "file": "5047-clamp-neg100-100.apl",
+    "summary": "مثال 5047 — حصر القيمة بين -100 و 100"
+  },
+  {
+    "number": "5048",
+    "name": "in range 100 100 n",
+    "file": "5048-in-range-100-100-n.apl",
+    "summary": "مثال 5048 — هل القيمة داخل المدى [-100, 100]؟"
+  },
+  {
+    "number": "5049",
+    "name": "clamp 18 65",
+    "file": "5049-clamp-18-65.apl",
+    "summary": "مثال 5049 — حصر القيمة بين 18 و 65"
+  },
+  {
+    "number": "5050",
+    "name": "in range 18 65 p",
+    "file": "5050-in-range-18-65-p.apl",
+    "summary": "مثال 5050 — هل القيمة داخل المدى [18, 65]؟"
+  },
+  {
+    "number": "5051",
+    "name": "count char a",
+    "file": "5051-count-char-a.apl",
+    "summary": "مثال 5051 — عدد مرات الحرف a"
+  },
+  {
+    "number": "5052",
+    "name": "first index a",
+    "file": "5052-first-index-a.apl",
+    "summary": "مثال 5052 — موضع أول ظهور للحرف a"
+  },
+  {
+    "number": "5053",
+    "name": "remove char a",
+    "file": "5053-remove-char-a.apl",
+    "summary": "مثال 5053 — حذف الحرف a من النص"
+  },
+  {
+    "number": "5054",
+    "name": "count char e",
+    "file": "5054-count-char-e.apl",
+    "summary": "مثال 5054 — عدد مرات الحرف e"
+  },
+  {
+    "number": "5055",
+    "name": "first index e",
+    "file": "5055-first-index-e.apl",
+    "summary": "مثال 5055 — موضع أول ظهور للحرف e"
+  },
+  {
+    "number": "5056",
+    "name": "remove char e",
+    "file": "5056-remove-char-e.apl",
+    "summary": "مثال 5056 — حذف الحرف e من النص"
+  },
+  {
+    "number": "5057",
+    "name": "count char i",
+    "file": "5057-count-char-i.apl",
+    "summary": "مثال 5057 — عدد مرات الحرف i"
+  },
+  {
+    "number": "5058",
+    "name": "first index i",
+    "file": "5058-first-index-i.apl",
+    "summary": "مثال 5058 — موضع أول ظهور للحرف i"
+  },
+  {
+    "number": "5059",
+    "name": "remove char i",
+    "file": "5059-remove-char-i.apl",
+    "summary": "مثال 5059 — حذف الحرف i من النص"
+  },
+  {
+    "number": "5060",
+    "name": "count char o",
+    "file": "5060-count-char-o.apl",
+    "summary": "مثال 5060 — عدد مرات الحرف o"
+  },
+  {
+    "number": "5061",
+    "name": "first index o",
+    "file": "5061-first-index-o.apl",
+    "summary": "مثال 5061 — موضع أول ظهور للحرف o"
+  },
+  {
+    "number": "5062",
+    "name": "remove char o",
+    "file": "5062-remove-char-o.apl",
+    "summary": "مثال 5062 — حذف الحرف o من النص"
+  },
+  {
+    "number": "5063",
+    "name": "count char u",
+    "file": "5063-count-char-u.apl",
+    "summary": "مثال 5063 — عدد مرات الحرف u"
+  },
+  {
+    "number": "5064",
+    "name": "first index u",
+    "file": "5064-first-index-u.apl",
+    "summary": "مثال 5064 — موضع أول ظهور للحرف u"
+  },
+  {
+    "number": "5065",
+    "name": "remove char u",
+    "file": "5065-remove-char-u.apl",
+    "summary": "مثال 5065 — حذف الحرف u من النص"
+  },
+  {
+    "number": "5066",
+    "name": "count char y",
+    "file": "5066-count-char-y.apl",
+    "summary": "مثال 5066 — عدد مرات الحرف y"
+  },
+  {
+    "number": "5067",
+    "name": "first index y",
+    "file": "5067-first-index-y.apl",
+    "summary": "مثال 5067 — موضع أول ظهور للحرف y"
+  },
+  {
+    "number": "5068",
+    "name": "remove char y",
+    "file": "5068-remove-char-y.apl",
+    "summary": "مثال 5068 — حذف الحرف y من النص"
+  },
+  {
+    "number": "5069",
+    "name": "count char r",
+    "file": "5069-count-char-r.apl",
+    "summary": "مثال 5069 — عدد مرات الحرف r"
+  },
+  {
+    "number": "5070",
+    "name": "first index r",
+    "file": "5070-first-index-r.apl",
+    "summary": "مثال 5070 — موضع أول ظهور للحرف r"
+  },
+  {
+    "number": "5071",
+    "name": "remove char r",
+    "file": "5071-remove-char-r.apl",
+    "summary": "مثال 5071 — حذف الحرف r من النص"
+  },
+  {
+    "number": "5072",
+    "name": "count char s",
+    "file": "5072-count-char-s.apl",
+    "summary": "مثال 5072 — عدد مرات الحرف s"
+  },
+  {
+    "number": "5073",
+    "name": "first index s",
+    "file": "5073-first-index-s.apl",
+    "summary": "مثال 5073 — موضع أول ظهور للحرف s"
+  },
+  {
+    "number": "5074",
+    "name": "remove char s",
+    "file": "5074-remove-char-s.apl",
+    "summary": "مثال 5074 — حذف الحرف s من النص"
+  },
+  {
+    "number": "5075",
+    "name": "count char t",
+    "file": "5075-count-char-t.apl",
+    "summary": "مثال 5075 — عدد مرات الحرف t"
+  },
+  {
+    "number": "5076",
+    "name": "first index t",
+    "file": "5076-first-index-t.apl",
+    "summary": "مثال 5076 — موضع أول ظهور للحرف t"
+  },
+  {
+    "number": "5077",
+    "name": "remove char t",
+    "file": "5077-remove-char-t.apl",
+    "summary": "مثال 5077 — حذف الحرف t من النص"
+  },
+  {
+    "number": "5078",
+    "name": "count char l",
+    "file": "5078-count-char-l.apl",
+    "summary": "مثال 5078 — عدد مرات الحرف l"
+  },
+  {
+    "number": "5079",
+    "name": "first index l",
+    "file": "5079-first-index-l.apl",
+    "summary": "مثال 5079 — موضع أول ظهور للحرف l"
+  },
+  {
+    "number": "5080",
+    "name": "remove char l",
+    "file": "5080-remove-char-l.apl",
+    "summary": "مثال 5080 — حذف الحرف l من النص"
+  },
+  {
+    "number": "5081",
+    "name": "count char n",
+    "file": "5081-count-char-n.apl",
+    "summary": "مثال 5081 — عدد مرات الحرف n"
+  },
+  {
+    "number": "5082",
+    "name": "first index n",
+    "file": "5082-first-index-n.apl",
+    "summary": "مثال 5082 — موضع أول ظهور للحرف n"
+  },
+  {
+    "number": "5083",
+    "name": "remove char n",
+    "file": "5083-remove-char-n.apl",
+    "summary": "مثال 5083 — حذف الحرف n من النص"
+  },
+  {
+    "number": "5084",
+    "name": "count char m",
+    "file": "5084-count-char-m.apl",
+    "summary": "مثال 5084 — عدد مرات الحرف m"
+  },
+  {
+    "number": "5085",
+    "name": "first index m",
+    "file": "5085-first-index-m.apl",
+    "summary": "مثال 5085 — موضع أول ظهور للحرف m"
+  },
+  {
+    "number": "5086",
+    "name": "remove char m",
+    "file": "5086-remove-char-m.apl",
+    "summary": "مثال 5086 — حذف الحرف m من النص"
+  },
+  {
+    "number": "5087",
+    "name": "count char d",
+    "file": "5087-count-char-d.apl",
+    "summary": "مثال 5087 — عدد مرات الحرف d"
+  },
+  {
+    "number": "5088",
+    "name": "first index d",
+    "file": "5088-first-index-d.apl",
+    "summary": "مثال 5088 — موضع أول ظهور للحرف d"
+  },
+  {
+    "number": "5089",
+    "name": "remove char d",
+    "file": "5089-remove-char-d.apl",
+    "summary": "مثال 5089 — حذف الحرف d من النص"
+  },
+  {
+    "number": "5090",
+    "name": "count char c",
+    "file": "5090-count-char-c.apl",
+    "summary": "مثال 5090 — عدد مرات الحرف c"
+  },
+  {
+    "number": "5091",
+    "name": "first index c",
+    "file": "5091-first-index-c.apl",
+    "summary": "مثال 5091 — موضع أول ظهور للحرف c"
+  },
+  {
+    "number": "5092",
+    "name": "remove char c",
+    "file": "5092-remove-char-c.apl",
+    "summary": "مثال 5092 — حذف الحرف c من النص"
+  },
+  {
+    "number": "5093",
+    "name": "pad left 2",
+    "file": "5093-pad-left-2.apl",
+    "summary": "مثال 5093 — ملء النص من اليسار حتى عرض 2"
+  },
+  {
+    "number": "5094",
+    "name": "truncate 2",
+    "file": "5094-truncate-2.apl",
+    "summary": "مثال 5094 — اقتطاع النص إلى 2 حروف مع نقاط"
+  },
+  {
+    "number": "5095",
+    "name": "digit sum mod 2",
+    "file": "5095-digit-sum-mod-2.apl",
+    "summary": "مثال 5095 — مجموع الأرقام ثم الباقي على 2"
+  },
+  {
+    "number": "5096",
+    "name": "tier price 2",
+    "file": "5096-tier-price-2.apl",
+    "summary": "مثال 5096 — سعر متدرج بحد 2"
+  },
+  {
+    "number": "5097",
+    "name": "pairs sum 2",
+    "file": "5097-pairs-sum-2.apl",
+    "summary": "مثال 5097 — عدد الأزواج التي مجموعها 2"
+  },
+  {
+    "number": "5098",
+    "name": "pad left 3",
+    "file": "5098-pad-left-3.apl",
+    "summary": "مثال 5098 — ملء النص من اليسار حتى عرض 3"
+  },
+  {
+    "number": "5099",
+    "name": "truncate 3",
+    "file": "5099-truncate-3.apl",
+    "summary": "مثال 5099 — اقتطاع النص إلى 3 حروف مع نقاط"
+  },
+  {
+    "number": "5100",
+    "name": "digit sum mod 3",
+    "file": "5100-digit-sum-mod-3.apl",
+    "summary": "مثال 5100 — مجموع الأرقام ثم الباقي على 3"
+  },
+  {
+    "number": "5101",
+    "name": "tier price 3",
+    "file": "5101-tier-price-3.apl",
+    "summary": "مثال 5101 — سعر متدرج بحد 3"
+  },
+  {
+    "number": "5102",
+    "name": "pairs sum 3",
+    "file": "5102-pairs-sum-3.apl",
+    "summary": "مثال 5102 — عدد الأزواج التي مجموعها 3"
+  },
+  {
+    "number": "5103",
+    "name": "pad left 4",
+    "file": "5103-pad-left-4.apl",
+    "summary": "مثال 5103 — ملء النص من اليسار حتى عرض 4"
+  },
+  {
+    "number": "5104",
+    "name": "truncate 4",
+    "file": "5104-truncate-4.apl",
+    "summary": "مثال 5104 — اقتطاع النص إلى 4 حروف مع نقاط"
+  },
+  {
+    "number": "5105",
+    "name": "digit sum mod 4",
+    "file": "5105-digit-sum-mod-4.apl",
+    "summary": "مثال 5105 — مجموع الأرقام ثم الباقي على 4"
+  },
+  {
+    "number": "5106",
+    "name": "tier price 4",
+    "file": "5106-tier-price-4.apl",
+    "summary": "مثال 5106 — سعر متدرج بحد 4"
+  },
+  {
+    "number": "5107",
+    "name": "pairs sum 4",
+    "file": "5107-pairs-sum-4.apl",
+    "summary": "مثال 5107 — عدد الأزواج التي مجموعها 4"
+  },
+  {
+    "number": "5108",
+    "name": "pad left 5",
+    "file": "5108-pad-left-5.apl",
+    "summary": "مثال 5108 — ملء النص من اليسار حتى عرض 5"
+  },
+  {
+    "number": "5109",
+    "name": "truncate 5",
+    "file": "5109-truncate-5.apl",
+    "summary": "مثال 5109 — اقتطاع النص إلى 5 حروف مع نقاط"
+  },
+  {
+    "number": "5110",
+    "name": "digit sum mod 5",
+    "file": "5110-digit-sum-mod-5.apl",
+    "summary": "مثال 5110 — مجموع الأرقام ثم الباقي على 5"
+  },
+  {
+    "number": "5111",
+    "name": "tier price 5",
+    "file": "5111-tier-price-5.apl",
+    "summary": "مثال 5111 — سعر متدرج بحد 5"
+  },
+  {
+    "number": "5112",
+    "name": "pairs sum 5",
+    "file": "5112-pairs-sum-5.apl",
+    "summary": "مثال 5112 — عدد الأزواج التي مجموعها 5"
+  },
+  {
+    "number": "5113",
+    "name": "pad left 6",
+    "file": "5113-pad-left-6.apl",
+    "summary": "مثال 5113 — ملء النص من اليسار حتى عرض 6"
+  },
+  {
+    "number": "5114",
+    "name": "truncate 6",
+    "file": "5114-truncate-6.apl",
+    "summary": "مثال 5114 — اقتطاع النص إلى 6 حروف مع نقاط"
+  },
+  {
+    "number": "5115",
+    "name": "digit sum mod 6",
+    "file": "5115-digit-sum-mod-6.apl",
+    "summary": "مثال 5115 — مجموع الأرقام ثم الباقي على 6"
+  },
+  {
+    "number": "5116",
+    "name": "tier price 6",
+    "file": "5116-tier-price-6.apl",
+    "summary": "مثال 5116 — سعر متدرج بحد 6"
+  },
+  {
+    "number": "5117",
+    "name": "pairs sum 6",
+    "file": "5117-pairs-sum-6.apl",
+    "summary": "مثال 5117 — عدد الأزواج التي مجموعها 6"
+  },
+  {
+    "number": "5118",
+    "name": "pad left 7",
+    "file": "5118-pad-left-7.apl",
+    "summary": "مثال 5118 — ملء النص من اليسار حتى عرض 7"
+  },
+  {
+    "number": "5119",
+    "name": "truncate 7",
+    "file": "5119-truncate-7.apl",
+    "summary": "مثال 5119 — اقتطاع النص إلى 7 حروف مع نقاط"
+  },
+  {
+    "number": "5120",
+    "name": "digit sum mod 7",
+    "file": "5120-digit-sum-mod-7.apl",
+    "summary": "مثال 5120 — مجموع الأرقام ثم الباقي على 7"
+  },
+  {
+    "number": "5121",
+    "name": "tier price 7",
+    "file": "5121-tier-price-7.apl",
+    "summary": "مثال 5121 — سعر متدرج بحد 7"
+  },
+  {
+    "number": "5122",
+    "name": "pairs sum 7",
+    "file": "5122-pairs-sum-7.apl",
+    "summary": "مثال 5122 — عدد الأزواج التي مجموعها 7"
+  },
+  {
+    "number": "5123",
+    "name": "pad left 8",
+    "file": "5123-pad-left-8.apl",
+    "summary": "مثال 5123 — ملء النص من اليسار حتى عرض 8"
+  },
+  {
+    "number": "5124",
+    "name": "truncate 8",
+    "file": "5124-truncate-8.apl",
+    "summary": "مثال 5124 — اقتطاع النص إلى 8 حروف مع نقاط"
+  },
+  {
+    "number": "5125",
+    "name": "digit sum mod 8",
+    "file": "5125-digit-sum-mod-8.apl",
+    "summary": "مثال 5125 — مجموع الأرقام ثم الباقي على 8"
+  },
+  {
+    "number": "5126",
+    "name": "tier price 8",
+    "file": "5126-tier-price-8.apl",
+    "summary": "مثال 5126 — سعر متدرج بحد 8"
+  },
+  {
+    "number": "5127",
+    "name": "pairs sum 8",
+    "file": "5127-pairs-sum-8.apl",
+    "summary": "مثال 5127 — عدد الأزواج التي مجموعها 8"
+  },
+  {
+    "number": "5128",
+    "name": "pad left 9",
+    "file": "5128-pad-left-9.apl",
+    "summary": "مثال 5128 — ملء النص من اليسار حتى عرض 9"
+  },
+  {
+    "number": "5129",
+    "name": "truncate 9",
+    "file": "5129-truncate-9.apl",
+    "summary": "مثال 5129 — اقتطاع النص إلى 9 حروف مع نقاط"
+  },
+  {
+    "number": "5130",
+    "name": "digit sum mod 9",
+    "file": "5130-digit-sum-mod-9.apl",
+    "summary": "مثال 5130 — مجموع الأرقام ثم الباقي على 9"
+  },
+  {
+    "number": "5131",
+    "name": "tier price 9",
+    "file": "5131-tier-price-9.apl",
+    "summary": "مثال 5131 — سعر متدرج بحد 9"
+  },
+  {
+    "number": "5132",
+    "name": "pairs sum 9",
+    "file": "5132-pairs-sum-9.apl",
+    "summary": "مثال 5132 — عدد الأزواج التي مجموعها 9"
+  },
+  {
+    "number": "5133",
+    "name": "pad left 10",
+    "file": "5133-pad-left-10.apl",
+    "summary": "مثال 5133 — ملء النص من اليسار حتى عرض 10"
+  },
+  {
+    "number": "5134",
+    "name": "truncate 10",
+    "file": "5134-truncate-10.apl",
+    "summary": "مثال 5134 — اقتطاع النص إلى 10 حروف مع نقاط"
+  },
+  {
+    "number": "5135",
+    "name": "digit sum mod 10",
+    "file": "5135-digit-sum-mod-10.apl",
+    "summary": "مثال 5135 — مجموع الأرقام ثم الباقي على 10"
+  },
+  {
+    "number": "5136",
+    "name": "tier price 10",
+    "file": "5136-tier-price-10.apl",
+    "summary": "مثال 5136 — سعر متدرج بحد 10"
+  },
+  {
+    "number": "5137",
+    "name": "pairs sum 10",
+    "file": "5137-pairs-sum-10.apl",
+    "summary": "مثال 5137 — عدد الأزواج التي مجموعها 10"
+  },
+  {
+    "number": "5138",
+    "name": "pad left 11",
+    "file": "5138-pad-left-11.apl",
+    "summary": "مثال 5138 — ملء النص من اليسار حتى عرض 11"
+  },
+  {
+    "number": "5139",
+    "name": "truncate 11",
+    "file": "5139-truncate-11.apl",
+    "summary": "مثال 5139 — اقتطاع النص إلى 11 حروف مع نقاط"
+  },
+  {
+    "number": "5140",
+    "name": "digit sum mod 11",
+    "file": "5140-digit-sum-mod-11.apl",
+    "summary": "مثال 5140 — مجموع الأرقام ثم الباقي على 11"
+  },
+  {
+    "number": "5141",
+    "name": "tier price 11",
+    "file": "5141-tier-price-11.apl",
+    "summary": "مثال 5141 — سعر متدرج بحد 11"
+  },
+  {
+    "number": "5142",
+    "name": "pairs sum 11",
+    "file": "5142-pairs-sum-11.apl",
+    "summary": "مثال 5142 — عدد الأزواج التي مجموعها 11"
+  },
+  {
+    "number": "5143",
+    "name": "pad left 12",
+    "file": "5143-pad-left-12.apl",
+    "summary": "مثال 5143 — ملء النص من اليسار حتى عرض 12"
+  },
+  {
+    "number": "5144",
+    "name": "truncate 12",
+    "file": "5144-truncate-12.apl",
+    "summary": "مثال 5144 — اقتطاع النص إلى 12 حروف مع نقاط"
+  },
+  {
+    "number": "5145",
+    "name": "digit sum mod 12",
+    "file": "5145-digit-sum-mod-12.apl",
+    "summary": "مثال 5145 — مجموع الأرقام ثم الباقي على 12"
+  },
+  {
+    "number": "5146",
+    "name": "tier price 12",
+    "file": "5146-tier-price-12.apl",
+    "summary": "مثال 5146 — سعر متدرج بحد 12"
+  },
+  {
+    "number": "5147",
+    "name": "pairs sum 12",
+    "file": "5147-pairs-sum-12.apl",
+    "summary": "مثال 5147 — عدد الأزواج التي مجموعها 12"
+  },
+  {
+    "number": "5148",
+    "name": "pad left 13",
+    "file": "5148-pad-left-13.apl",
+    "summary": "مثال 5148 — ملء النص من اليسار حتى عرض 13"
+  },
+  {
+    "number": "5149",
+    "name": "truncate 13",
+    "file": "5149-truncate-13.apl",
+    "summary": "مثال 5149 — اقتطاع النص إلى 13 حروف مع نقاط"
+  },
+  {
+    "number": "5150",
+    "name": "digit sum mod 13",
+    "file": "5150-digit-sum-mod-13.apl",
+    "summary": "مثال 5150 — مجموع الأرقام ثم الباقي على 13"
+  },
+  {
+    "number": "5151",
+    "name": "tier price 13",
+    "file": "5151-tier-price-13.apl",
+    "summary": "مثال 5151 — سعر متدرج بحد 13"
+  },
+  {
+    "number": "5152",
+    "name": "pairs sum 13",
+    "file": "5152-pairs-sum-13.apl",
+    "summary": "مثال 5152 — عدد الأزواج التي مجموعها 13"
+  },
+  {
+    "number": "5153",
+    "name": "sum mult below 2",
+    "file": "5153-sum-mult-below-2.apl",
+    "summary": "مثال 5153 — مجموع مضاعفات 2 تحت ن"
+  },
+  {
+    "number": "5154",
+    "name": "last digit power 2",
+    "file": "5154-last-digit-power-2.apl",
+    "summary": "مثال 5154 — آخر رقم للعدد 2 أس ن"
+  },
+  {
+    "number": "5155",
+    "name": "arith seq 2",
+    "file": "5155-arith-seq-2.apl",
+    "summary": "مثال 5155 — الحد ن في متتالية حسابية فرقها 2"
+  },
+  {
+    "number": "5156",
+    "name": "geo seq 2",
+    "file": "5156-geo-seq-2.apl",
+    "summary": "مثال 5156 — الحد ن في متتالية هندسية أساسها 2"
+  },
+  {
+    "number": "5157",
+    "name": "mod table 2",
+    "file": "5157-mod-table-2.apl",
+    "summary": "مثال 5157 — باقي القسمة على 2 لكل عنصر"
+  },
+  {
+    "number": "5158",
+    "name": "scale list 2",
+    "file": "5158-scale-list-2.apl",
+    "summary": "مثال 5158 — ضرب كل عنصر في 2"
+  },
+  {
+    "number": "5159",
+    "name": "is multiple and even 2",
+    "file": "5159-is-multiple-and-even-2.apl",
+    "summary": "مثال 5159 — قابل للقسمة على 2 وزوجي؟"
+  },
+  {
+    "number": "5160",
+    "name": "nearest multiple 2",
+    "file": "5160-nearest-multiple-2.apl",
+    "summary": "مثال 5160 — أقرب مضاعف للعدد 2"
+  },
+  {
+    "number": "5161",
+    "name": "triple compare 2",
+    "file": "5161-triple-compare-2.apl",
+    "summary": "مثال 5161 — مقارنة العدد مع 2"
+  },
+  {
+    "number": "5162",
+    "name": "cumulative 2",
+    "file": "5162-cumulative-2.apl",
+    "summary": "مثال 5162 — مجموع تراكمي مع زيادة 2"
+  },
+  {
+    "number": "5163",
+    "name": "sum mult below 3",
+    "file": "5163-sum-mult-below-3.apl",
+    "summary": "مثال 5163 — مجموع مضاعفات 3 تحت ن"
+  },
+  {
+    "number": "5164",
+    "name": "last digit power 3",
+    "file": "5164-last-digit-power-3.apl",
+    "summary": "مثال 5164 — آخر رقم للعدد 3 أس ن"
+  },
+  {
+    "number": "5165",
+    "name": "arith seq 3",
+    "file": "5165-arith-seq-3.apl",
+    "summary": "مثال 5165 — الحد ن في متتالية حسابية فرقها 3"
+  },
+  {
+    "number": "5166",
+    "name": "geo seq 3",
+    "file": "5166-geo-seq-3.apl",
+    "summary": "مثال 5166 — الحد ن في متتالية هندسية أساسها 3"
+  },
+  {
+    "number": "5167",
+    "name": "mod table 3",
+    "file": "5167-mod-table-3.apl",
+    "summary": "مثال 5167 — باقي القسمة على 3 لكل عنصر"
+  },
+  {
+    "number": "5168",
+    "name": "scale list 3",
+    "file": "5168-scale-list-3.apl",
+    "summary": "مثال 5168 — ضرب كل عنصر في 3"
+  },
+  {
+    "number": "5169",
+    "name": "is multiple and even 3",
+    "file": "5169-is-multiple-and-even-3.apl",
+    "summary": "مثال 5169 — قابل للقسمة على 3 وزوجي؟"
+  },
+  {
+    "number": "5170",
+    "name": "nearest multiple 3",
+    "file": "5170-nearest-multiple-3.apl",
+    "summary": "مثال 5170 — أقرب مضاعف للعدد 3"
+  },
+  {
+    "number": "5171",
+    "name": "triple compare 3",
+    "file": "5171-triple-compare-3.apl",
+    "summary": "مثال 5171 — مقارنة العدد مع 3"
+  },
+  {
+    "number": "5172",
+    "name": "cumulative 3",
+    "file": "5172-cumulative-3.apl",
+    "summary": "مثال 5172 — مجموع تراكمي مع زيادة 3"
+  },
+  {
+    "number": "5173",
+    "name": "sum mult below 4",
+    "file": "5173-sum-mult-below-4.apl",
+    "summary": "مثال 5173 — مجموع مضاعفات 4 تحت ن"
+  },
+  {
+    "number": "5174",
+    "name": "last digit power 4",
+    "file": "5174-last-digit-power-4.apl",
+    "summary": "مثال 5174 — آخر رقم للعدد 4 أس ن"
+  },
+  {
+    "number": "5175",
+    "name": "arith seq 4",
+    "file": "5175-arith-seq-4.apl",
+    "summary": "مثال 5175 — الحد ن في متتالية حسابية فرقها 4"
+  },
+  {
+    "number": "5176",
+    "name": "geo seq 4",
+    "file": "5176-geo-seq-4.apl",
+    "summary": "مثال 5176 — الحد ن في متتالية هندسية أساسها 4"
+  },
+  {
+    "number": "5177",
+    "name": "mod table 4",
+    "file": "5177-mod-table-4.apl",
+    "summary": "مثال 5177 — باقي القسمة على 4 لكل عنصر"
+  },
+  {
+    "number": "5178",
+    "name": "scale list 4",
+    "file": "5178-scale-list-4.apl",
+    "summary": "مثال 5178 — ضرب كل عنصر في 4"
+  },
+  {
+    "number": "5179",
+    "name": "is multiple and even 4",
+    "file": "5179-is-multiple-and-even-4.apl",
+    "summary": "مثال 5179 — قابل للقسمة على 4 وزوجي؟"
+  },
+  {
+    "number": "5180",
+    "name": "nearest multiple 4",
+    "file": "5180-nearest-multiple-4.apl",
+    "summary": "مثال 5180 — أقرب مضاعف للعدد 4"
+  },
+  {
+    "number": "5181",
+    "name": "triple compare 4",
+    "file": "5181-triple-compare-4.apl",
+    "summary": "مثال 5181 — مقارنة العدد مع 4"
+  },
+  {
+    "number": "5182",
+    "name": "cumulative 4",
+    "file": "5182-cumulative-4.apl",
+    "summary": "مثال 5182 — مجموع تراكمي مع زيادة 4"
+  },
+  {
+    "number": "5183",
+    "name": "sum mult below 5",
+    "file": "5183-sum-mult-below-5.apl",
+    "summary": "مثال 5183 — مجموع مضاعفات 5 تحت ن"
+  },
+  {
+    "number": "5184",
+    "name": "last digit power 5",
+    "file": "5184-last-digit-power-5.apl",
+    "summary": "مثال 5184 — آخر رقم للعدد 5 أس ن"
+  },
+  {
+    "number": "5185",
+    "name": "arith seq 5",
+    "file": "5185-arith-seq-5.apl",
+    "summary": "مثال 5185 — الحد ن في متتالية حسابية فرقها 5"
+  },
+  {
+    "number": "5186",
+    "name": "geo seq 5",
+    "file": "5186-geo-seq-5.apl",
+    "summary": "مثال 5186 — الحد ن في متتالية هندسية أساسها 5"
+  },
+  {
+    "number": "5187",
+    "name": "mod table 5",
+    "file": "5187-mod-table-5.apl",
+    "summary": "مثال 5187 — باقي القسمة على 5 لكل عنصر"
+  },
+  {
+    "number": "5188",
+    "name": "scale list 5",
+    "file": "5188-scale-list-5.apl",
+    "summary": "مثال 5188 — ضرب كل عنصر في 5"
+  },
+  {
+    "number": "5189",
+    "name": "is multiple and even 5",
+    "file": "5189-is-multiple-and-even-5.apl",
+    "summary": "مثال 5189 — قابل للقسمة على 5 وزوجي؟"
+  },
+  {
+    "number": "5190",
+    "name": "nearest multiple 5",
+    "file": "5190-nearest-multiple-5.apl",
+    "summary": "مثال 5190 — أقرب مضاعف للعدد 5"
+  },
+  {
+    "number": "5191",
+    "name": "triple compare 5",
+    "file": "5191-triple-compare-5.apl",
+    "summary": "مثال 5191 — مقارنة العدد مع 5"
+  },
+  {
+    "number": "5192",
+    "name": "cumulative 5",
+    "file": "5192-cumulative-5.apl",
+    "summary": "مثال 5192 — مجموع تراكمي مع زيادة 5"
+  },
+  {
+    "number": "5193",
+    "name": "sum mult below 6",
+    "file": "5193-sum-mult-below-6.apl",
+    "summary": "مثال 5193 — مجموع مضاعفات 6 تحت ن"
+  },
+  {
+    "number": "5194",
+    "name": "last digit power 6",
+    "file": "5194-last-digit-power-6.apl",
+    "summary": "مثال 5194 — آخر رقم للعدد 6 أس ن"
+  },
+  {
+    "number": "5195",
+    "name": "arith seq 6",
+    "file": "5195-arith-seq-6.apl",
+    "summary": "مثال 5195 — الحد ن في متتالية حسابية فرقها 6"
+  },
+  {
+    "number": "5196",
+    "name": "geo seq 6",
+    "file": "5196-geo-seq-6.apl",
+    "summary": "مثال 5196 — الحد ن في متتالية هندسية أساسها 6"
+  },
+  {
+    "number": "5197",
+    "name": "mod table 6",
+    "file": "5197-mod-table-6.apl",
+    "summary": "مثال 5197 — باقي القسمة على 6 لكل عنصر"
+  },
+  {
+    "number": "5198",
+    "name": "scale list 6",
+    "file": "5198-scale-list-6.apl",
+    "summary": "مثال 5198 — ضرب كل عنصر في 6"
+  },
+  {
+    "number": "5199",
+    "name": "is multiple and even 6",
+    "file": "5199-is-multiple-and-even-6.apl",
+    "summary": "مثال 5199 — قابل للقسمة على 6 وزوجي؟"
+  },
+  {
+    "number": "5200",
+    "name": "nearest multiple 6",
+    "file": "5200-nearest-multiple-6.apl",
+    "summary": "مثال 5200 — أقرب مضاعف للعدد 6"
+  },
+  {
+    "number": "5201",
+    "name": "triple compare 6",
+    "file": "5201-triple-compare-6.apl",
+    "summary": "مثال 5201 — مقارنة العدد مع 6"
+  },
+  {
+    "number": "5202",
+    "name": "cumulative 6",
+    "file": "5202-cumulative-6.apl",
+    "summary": "مثال 5202 — مجموع تراكمي مع زيادة 6"
+  },
+  {
+    "number": "5203",
+    "name": "sum mult below 7",
+    "file": "5203-sum-mult-below-7.apl",
+    "summary": "مثال 5203 — مجموع مضاعفات 7 تحت ن"
+  },
+  {
+    "number": "5204",
+    "name": "last digit power 7",
+    "file": "5204-last-digit-power-7.apl",
+    "summary": "مثال 5204 — آخر رقم للعدد 7 أس ن"
+  },
+  {
+    "number": "5205",
+    "name": "arith seq 7",
+    "file": "5205-arith-seq-7.apl",
+    "summary": "مثال 5205 — الحد ن في متتالية حسابية فرقها 7"
+  },
+  {
+    "number": "5206",
+    "name": "geo seq 7",
+    "file": "5206-geo-seq-7.apl",
+    "summary": "مثال 5206 — الحد ن في متتالية هندسية أساسها 7"
+  },
+  {
+    "number": "5207",
+    "name": "mod table 7",
+    "file": "5207-mod-table-7.apl",
+    "summary": "مثال 5207 — باقي القسمة على 7 لكل عنصر"
+  },
+  {
+    "number": "5208",
+    "name": "scale list 7",
+    "file": "5208-scale-list-7.apl",
+    "summary": "مثال 5208 — ضرب كل عنصر في 7"
+  },
+  {
+    "number": "5209",
+    "name": "is multiple and even 7",
+    "file": "5209-is-multiple-and-even-7.apl",
+    "summary": "مثال 5209 — قابل للقسمة على 7 وزوجي؟"
+  },
+  {
+    "number": "5210",
+    "name": "nearest multiple 7",
+    "file": "5210-nearest-multiple-7.apl",
+    "summary": "مثال 5210 — أقرب مضاعف للعدد 7"
+  },
+  {
+    "number": "5211",
+    "name": "triple compare 7",
+    "file": "5211-triple-compare-7.apl",
+    "summary": "مثال 5211 — مقارنة العدد مع 7"
+  },
+  {
+    "number": "5212",
+    "name": "cumulative 7",
+    "file": "5212-cumulative-7.apl",
+    "summary": "مثال 5212 — مجموع تراكمي مع زيادة 7"
+  },
+  {
+    "number": "5213",
+    "name": "sum mult below 8",
+    "file": "5213-sum-mult-below-8.apl",
+    "summary": "مثال 5213 — مجموع مضاعفات 8 تحت ن"
+  },
+  {
+    "number": "5214",
+    "name": "last digit power 8",
+    "file": "5214-last-digit-power-8.apl",
+    "summary": "مثال 5214 — آخر رقم للعدد 8 أس ن"
+  },
+  {
+    "number": "5215",
+    "name": "arith seq 8",
+    "file": "5215-arith-seq-8.apl",
+    "summary": "مثال 5215 — الحد ن في متتالية حسابية فرقها 8"
+  },
+  {
+    "number": "5216",
+    "name": "geo seq 8",
+    "file": "5216-geo-seq-8.apl",
+    "summary": "مثال 5216 — الحد ن في متتالية هندسية أساسها 8"
+  },
+  {
+    "number": "5217",
+    "name": "mod table 8",
+    "file": "5217-mod-table-8.apl",
+    "summary": "مثال 5217 — باقي القسمة على 8 لكل عنصر"
+  },
+  {
+    "number": "5218",
+    "name": "scale list 8",
+    "file": "5218-scale-list-8.apl",
+    "summary": "مثال 5218 — ضرب كل عنصر في 8"
+  },
+  {
+    "number": "5219",
+    "name": "is multiple and even 8",
+    "file": "5219-is-multiple-and-even-8.apl",
+    "summary": "مثال 5219 — قابل للقسمة على 8 وزوجي؟"
+  },
+  {
+    "number": "5220",
+    "name": "nearest multiple 8",
+    "file": "5220-nearest-multiple-8.apl",
+    "summary": "مثال 5220 — أقرب مضاعف للعدد 8"
+  },
+  {
+    "number": "5221",
+    "name": "triple compare 8",
+    "file": "5221-triple-compare-8.apl",
+    "summary": "مثال 5221 — مقارنة العدد مع 8"
+  },
+  {
+    "number": "5222",
+    "name": "cumulative 8",
+    "file": "5222-cumulative-8.apl",
+    "summary": "مثال 5222 — مجموع تراكمي مع زيادة 8"
+  },
+  {
+    "number": "5223",
+    "name": "sum mult below 9",
+    "file": "5223-sum-mult-below-9.apl",
+    "summary": "مثال 5223 — مجموع مضاعفات 9 تحت ن"
+  },
+  {
+    "number": "5224",
+    "name": "last digit power 9",
+    "file": "5224-last-digit-power-9.apl",
+    "summary": "مثال 5224 — آخر رقم للعدد 9 أس ن"
+  },
+  {
+    "number": "5225",
+    "name": "arith seq 9",
+    "file": "5225-arith-seq-9.apl",
+    "summary": "مثال 5225 — الحد ن في متتالية حسابية فرقها 9"
+  },
+  {
+    "number": "5226",
+    "name": "geo seq 9",
+    "file": "5226-geo-seq-9.apl",
+    "summary": "مثال 5226 — الحد ن في متتالية هندسية أساسها 9"
+  },
+  {
+    "number": "5227",
+    "name": "mod table 9",
+    "file": "5227-mod-table-9.apl",
+    "summary": "مثال 5227 — باقي القسمة على 9 لكل عنصر"
+  },
+  {
+    "number": "5228",
+    "name": "scale list 9",
+    "file": "5228-scale-list-9.apl",
+    "summary": "مثال 5228 — ضرب كل عنصر في 9"
+  },
+  {
+    "number": "5229",
+    "name": "is multiple and even 9",
+    "file": "5229-is-multiple-and-even-9.apl",
+    "summary": "مثال 5229 — قابل للقسمة على 9 وزوجي؟"
+  },
+  {
+    "number": "5230",
+    "name": "nearest multiple 9",
+    "file": "5230-nearest-multiple-9.apl",
+    "summary": "مثال 5230 — أقرب مضاعف للعدد 9"
+  },
+  {
+    "number": "5231",
+    "name": "triple compare 9",
+    "file": "5231-triple-compare-9.apl",
+    "summary": "مثال 5231 — مقارنة العدد مع 9"
+  },
+  {
+    "number": "5232",
+    "name": "cumulative 9",
+    "file": "5232-cumulative-9.apl",
+    "summary": "مثال 5232 — مجموع تراكمي مع زيادة 9"
+  },
+  {
+    "number": "5233",
+    "name": "sum mult below 10",
+    "file": "5233-sum-mult-below-10.apl",
+    "summary": "مثال 5233 — مجموع مضاعفات 10 تحت ن"
+  },
+  {
+    "number": "5234",
+    "name": "last digit power 10",
+    "file": "5234-last-digit-power-10.apl",
+    "summary": "مثال 5234 — آخر رقم للعدد 10 أس ن"
+  },
+  {
+    "number": "5235",
+    "name": "arith seq 10",
+    "file": "5235-arith-seq-10.apl",
+    "summary": "مثال 5235 — الحد ن في متتالية حسابية فرقها 10"
+  },
+  {
+    "number": "5236",
+    "name": "geo seq 10",
+    "file": "5236-geo-seq-10.apl",
+    "summary": "مثال 5236 — الحد ن في متتالية هندسية أساسها 10"
+  },
+  {
+    "number": "5237",
+    "name": "mod table 10",
+    "file": "5237-mod-table-10.apl",
+    "summary": "مثال 5237 — باقي القسمة على 10 لكل عنصر"
+  },
+  {
+    "number": "5238",
+    "name": "scale list 10",
+    "file": "5238-scale-list-10.apl",
+    "summary": "مثال 5238 — ضرب كل عنصر في 10"
+  },
+  {
+    "number": "5239",
+    "name": "is multiple and even 10",
+    "file": "5239-is-multiple-and-even-10.apl",
+    "summary": "مثال 5239 — قابل للقسمة على 10 وزوجي؟"
+  },
+  {
+    "number": "5240",
+    "name": "nearest multiple 10",
+    "file": "5240-nearest-multiple-10.apl",
+    "summary": "مثال 5240 — أقرب مضاعف للعدد 10"
+  },
+  {
+    "number": "5241",
+    "name": "triple compare 10",
+    "file": "5241-triple-compare-10.apl",
+    "summary": "مثال 5241 — مقارنة العدد مع 10"
+  },
+  {
+    "number": "5242",
+    "name": "cumulative 10",
+    "file": "5242-cumulative-10.apl",
+    "summary": "مثال 5242 — مجموع تراكمي مع زيادة 10"
+  },
+  {
+    "number": "5243",
+    "name": "sum mult below 11",
+    "file": "5243-sum-mult-below-11.apl",
+    "summary": "مثال 5243 — مجموع مضاعفات 11 تحت ن"
+  },
+  {
+    "number": "5244",
+    "name": "last digit power 11",
+    "file": "5244-last-digit-power-11.apl",
+    "summary": "مثال 5244 — آخر رقم للعدد 11 أس ن"
+  },
+  {
+    "number": "5245",
+    "name": "arith seq 11",
+    "file": "5245-arith-seq-11.apl",
+    "summary": "مثال 5245 — الحد ن في متتالية حسابية فرقها 11"
+  },
+  {
+    "number": "5246",
+    "name": "geo seq 11",
+    "file": "5246-geo-seq-11.apl",
+    "summary": "مثال 5246 — الحد ن في متتالية هندسية أساسها 11"
+  },
+  {
+    "number": "5247",
+    "name": "mod table 11",
+    "file": "5247-mod-table-11.apl",
+    "summary": "مثال 5247 — باقي القسمة على 11 لكل عنصر"
+  },
+  {
+    "number": "5248",
+    "name": "scale list 11",
+    "file": "5248-scale-list-11.apl",
+    "summary": "مثال 5248 — ضرب كل عنصر في 11"
+  },
+  {
+    "number": "5249",
+    "name": "is multiple and even 11",
+    "file": "5249-is-multiple-and-even-11.apl",
+    "summary": "مثال 5249 — قابل للقسمة على 11 وزوجي؟"
+  },
+  {
+    "number": "5250",
+    "name": "nearest multiple 11",
+    "file": "5250-nearest-multiple-11.apl",
+    "summary": "مثال 5250 — أقرب مضاعف للعدد 11"
+  },
+  {
+    "number": "5251",
+    "name": "triple compare 11",
+    "file": "5251-triple-compare-11.apl",
+    "summary": "مثال 5251 — مقارنة العدد مع 11"
+  },
+  {
+    "number": "5252",
+    "name": "cumulative 11",
+    "file": "5252-cumulative-11.apl",
+    "summary": "مثال 5252 — مجموع تراكمي مع زيادة 11"
+  },
+  {
+    "number": "5253",
+    "name": "sum mult below 12",
+    "file": "5253-sum-mult-below-12.apl",
+    "summary": "مثال 5253 — مجموع مضاعفات 12 تحت ن"
+  },
+  {
+    "number": "5254",
+    "name": "last digit power 12",
+    "file": "5254-last-digit-power-12.apl",
+    "summary": "مثال 5254 — آخر رقم للعدد 12 أس ن"
+  },
+  {
+    "number": "5255",
+    "name": "arith seq 12",
+    "file": "5255-arith-seq-12.apl",
+    "summary": "مثال 5255 — الحد ن في متتالية حسابية فرقها 12"
+  },
+  {
+    "number": "5256",
+    "name": "geo seq 12",
+    "file": "5256-geo-seq-12.apl",
+    "summary": "مثال 5256 — الحد ن في متتالية هندسية أساسها 12"
+  },
+  {
+    "number": "5257",
+    "name": "mod table 12",
+    "file": "5257-mod-table-12.apl",
+    "summary": "مثال 5257 — باقي القسمة على 12 لكل عنصر"
+  },
+  {
+    "number": "5258",
+    "name": "scale list 12",
+    "file": "5258-scale-list-12.apl",
+    "summary": "مثال 5258 — ضرب كل عنصر في 12"
+  },
+  {
+    "number": "5259",
+    "name": "is multiple and even 12",
+    "file": "5259-is-multiple-and-even-12.apl",
+    "summary": "مثال 5259 — قابل للقسمة على 12 وزوجي؟"
+  },
+  {
+    "number": "5260",
+    "name": "nearest multiple 12",
+    "file": "5260-nearest-multiple-12.apl",
+    "summary": "مثال 5260 — أقرب مضاعف للعدد 12"
+  },
+  {
+    "number": "5261",
+    "name": "triple compare 12",
+    "file": "5261-triple-compare-12.apl",
+    "summary": "مثال 5261 — مقارنة العدد مع 12"
+  },
+  {
+    "number": "5262",
+    "name": "cumulative 12",
+    "file": "5262-cumulative-12.apl",
+    "summary": "مثال 5262 — مجموع تراكمي مع زيادة 12"
+  },
+  {
+    "number": "5263",
+    "name": "sum mult below 13",
+    "file": "5263-sum-mult-below-13.apl",
+    "summary": "مثال 5263 — مجموع مضاعفات 13 تحت ن"
+  },
+  {
+    "number": "5264",
+    "name": "last digit power 13",
+    "file": "5264-last-digit-power-13.apl",
+    "summary": "مثال 5264 — آخر رقم للعدد 13 أس ن"
+  },
+  {
+    "number": "5265",
+    "name": "arith seq 13",
+    "file": "5265-arith-seq-13.apl",
+    "summary": "مثال 5265 — الحد ن في متتالية حسابية فرقها 13"
+  },
+  {
+    "number": "5266",
+    "name": "geo seq 13",
+    "file": "5266-geo-seq-13.apl",
+    "summary": "مثال 5266 — الحد ن في متتالية هندسية أساسها 13"
+  },
+  {
+    "number": "5267",
+    "name": "mod table 13",
+    "file": "5267-mod-table-13.apl",
+    "summary": "مثال 5267 — باقي القسمة على 13 لكل عنصر"
+  },
+  {
+    "number": "5268",
+    "name": "scale list 13",
+    "file": "5268-scale-list-13.apl",
+    "summary": "مثال 5268 — ضرب كل عنصر في 13"
+  },
+  {
+    "number": "5269",
+    "name": "is multiple and even 13",
+    "file": "5269-is-multiple-and-even-13.apl",
+    "summary": "مثال 5269 — قابل للقسمة على 13 وزوجي؟"
+  },
+  {
+    "number": "5270",
+    "name": "nearest multiple 13",
+    "file": "5270-nearest-multiple-13.apl",
+    "summary": "مثال 5270 — أقرب مضاعف للعدد 13"
+  },
+  {
+    "number": "5271",
+    "name": "triple compare 13",
+    "file": "5271-triple-compare-13.apl",
+    "summary": "مثال 5271 — مقارنة العدد مع 13"
+  },
+  {
+    "number": "5272",
+    "name": "cumulative 13",
+    "file": "5272-cumulative-13.apl",
+    "summary": "مثال 5272 — مجموع تراكمي مع زيادة 13"
+  },
+  {
+    "number": "5273",
+    "name": "sum mult below 14",
+    "file": "5273-sum-mult-below-14.apl",
+    "summary": "مثال 5273 — مجموع مضاعفات 14 تحت ن"
+  },
+  {
+    "number": "5274",
+    "name": "last digit power 14",
+    "file": "5274-last-digit-power-14.apl",
+    "summary": "مثال 5274 — آخر رقم للعدد 14 أس ن"
+  },
+  {
+    "number": "5275",
+    "name": "arith seq 14",
+    "file": "5275-arith-seq-14.apl",
+    "summary": "مثال 5275 — الحد ن في متتالية حسابية فرقها 14"
+  },
+  {
+    "number": "5276",
+    "name": "geo seq 14",
+    "file": "5276-geo-seq-14.apl",
+    "summary": "مثال 5276 — الحد ن في متتالية هندسية أساسها 14"
+  },
+  {
+    "number": "5277",
+    "name": "mod table 14",
+    "file": "5277-mod-table-14.apl",
+    "summary": "مثال 5277 — باقي القسمة على 14 لكل عنصر"
+  },
+  {
+    "number": "5278",
+    "name": "scale list 14",
+    "file": "5278-scale-list-14.apl",
+    "summary": "مثال 5278 — ضرب كل عنصر في 14"
+  },
+  {
+    "number": "5279",
+    "name": "is multiple and even 14",
+    "file": "5279-is-multiple-and-even-14.apl",
+    "summary": "مثال 5279 — قابل للقسمة على 14 وزوجي؟"
+  },
+  {
+    "number": "5280",
+    "name": "nearest multiple 14",
+    "file": "5280-nearest-multiple-14.apl",
+    "summary": "مثال 5280 — أقرب مضاعف للعدد 14"
+  },
+  {
+    "number": "5281",
+    "name": "triple compare 14",
+    "file": "5281-triple-compare-14.apl",
+    "summary": "مثال 5281 — مقارنة العدد مع 14"
+  },
+  {
+    "number": "5282",
+    "name": "cumulative 14",
+    "file": "5282-cumulative-14.apl",
+    "summary": "مثال 5282 — مجموع تراكمي مع زيادة 14"
+  },
+  {
+    "number": "5283",
+    "name": "sum mult below 15",
+    "file": "5283-sum-mult-below-15.apl",
+    "summary": "مثال 5283 — مجموع مضاعفات 15 تحت ن"
+  },
+  {
+    "number": "5284",
+    "name": "last digit power 15",
+    "file": "5284-last-digit-power-15.apl",
+    "summary": "مثال 5284 — آخر رقم للعدد 15 أس ن"
+  },
+  {
+    "number": "5285",
+    "name": "arith seq 15",
+    "file": "5285-arith-seq-15.apl",
+    "summary": "مثال 5285 — الحد ن في متتالية حسابية فرقها 15"
+  },
+  {
+    "number": "5286",
+    "name": "geo seq 15",
+    "file": "5286-geo-seq-15.apl",
+    "summary": "مثال 5286 — الحد ن في متتالية هندسية أساسها 15"
+  },
+  {
+    "number": "5287",
+    "name": "mod table 15",
+    "file": "5287-mod-table-15.apl",
+    "summary": "مثال 5287 — باقي القسمة على 15 لكل عنصر"
+  },
+  {
+    "number": "5288",
+    "name": "scale list 15",
+    "file": "5288-scale-list-15.apl",
+    "summary": "مثال 5288 — ضرب كل عنصر في 15"
+  },
+  {
+    "number": "5289",
+    "name": "is multiple and even 15",
+    "file": "5289-is-multiple-and-even-15.apl",
+    "summary": "مثال 5289 — قابل للقسمة على 15 وزوجي؟"
+  },
+  {
+    "number": "5290",
+    "name": "nearest multiple 15",
+    "file": "5290-nearest-multiple-15.apl",
+    "summary": "مثال 5290 — أقرب مضاعف للعدد 15"
+  },
+  {
+    "number": "5291",
+    "name": "triple compare 15",
+    "file": "5291-triple-compare-15.apl",
+    "summary": "مثال 5291 — مقارنة العدد مع 15"
+  },
+  {
+    "number": "5292",
+    "name": "cumulative 15",
+    "file": "5292-cumulative-15.apl",
+    "summary": "مثال 5292 — مجموع تراكمي مع زيادة 15"
+  },
+  {
+    "number": "5293",
+    "name": "sum mult below 16",
+    "file": "5293-sum-mult-below-16.apl",
+    "summary": "مثال 5293 — مجموع مضاعفات 16 تحت ن"
+  },
+  {
+    "number": "5294",
+    "name": "last digit power 16",
+    "file": "5294-last-digit-power-16.apl",
+    "summary": "مثال 5294 — آخر رقم للعدد 16 أس ن"
+  },
+  {
+    "number": "5295",
+    "name": "arith seq 16",
+    "file": "5295-arith-seq-16.apl",
+    "summary": "مثال 5295 — الحد ن في متتالية حسابية فرقها 16"
+  },
+  {
+    "number": "5296",
+    "name": "geo seq 16",
+    "file": "5296-geo-seq-16.apl",
+    "summary": "مثال 5296 — الحد ن في متتالية هندسية أساسها 16"
+  },
+  {
+    "number": "5297",
+    "name": "mod table 16",
+    "file": "5297-mod-table-16.apl",
+    "summary": "مثال 5297 — باقي القسمة على 16 لكل عنصر"
+  },
+  {
+    "number": "5298",
+    "name": "scale list 16",
+    "file": "5298-scale-list-16.apl",
+    "summary": "مثال 5298 — ضرب كل عنصر في 16"
+  },
+  {
+    "number": "5299",
+    "name": "is multiple and even 16",
+    "file": "5299-is-multiple-and-even-16.apl",
+    "summary": "مثال 5299 — قابل للقسمة على 16 وزوجي؟"
+  },
+  {
+    "number": "5300",
+    "name": "nearest multiple 16",
+    "file": "5300-nearest-multiple-16.apl",
+    "summary": "مثال 5300 — أقرب مضاعف للعدد 16"
+  },
+  {
+    "number": "5301",
+    "name": "triple compare 16",
+    "file": "5301-triple-compare-16.apl",
+    "summary": "مثال 5301 — مقارنة العدد مع 16"
+  },
+  {
+    "number": "5302",
+    "name": "cumulative 16",
+    "file": "5302-cumulative-16.apl",
+    "summary": "مثال 5302 — مجموع تراكمي مع زيادة 16"
+  },
+  {
+    "number": "5303",
+    "name": "sum mult below 17",
+    "file": "5303-sum-mult-below-17.apl",
+    "summary": "مثال 5303 — مجموع مضاعفات 17 تحت ن"
+  },
+  {
+    "number": "5304",
+    "name": "last digit power 17",
+    "file": "5304-last-digit-power-17.apl",
+    "summary": "مثال 5304 — آخر رقم للعدد 17 أس ن"
+  },
+  {
+    "number": "5305",
+    "name": "arith seq 17",
+    "file": "5305-arith-seq-17.apl",
+    "summary": "مثال 5305 — الحد ن في متتالية حسابية فرقها 17"
+  },
+  {
+    "number": "5306",
+    "name": "geo seq 17",
+    "file": "5306-geo-seq-17.apl",
+    "summary": "مثال 5306 — الحد ن في متتالية هندسية أساسها 17"
+  },
+  {
+    "number": "5307",
+    "name": "mod table 17",
+    "file": "5307-mod-table-17.apl",
+    "summary": "مثال 5307 — باقي القسمة على 17 لكل عنصر"
+  },
+  {
+    "number": "5308",
+    "name": "scale list 17",
+    "file": "5308-scale-list-17.apl",
+    "summary": "مثال 5308 — ضرب كل عنصر في 17"
+  },
+  {
+    "number": "5309",
+    "name": "is multiple and even 17",
+    "file": "5309-is-multiple-and-even-17.apl",
+    "summary": "مثال 5309 — قابل للقسمة على 17 وزوجي؟"
+  },
+  {
+    "number": "5310",
+    "name": "nearest multiple 17",
+    "file": "5310-nearest-multiple-17.apl",
+    "summary": "مثال 5310 — أقرب مضاعف للعدد 17"
+  },
+  {
+    "number": "5311",
+    "name": "triple compare 17",
+    "file": "5311-triple-compare-17.apl",
+    "summary": "مثال 5311 — مقارنة العدد مع 17"
+  },
+  {
+    "number": "5312",
+    "name": "cumulative 17",
+    "file": "5312-cumulative-17.apl",
+    "summary": "مثال 5312 — مجموع تراكمي مع زيادة 17"
+  },
+  {
+    "number": "5313",
+    "name": "sum mult below 18",
+    "file": "5313-sum-mult-below-18.apl",
+    "summary": "مثال 5313 — مجموع مضاعفات 18 تحت ن"
+  },
+  {
+    "number": "5314",
+    "name": "last digit power 18",
+    "file": "5314-last-digit-power-18.apl",
+    "summary": "مثال 5314 — آخر رقم للعدد 18 أس ن"
+  },
+  {
+    "number": "5315",
+    "name": "arith seq 18",
+    "file": "5315-arith-seq-18.apl",
+    "summary": "مثال 5315 — الحد ن في متتالية حسابية فرقها 18"
+  },
+  {
+    "number": "5316",
+    "name": "geo seq 18",
+    "file": "5316-geo-seq-18.apl",
+    "summary": "مثال 5316 — الحد ن في متتالية هندسية أساسها 18"
+  },
+  {
+    "number": "5317",
+    "name": "mod table 18",
+    "file": "5317-mod-table-18.apl",
+    "summary": "مثال 5317 — باقي القسمة على 18 لكل عنصر"
+  },
+  {
+    "number": "5318",
+    "name": "scale list 18",
+    "file": "5318-scale-list-18.apl",
+    "summary": "مثال 5318 — ضرب كل عنصر في 18"
+  },
+  {
+    "number": "5319",
+    "name": "is multiple and even 18",
+    "file": "5319-is-multiple-and-even-18.apl",
+    "summary": "مثال 5319 — قابل للقسمة على 18 وزوجي؟"
+  },
+  {
+    "number": "5320",
+    "name": "nearest multiple 18",
+    "file": "5320-nearest-multiple-18.apl",
+    "summary": "مثال 5320 — أقرب مضاعف للعدد 18"
+  },
+  {
+    "number": "5321",
+    "name": "triple compare 18",
+    "file": "5321-triple-compare-18.apl",
+    "summary": "مثال 5321 — مقارنة العدد مع 18"
+  },
+  {
+    "number": "5322",
+    "name": "cumulative 18",
+    "file": "5322-cumulative-18.apl",
+    "summary": "مثال 5322 — مجموع تراكمي مع زيادة 18"
+  },
+  {
+    "number": "5323",
+    "name": "sum mult below 19",
+    "file": "5323-sum-mult-below-19.apl",
+    "summary": "مثال 5323 — مجموع مضاعفات 19 تحت ن"
+  },
+  {
+    "number": "5324",
+    "name": "last digit power 19",
+    "file": "5324-last-digit-power-19.apl",
+    "summary": "مثال 5324 — آخر رقم للعدد 19 أس ن"
+  },
+  {
+    "number": "5325",
+    "name": "arith seq 19",
+    "file": "5325-arith-seq-19.apl",
+    "summary": "مثال 5325 — الحد ن في متتالية حسابية فرقها 19"
+  },
+  {
+    "number": "5326",
+    "name": "geo seq 19",
+    "file": "5326-geo-seq-19.apl",
+    "summary": "مثال 5326 — الحد ن في متتالية هندسية أساسها 19"
+  },
+  {
+    "number": "5327",
+    "name": "mod table 19",
+    "file": "5327-mod-table-19.apl",
+    "summary": "مثال 5327 — باقي القسمة على 19 لكل عنصر"
+  },
+  {
+    "number": "5328",
+    "name": "scale list 19",
+    "file": "5328-scale-list-19.apl",
+    "summary": "مثال 5328 — ضرب كل عنصر في 19"
+  },
+  {
+    "number": "5329",
+    "name": "is multiple and even 19",
+    "file": "5329-is-multiple-and-even-19.apl",
+    "summary": "مثال 5329 — قابل للقسمة على 19 وزوجي؟"
+  },
+  {
+    "number": "5330",
+    "name": "nearest multiple 19",
+    "file": "5330-nearest-multiple-19.apl",
+    "summary": "مثال 5330 — أقرب مضاعف للعدد 19"
+  },
+  {
+    "number": "5331",
+    "name": "triple compare 19",
+    "file": "5331-triple-compare-19.apl",
+    "summary": "مثال 5331 — مقارنة العدد مع 19"
+  },
+  {
+    "number": "5332",
+    "name": "cumulative 19",
+    "file": "5332-cumulative-19.apl",
+    "summary": "مثال 5332 — مجموع تراكمي مع زيادة 19"
+  },
+  {
+    "number": "5333",
+    "name": "sum mult below 20",
+    "file": "5333-sum-mult-below-20.apl",
+    "summary": "مثال 5333 — مجموع مضاعفات 20 تحت ن"
+  },
+  {
+    "number": "5334",
+    "name": "last digit power 20",
+    "file": "5334-last-digit-power-20.apl",
+    "summary": "مثال 5334 — آخر رقم للعدد 20 أس ن"
+  },
+  {
+    "number": "5335",
+    "name": "arith seq 20",
+    "file": "5335-arith-seq-20.apl",
+    "summary": "مثال 5335 — الحد ن في متتالية حسابية فرقها 20"
+  },
+  {
+    "number": "5336",
+    "name": "geo seq 20",
+    "file": "5336-geo-seq-20.apl",
+    "summary": "مثال 5336 — الحد ن في متتالية هندسية أساسها 20"
+  },
+  {
+    "number": "5337",
+    "name": "mod table 20",
+    "file": "5337-mod-table-20.apl",
+    "summary": "مثال 5337 — باقي القسمة على 20 لكل عنصر"
+  },
+  {
+    "number": "5338",
+    "name": "scale list 20",
+    "file": "5338-scale-list-20.apl",
+    "summary": "مثال 5338 — ضرب كل عنصر في 20"
+  },
+  {
+    "number": "5339",
+    "name": "is multiple and even 20",
+    "file": "5339-is-multiple-and-even-20.apl",
+    "summary": "مثال 5339 — قابل للقسمة على 20 وزوجي؟"
+  },
+  {
+    "number": "5340",
+    "name": "nearest multiple 20",
+    "file": "5340-nearest-multiple-20.apl",
+    "summary": "مثال 5340 — أقرب مضاعف للعدد 20"
+  },
+  {
+    "number": "5341",
+    "name": "triple compare 20",
+    "file": "5341-triple-compare-20.apl",
+    "summary": "مثال 5341 — مقارنة العدد مع 20"
+  },
+  {
+    "number": "5342",
+    "name": "cumulative 20",
+    "file": "5342-cumulative-20.apl",
+    "summary": "مثال 5342 — مجموع تراكمي مع زيادة 20"
+  },
+  {
+    "number": "5343",
+    "name": "sum mult below 21",
+    "file": "5343-sum-mult-below-21.apl",
+    "summary": "مثال 5343 — مجموع مضاعفات 21 تحت ن"
+  },
+  {
+    "number": "5344",
+    "name": "last digit power 21",
+    "file": "5344-last-digit-power-21.apl",
+    "summary": "مثال 5344 — آخر رقم للعدد 21 أس ن"
   }
 ]
