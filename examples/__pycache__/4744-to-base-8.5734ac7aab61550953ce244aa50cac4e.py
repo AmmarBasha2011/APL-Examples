@@ -1,0 +1,68 @@
+
+# apl-source:1
+# مثال 4744 — تحويل عدد إلى الأساس 8
+# apl-source:2
+# Convert a number to base 8
+# apl-source:3
+# Demonstrates: أرقام وخوارزميات
+# apl-source:4
+#
+# apl-source:5
+# Run:  python apl.py examples/4744-to-base-8.apl
+# apl-source:6
+
+# apl-source:7
+# نقسم على الأساس ونجمع البواقي من الآخر
+# apl-source:8
+# لحد ما يبقى الناتج صفر
+# apl-source:9
+
+# apl-source:10
+def تأكد_يساوي(فعلي, متوقع, اسم):
+  # apl-source:11
+  if فعلي != متوقع:
+    # apl-source:12
+    print("فشل:", اسم)
+    # apl-source:13
+    print("  متوقع:", متوقع)
+    # apl-source:14
+    print("  فعلي:", فعلي)
+    # apl-source:15
+    قياسي_نظام_اخرج(1)
+  # apl-source:16
+  print("ناجح:", اسم)
+# apl-source:17
+
+# apl-source:18
+def ف(ن):
+  # apl-source:19
+  if ن == 0:
+    # apl-source:20
+    return "0"
+  # apl-source:21
+  ر = ""
+  # apl-source:22
+  for ي in range(100):
+    # apl-source:23
+    if ن == 0:
+      # apl-source:24
+      return ر
+    # apl-source:25
+    ر = str(ن % 8) + ر
+    # apl-source:26
+    ن = ن // 8
+  # apl-source:27
+  return ر
+# apl-source:28
+
+# apl-source:29
+تأكد_يساوي(ف(0), "0", "حالة 1")
+# apl-source:30
+تأكد_يساوي(ف(5), "5", "حالة 2")
+# apl-source:31
+تأكد_يساوي(ف(17), "21", "حالة 3")
+# apl-source:32
+تأكد_يساوي(ف(100), "144", "حالة 4")
+# apl-source:33
+تأكد_يساوي(ف(255), "377", "حالة 5")
+# apl-source:34

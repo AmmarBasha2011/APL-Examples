@@ -1,0 +1,45 @@
+name: verify-examples
+
+# Runs every example on each pull request and push to main.
+# The verifier lives in AmmarBasha2011/APL (tools/verify_examples.py).
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  fast:
+    name: all examples (interpreter)
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: AmmarBasha2011/APL
+          path: apl
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: run every example
+        run: python apl/tools/verify_examples.py --dir examples --fast --baseline tools/example_baseline.json
+
+  full:
+    name: all examples (interpreter + playground)
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: AmmarBasha2011/APL
+          path: apl
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: run every example in both modes
+        run: python apl/tools/verify_examples.py --dir examples --baseline tools/example_baseline.json
